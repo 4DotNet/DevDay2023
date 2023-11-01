@@ -236,6 +236,8 @@ print(result)
 
 ## Putting it all together
 
+We create a search client to find the results of the search query. Then we make a prompt for OpenAI to prepare it to give the answers in the way that we want it.
+
 ``` python
 ACS_INDEX_NAME = "hotels"
 
@@ -301,8 +303,7 @@ functions= [
 ]  
 
 response = openai.ChatCompletion.create(
-    #deployment_id="gpt-35-turbo",
-    model="gpt-4",
+    model="gpt-4", # gpt-3.5-turbo
     messages=messages,
     functions=functions,
     function_call="auto", 
@@ -323,7 +324,7 @@ if response_message.get("function_call"):
     function_name = response_message["function_call"]["name"]
 
     available_functions = {
-            "search_hotels": search_hotels,
+        "search_hotels": search_hotels,
     }
     function_to_call = available_functions[function_name] 
 
@@ -356,8 +357,7 @@ if response_message.get("function_call"):
     # Call the API again to get the final response from the model
     second_response = openai.ChatCompletion.create(
         messages = messages,
-        # deployment_id = "gpt-4-0613", #"gpt-35-turbo",
-        model="gpt-4",
+        model="gpt-4", # gpt-3.5-turbo  
     )
     
 
