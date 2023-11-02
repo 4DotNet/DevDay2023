@@ -2,6 +2,13 @@
 
 4DotNet DevDay 2023
 
+## Handige Links
+
+* [Open AI API reference](https://platform.openai.com/docs/api-reference)
+* [OpenAI Cookbook]([https://github.com/openai/openai-cookbook](https://github.com/openai/openai-cookbook "https://github.com/openai/openai-cookbook")
+* [OpenAI pricing](https://openai.com/pricing)
+
+
 ## Datasets
 
 * Q&A content; [StackOverflow](https://archive.org/details/stackexchange)
