@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+site-packages/
+*/Magic Potions/Scripts
+Labs/Magic Potions/pyvenv.cfg

@@ -1,0 +1,1065 @@
+[
+    {
+        "name": "Ageing Potion",
+        "link": "/wiki/Ageing_Potion",
+        "description": "A potion that, depending on the amount taken, ages the drinker to various ages.",
+        "effect": "Aged drinker temporarily",
+        "characteristics": "Green",
+        "difficulty": "Advanced",
+        "ingredients": [
+            "Newt spleens",
+            "Bananas",
+            "An orange snake",
+            "A green leaf"
+        ]
+    },
+    {
+        "name": "Alihotsy Draught",
+        "link": "/wiki/Alihotsy_Draught",
+        "description": "A potion from the Alihotsy plant; causes hysterical laughter.",
+        "effect": "Uncontrollable laughter",
+        "characteristics": "Blue fumes and colour",
+        "ingredients": "Alihotsy"
+    },
+    {
+        "name": "Amortentia",
+        "link": "/wiki/Amortentia",
+        "description": "The world's strongest Love Potion; does not create real love, just powerful obsession.",
+        "effect": "Love potion that caused a powerful infatuation or obsession in the drinker",
+        "characteristics": [
+            "Mother-of-pearl sheen",
+            "Spiralling steam",
+            "Scent was multi-faceted and varied based on what the person liked"
+        ],
+        "difficulty": "Advanced",
+        "ingredients": "Pearl Dust"
+    },
+    {
+        "name": "Angel's Trumpet Draught",
+        "link": "/wiki/Angel%27s_Trumpet_Draught",
+        "description": "Effects and usage of this potion are unknown.",
+        "effect": "Poisonous",
+        "ingredients": "Angel's Trumpet"
+    },
+    {
+        "name": "Anti-Paralysis Potion",
+        "link": "/wiki/Anti-Paralysis_Potion",
+        "description": "A potion that heals paralysis.",
+        "effect": "Cured paralysis",
+        "characteristics": "Pink in colour"
+    },
+    {
+        "name": "Antidote to Common Poisons",
+        "link": "/wiki/Antidote_to_Common_Poisons",
+        "description": "A potion that reverses the effects of common poisons. Contains Bezoar, Mistletoe Berries, and Unicorn Horns.",
+        "effect": "Counteracted the effects of common poisons",
+        "characteristics": "Teal-coloured",
+        "difficulty": "Beginner to Moderate",
+        "ingredients": [
+            "1 Bezoar",
+            "2 measures of Standard Ingredient",
+            "1 pinch of powdered unicorn horn",
+            "2 mistletoe berries"
+        ]
+    },
+    {
+        "name": "Antidote to Uncommon Poisons",
+        "link": "/wiki/Antidote_to_Uncommon_Poisons",
+        "description": "A potion that reverses the effects of uncommon poisons.",
+        "effect": "Cures the effects of minor poisons",
+        "characteristics": "Green in colour",
+        "difficulty": "Moderate",
+        "ingredients": [
+            "Fire Seeds",
+            "Powdered graphorn horn",
+            "Billywig stings",
+            "Chizpurfle carapaces"
+        ]
+    },
+    {
+        "name": "Antidote to Veritaserum",
+        "link": "/wiki/Antidote_to_Veritaserum",
+        "description": "A potion that removes the effects of Veritaserum.",
+        "effect": "Countered the effect of Veritaserum",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "Armadillo Bile Mixture",
+        "link": "/wiki/Armadillo_Bile_Mixture",
+        "description": "Unknown",
+        "characteristics": "Most likely corrosive",
+        "ingredients": [
+            "Bat wings",
+            "Armadillo bile",
+            "Wormwood",
+            "Armotentia",
+            "Acromantula venom",
+            "Aconite",
+            "Water (likely)"
+        ]
+    },
+    {
+        "name": "Babbling Beverage",
+        "link": "/wiki/Babbling_Beverage",
+        "description": "A potion that causes uncontrollable speaking of nonsense.",
+        "effect": "Caused the drinker to speak nonsense",
+        "characteristics": [
+            "Red or yellow in colour",
+            "Smelt like bubblegum"
+        ],
+        "difficulty": "Moderate to Ordinary Wizarding Level",
+        "ingredients": [
+            "Valerian sprigs",
+            "Aconite",
+            "Dittany"
+        ]
+    },
+    {
+        "name": "Baneberry Potion",
+        "link": "/wiki/Baneberry_Potion",
+        "description": "A poisonous brew of unknown exact effect.",
+        "effect": "Poison",
+        "characteristics": "Blood red",
+        "ingredients": "Baneberry"
+    },
+    {
+        "name": "Baruffio's Brain Elixir",
+        "link": "/wiki/Baruffio%27s_Brain_Elixir",
+        "description": "A potion that apparently increases the taker's brain power.",
+        "effect": "Allegedly increases one's brain power",
+        "side-effects": "Possibly harmful mental side effects if brewed incorrectly",
+        "characteristics": "Green in colour",
+        "time": "Twelve hours",
+        "ingredients": [
+            "Leaping Toadstools",
+            "Frog brains",
+            "Runespoor eggs",
+            "Powdered dragon claw"
+        ],
+        "inventor": "Baruffio"
+    },
+    {
+        "name": "Beautification Potion",
+        "link": "/wiki/Beautification_Potion",
+        "description": "A potion that makes the taker very beautiful.",
+        "effect": "Enhances the attractiveness of the drinker's physical appearance",
+        "characteristics": [
+            "Changes colour",
+            "Emits multi-colour bubbles"
+        ],
+        "difficulty": "Moderate",
+        "ingredients": [
+            "Fairy wings",
+            "Morning dew",
+            "Rose Petals",
+            "Lady's Mantle",
+            "Unicorn hair",
+            "Ginger roots",
+            "Boomslang skin"
+        ],
+        "inventor": [
+            "Zygmunt Budge",
+            "Sacharissa Tugwood"
+        ]
+    },
+    {
+        "name": "Befuddlement Draught",
+        "link": "/wiki/Befuddlement_Draught",
+        "description": "A potion that makes the taker confused and reckless.",
+        "effect": "Recklessness",
+        "characteristics": "Dark green or red in colour",
+        "difficulty": "Ordinary Wizarding Level",
+        "ingredients": [
+            "Scurvy grass",
+            "Lovage",
+            "Sneezewort",
+            "Frog brains"
+        ]
+    },
+    {
+        "name": "Beguiling Bubbles",
+        "link": "/wiki/First_Love_Beguiling_Bubbles",
+        "description": "A Love Potion sold at Weasleys' Wizard Wheezes.",
+        "effect": "Causes the drinker to become infatuated with the giver of the potion",
+        "characteristics": "Red in colour",
+        "ingredients": "Pearl Dust",
+        "inventor": "Fred and George Weasley"
+    },
+    {
+        "name": "Black Fire Potion",
+        "link": "/wiki/Fire_Protection_Potion",
+        "description": "A potion that makes the taker able to move through black fire uninjured.",
+        "effect": "Protects drinker from fire",
+        "side-effects": "Sensation of ice flooding body",
+        "characteristics": "Blue in colour",
+        "difficulty": "Beginner",
+        "ingredients": [
+            "Bursting mushrooms",
+            "Salamander blood",
+            "Wartcap powder"
+        ],
+        "recipe": [
+            "Slice bursting mushrooms with knife, add to cauldron and stir clockwise until potion turns blue.",
+            "Add salamander blood to cauldron, stir anti-clockwise until potion turns green.",
+            "Crush Wartcap powder in pestle, add to cauldron and stir clockwise until potion turns red.[3]"
+        ]
+    },
+    {
+        "name": "Blemish Blitzer",
+        "link": "/wiki/Tolipan_Blemish_Blitzer",
+        "description": "A potion that most likely gets rid of acne.",
+        "effect": "Treats acne",
+        "characteristics": [
+            "White in colour",
+            "Thick paste consistency"
+        ],
+        "ingredients": "Dragon claw"
+    },
+    {
+        "name": "Blood-Replenishing Potion",
+        "link": "/wiki/Blood-Replenishing_Potion",
+        "description": "A potion that replenishes the taker's blood if they have been injured and lost blood.",
+        "effect": "Replenished lost blood",
+        "characteristics": "Dark red in colour",
+        "ingredients": [
+            "Standard potioning water",
+            "Powdered unicorn horn",
+            "Stewed Mandrake"
+        ]
+    },
+    {
+        "name": "Bloodroot Poison",
+        "link": "/wiki/Bloodroot_Poison",
+        "description": "A poisonous potion.",
+        "effect": "Poisonous",
+        "ingredients": "Bloodroot"
+    },
+    {
+        "name": "Bruise removal paste",
+        "link": "/wiki/Bruise_removal_paste",
+        "description": "A paste invented by Fred and George Weasley to remove bruises.",
+        "effect": "Healed bruises in an hour",
+        "characteristics": "Thick, yellow paste",
+        "inventor": "Fred and George Weasley",
+        "manufacturer": "Fred and George Weasley"
+    },
+    {
+        "name": "Bulgeye Potion",
+        "link": "/wiki/Bulgeye_Potion",
+        "description": "Presumed to make the taker's eyes swell.",
+        "effect": "Causes eyes to bulge (presumably)",
+        "characteristics": "Emerald green in colour"
+    },
+    {
+        "name": "Bundimun Pomade",
+        "link": "/wiki/Bundimun_Pomade",
+        "description": "A potion that is presumably a hair pomade containing Bundimun secretion.",
+        "effect": "Hair care",
+        "ingredients": "Bundimun Secretion (most likely)",
+        "manufacturer": "E. M. L. Potions Co."
+    },
+    {
+        "name": "Bundimun Secretion",
+        "link": "/wiki/Bundimun_Secretion",
+        "description": "A magical substance that, when diluted, is known to be used in some magical cleaning products.",
+        "madefrom": "Bundimuns",
+        "alias": "Bundimun Ooze",
+        "properties": [
+            "Highly acidic",
+            "Can rot through building structure"
+        ],
+        "characteristics": [
+            "Lime green in colour",
+            "Emits vapours"
+        ],
+        "preparation": "Diluted",
+        "usage": [
+            "Doxycide",
+            "Cleaning products"
+        ]
+    },
+    {
+        "name": "Burn-Healing Paste",
+        "link": "/wiki/Burn-Healing_Paste",
+        "description": "A thick paste used to heal burns.",
+        "effect": "Healed burns",
+        "characteristics": [
+            "Orange in colour",
+            "Thick consistency"
+        ]
+    },
+    {
+        "name": "Burning Bitterroot Balm",
+        "link": "/wiki/Burning_Bitterroot_Balm",
+        "description": "Presumably a soothing balsam made from the Bitterroot plant.",
+        "effect": "Soothing",
+        "characteristics": "Blue-coloured",
+        "ingredients": "Bitter root"
+    },
+    {
+        "name": "Draught of Living Death",
+        "link": "/wiki/Draught_of_Living_Death",
+        "description": "A potion that places the taker in a state of sleep that makes them seem like they are dead.",
+        "effect": "Caused the drinker to fall into a deep, death-like slumber",
+        "characteristics": "Turned pale lilac colour then clear",
+        "difficulty": "Advanced",
+        "ingredients": [
+            "Standard potioning water",
+            "Powdered Root of Asphodel",
+            "Infusion of Wormwood",
+            "Valerian root",
+            "A Sopophorous bean",
+            "A Sloth brain",
+            "Moondew",
+            "Flower head"
+        ]
+    },
+    {
+        "name": "Draught of Peace",
+        "link": "/wiki/Draught_of_Peace",
+        "description": "A potion that relieves anxiety.",
+        "effect": "Relieved anxiety",
+        "side-effects": "Overdoing the ingredients may have resulted in a long or irreversible sleep",
+        "characteristics": "Emitted light silver vapour",
+        "time": "90 minutes",
+        "difficulty": "Advanced",
+        "ingredients": [
+            "Powdered moonstone",
+            "Syrup of Hellebore",
+            "Stewed Mandrake",
+            "Powdered Unicorn horn",
+            "Powdered Porcupine quills"
+        ],
+        "recipe": [
+            "Add powdered moonstone until the potion turns green.",
+            "Stir until the potion turns blue.",
+            "Add powdered moonstone until the potion turns purple.",
+            "Allow to simmer until the potion turns pink.",
+            "Add syrup of hellebore until the potion turns turquoise.",
+            "Allow to simmer until the potion turns purple.",
+            "Shake stewed mandrake vigorously until they are ready and then add until the potion turns red.",
+            "Stir until the potion turns orange.",
+            "Add more stewed mandrake until the potion turns yellow.",
+            "Stir until the potion turns green.",
+            "Add more stewed mandrake until the potion turns turquoise.",
+            "Allow to simmer till the potion turns purple.",
+            "Add powdered unicorn horn until the potion turns pink.",
+            "Stir until the potion turns red.",
+            "Allow to simmer until the potion turns purple.",
+            "Add more powdered moonstone until the potion turns pink.",
+            "Allow the potion to simmer until it turns orange.",
+            "Add powdered porcupine quills until the potion turns white. (Add exactly 7 drops)[5]"
+        ]
+    },
+    {
+        "name": "Dreamless Sleep Potion",
+        "link": "/wiki/Potion_for_Dreamless_Sleep",
+        "description": "A potion that places the taker in a sleep that is dreamless.",
+        "effect": "Drowsiness, dreamless sleep",
+        "characteristics": "Purple in colour",
+        "difficulty": "Advanced",
+        "ingredients": [
+            "Wormwood",
+            "Lavender"
+        ]
+    },
+    {
+        "name": "Drink of Despair",
+        "link": "/wiki/Emerald_Potion",
+        "description": "A potion that puts the taker in extreme pain.",
+        "effect": "Induced fear, delirium, intense stomach pain and extreme thirst in the drinker",
+        "characteristics": [
+            "Emerald green in colour",
+            "Glows phosphorescently"
+        ],
+        "inventor": "Lord Voldemort (quite possibly)",
+        "manufacturer": "Lord Voldemort (quite possibly)"
+    },
+    {
+        "name": "Drowsiness Draught",
+        "link": "/wiki/Drowsiness_Draught",
+        "description": "Makes drinker drowsy",
+        "effect": "Induces drowsiness",
+        "characteristics": "Produces light purple steam"
+    },
+    {
+        "name": "Edurus Potion",
+        "link": "/wiki/Edurus_Potion",
+        "description": "A potion that made a rocky film develop on the drinkers's skin, increasing their defence and helping to protect them from injury.",
+        "effect": "Gave the drinker rocky skin",
+        "characteristics": "Gold in colour",
+        "ingredients": [
+            "1 batch of Ashwinder eggs",
+            "1 piece of mongrel fur"
+        ]
+    },
+    {
+        "name": "Elixir 7",
+        "link": "/wiki/Elixir_7",
+        "description": "Contains 25\u00a0% alcohol, label warns nit to use more than 5 drops at once. Unknown use",
+        "side-effects": "Unknown side effects from more than five drops",
+        "characteristics": "Deep brown in colour",
+        "ingredients": "Alcohol"
+    },
+    {
+        "name": "Elixir of Life",
+        "link": "/wiki/Elixir_of_Life",
+        "description": "A potion created from the Philosopher's Stone that extend the taker's life.",
+        "effect": "Immortality",
+        "side-effects": "Drinker became dependent upon advanced age",
+        "inventor": "Nicolas Flamel (by inventing the Philosopher's Stone)",
+        "manufacturer": "The Philosopher's Stone"
+    },
+    {
+        "name": "Elixir to Induce Euphoria",
+        "link": "/wiki/Elixir_to_Induce_Euphoria",
+        "description": "A potion that induces a sense of inexplicable, irrational happiness upon the drinker.",
+        "effect": "Induces happiness",
+        "side-effects": [
+            "Excessive singing",
+            "Nose-tweaking"
+        ],
+        "characteristics": [
+            "Sunshine yellow in colour",
+            "Emits rainbow when finished"
+        ],
+        "difficulty": "Advanced",
+        "ingredients": [
+            "Shrivelfig",
+            "Porcupine quills",
+            "Peppermint sprigs",
+            "Sopophorous beans",
+            "Wormwood"
+        ]
+    },
+    {
+        "name": "Emerald Potion",
+        "link": "/wiki/Emerald_Potion",
+        "description": "A potion that protects powerfully magic objects, such as horcruxes. It cannot be touched, magically vanished or emptied or changed. When drunk it causes severe pain, the guts feel like burning, the drinker will remember his or her most awful experiences, and finally, causes extreme thirst.",
+        "effect": "Induced fear, delirium, intense stomach pain and extreme thirst in the drinker",
+        "characteristics": [
+            "Emerald green in colour",
+            "Glows phosphorescently"
+        ],
+        "inventor": "Lord Voldemort (quite possibly)",
+        "manufacturer": "Lord Voldemort (quite possibly)"
+    },
+    {
+        "name": "Erumpent Potion",
+        "link": "/wiki/Erumpent_Potion",
+        "description": "A potion that is highly explosive when it touches or is touched by an outside source.",
+        "effect": "Explodes when touched",
+        "characteristics": "Green or orange in colour",
+        "difficulty": "Ordinary Wizarding Level",
+        "ingredients": [
+            "Erumpent horn (presumably)",
+            "Erumpent tail (presumably)",
+            "Exploding Fluid (presumably)"
+        ]
+    },
+    {
+        "name": "Everklena",
+        "link": "/wiki/Everklena",
+        "description": "A supposed cleaning product that in reality caused grime to spawn.",
+        "effect": "Supposedly cleaned, but actually spawned mould and grime",
+        "inventor": "Erica Stainwright",
+        "manufacturer": "Erica Stainwright"
+    },
+    {
+        "name": "Essence of Insanity",
+        "link": "/wiki/Essence_of_Insanity",
+        "description": "A potion which presumably causes irrational behaviour, possibly inflicting the condition of insanity.",
+        "effect": "Mental instability",
+        "characteristics": "Green in colour",
+        "difficulty": "Advanced",
+        "ingredients": [
+            "Frog brains",
+            "Beetle Eyes"
+        ]
+    },
+    {
+        "name": "Everlasting Elixirs",
+        "link": "/wiki/Everlasting_Elixirs",
+        "description": "A potion with the effect to either never run out of potion or to work forever.",
+        "effect": "Permanent magical effects",
+        "characteristics": "Blue in colour",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "Exploding Potion",
+        "link": "/wiki/Exploding_Potion",
+        "description": "A very volatile potion, and when completed, can be used to create explosions.",
+        "effect": "Volatile mixture",
+        "characteristics": "Acid-green or blue in colour",
+        "ingredients": [
+            "An ice pop",
+            "A red spider",
+            "Flowers"
+        ]
+    },
+    {
+        "name": "Exstimulo Potion",
+        "link": "/wiki/Exstimulo_Potion",
+        "description": "Boosts the spell power of the drinker.",
+        "effect": "Increased the spell power of a single spell cast",
+        "characteristics": "Sky blue in colour",
+        "time": "Two hours",
+        "difficulty": "Beginner",
+        "ingredients": [
+            "Re'em blood",
+            "Granian hair",
+            "Snowdrop",
+            "Bitter root"
+        ]
+    },
+    {
+        "name": "Fake Protective Potions",
+        "link": "/wiki/Fake_protective_potions",
+        "description": "A potion that claimed to protect the taker from Dark magic, but did not.",
+        "effect": "Supposedly protect the drinker from the effects of dark magic (likely useless)",
+        "side-effects": "Likely harmful side effects",
+        "characteristics": "Fraudulent solutions",
+        "ingredients": [
+            "Bubotuber Pus",
+            "Gravy"
+        ]
+    },
+    {
+        "name": "Fatiguing Infusion",
+        "link": "/wiki/Fatiguing_Fusion",
+        "description": "A potion that, when either drank or inhaled, caused fatigue.",
+        "effect": "Causes fatigue",
+        "characteristics": "Green-coloured smoke"
+    },
+    {
+        "name": "Felix Felicis",
+        "link": "/wiki/Felix_Felicis",
+        "description": "A magical potion that makes the taker successful in all their endeavours.",
+        "effect": "Makes the drinker lucky",
+        "side-effects": [
+            "Giddiness and recklessness with overuse",
+            "Extremely toxic in large quantities",
+            "Highly disastrous if brewed incorrectly"
+        ],
+        "characteristics": [
+            "Molten gold in colour",
+            "Droplets leap like goldfish above potion's surface when in cauldron"
+        ],
+        "time": "Six months",
+        "difficulty": "Advanced",
+        "ingredients": [
+            "Ashwinder egg",
+            "Squill bulb",
+            "Murtlap tentacles",
+            "Tincture of thyme",
+            "Occamy eggshell",
+            "Powdered common rue"
+        ],
+        "inventor": "Zygmunt Budge",
+        "recipe": [
+            "Add Ashwinder egg to a cauldron, then add horseradish and heat.",
+            "Juice a squill bulb, add to the cauldron and stir vigorously.",
+            "Chop up anemone-like growth on the back of Murtlap, add to mixture and heat.",
+            "Add a dash of tincture of thyme and stir slowly.",
+            "Grind up Occamy eggshell and add to mixture.",
+            "Stir slowly then heat the cauldron.",
+            "Add a sprinkle of powdered common rue.",
+            "Stir vigorously then heat the cauldron one last time.",
+            "Wave wand over potion in a figure of eight and say incantation 'Felixempra!'[2]"
+        ]
+    },
+    {
+        "name": "Fergus Fungal Budge",
+        "link": "/wiki/Fergus_Fungal_Budge",
+        "description": "A fungicidal product that treated ringworm infections on the feet.",
+        "effect": "Treats ringworm, fungicide",
+        "side-effects": "Potential negative side effects if used by elves",
+        "ingredients": [
+            "Onion juice",
+            "Jewelweed",
+            "Neem oil"
+        ]
+    },
+    {
+        "name": "Fire-Breathing Potion",
+        "link": "/wiki/Fire-Breathing_Potion",
+        "description": "was a dangerous potion that could make a person breathe fire",
+        "effect": "Makes a human breath fire",
+        "side-effects": "Can burn skin",
+        "characteristics": "Fiery orange in colour",
+        "ingredients": [
+            "Mint",
+            "Valerian Sprigs",
+            "Fire Seeds",
+            "Powdered dragon horn",
+            "Lavender"
+        ]
+    },
+    {
+        "name": "Fire Protection Potion",
+        "link": "/wiki/Fire_Protection_Potion",
+        "description": "A potion that protects the taker from being burnt.",
+        "effect": "Protects drinker from fire",
+        "side-effects": "Sensation of ice flooding body",
+        "characteristics": "Blue in colour",
+        "difficulty": "Beginner",
+        "ingredients": [
+            "Bursting mushrooms",
+            "Salamander blood",
+            "Wartcap powder"
+        ],
+        "recipe": [
+            "Slice bursting mushrooms with knife, add to cauldron and stir clockwise until potion turns blue.",
+            "Add salamander blood to cauldron, stir anti-clockwise until potion turns green.",
+            "Crush Wartcap powder in pestle, add to cauldron and stir clockwise until potion turns red.[3]"
+        ]
+    },
+    {
+        "name": "Flesh-Eating Slug Repellent",
+        "link": "/wiki/Flesh-Eating_Slug_Repellent",
+        "description": "A pesticide that repels flesh-eating slugs.",
+        "effect": "Repels Flesh-Eating Slugs",
+        "characteristics": "Water-clear in colour"
+    },
+    {
+        "name": "Forgetfulness Potion",
+        "link": "/wiki/Forgetfulness_Potion",
+        "description": "A potion that makes the taker forgetful.",
+        "effect": "Memory loss",
+        "characteristics": "Orange in colour",
+        "difficulty": "Beginner",
+        "ingredients": [
+            "2 drops of Lethe River Water",
+            "2 Valerian sprigs",
+            "2 measures of Standard Ingredient",
+            "4 mistletoe berries"
+        ]
+    },
+    {
+        "name": "Frog Parts Mixture",
+        "link": "/wiki/Frog_Parts_Mixture",
+        "description": "A packet of potion ingredients that most likely contained frog parts.",
+        "ingredients": "Frog parts"
+    },
+    {
+        "name": "Fungiface Potion",
+        "link": "/wiki/Fungiface_Potion",
+        "description": "A potion that makes the taker's face break out in fungi.",
+        "effect": "Causes the drinker's face to break out in fungi",
+        "characteristics": "Red in colour",
+        "ingredients": "Fungi (presumably)"
+    },
+    {
+        "name": "Hair-Raising Potion",
+        "link": "/wiki/Hair-Raising_Potion",
+        "description": "A potion that causes the taker's hair to stand on end.",
+        "effect": "Raises hair up on end",
+        "characteristics": "Green in colour",
+        "difficulty": "Beginner to Ordinary Wizarding Level",
+        "ingredients": [
+            "Rat tails",
+            "Porcupine quills",
+            "Billywig stings"
+        ]
+    },
+    {
+        "name": "Hate Potion",
+        "link": "/wiki/Hate_Potion",
+        "description": "A potion that shows the taker's worst traits and habits.",
+        "effect": "Revealed the worst traits of a person to the drinker"
+    },
+    {
+        "name": "Healing Potion",
+        "link": "/wiki/Healing_Potion",
+        "description": "A potion which heals the drinker, it replenishes any lost health or stamina",
+        "effect": "Healing, replenishes lost health and stamina to the drinker",
+        "characteristics": "Blood red in colour",
+        "time": "Two hours",
+        "difficulty": "Beginner",
+        "ingredients": [
+            "Wormwood",
+            "Bubotuber pus",
+            "Dittany",
+            "Dragon liver",
+            "Unicorn tail hair"
+        ]
+    },
+    {
+        "name": "Heartbreak Teardrops",
+        "link": "/wiki/Heartbreak_Teardrops",
+        "description": "A potion sold by Fred and George Weasley at Weasleys' Wizard Wheezes.",
+        "effect": "Causes the drinker to become infatuated with the giver of the potion",
+        "characteristics": "Red in colour",
+        "ingredients": "Pearl Dust",
+        "inventor": "Fred and George Weasley"
+    },
+    {
+        "name": "Herbicide Potion",
+        "link": "/wiki/Herbicide_Potion",
+        "description": "A potion that either kills or damages plants. Contains Flobberworm mucus, Horclump juice, and Spines of lionfish.",
+        "effect": "Killed or damaged plants",
+        "characteristics": [
+            "Green in colour",
+            "Disgusting taste"
+        ],
+        "difficulty": "Beginner to advanced",
+        "ingredients": [
+            "Flobberworm Mucus",
+            "Horklump juice",
+            "Lionfish spines",
+            "Standard Ingredient"
+        ]
+    },
+    {
+        "name": "Hiccoughing Solution",
+        "link": "/wiki/Hiccoughing_Solution",
+        "description": "A potion that most likely cures hiccups.",
+        "effect": "Presumably causes hiccoughs",
+        "characteristics": "Yellow in colour"
+    },
+    {
+        "name": "Laugh-inducing Potion",
+        "link": "/wiki/Laugh-inducing_Potion",
+        "description": "A potion that makes the taker laugh uncontrollably.",
+        "effect": "Provoked uncontrollable laughter",
+        "characteristics": "Red-coloured when finished"
+    },
+    {
+        "name": "Laxative Potion",
+        "link": "/wiki/Laxative_Potion",
+        "description": "A potion that is most likely a laxative.",
+        "effect": "Laxative",
+        "ingredients": [
+            "Two scrumples of an unknown ingredient",
+            "An ingredient used in a furnace",
+            "Agrimonia"
+        ]
+    },
+    {
+        "name": "Love Potion",
+        "link": "/wiki/Love_Potion",
+        "description": "Any of a large number of potions that make the taker fall in love with the person that has given it to them.",
+        "effect": "Infatuation with whoever offered the potion",
+        "side-effects": "Embarrassment on the part of the drinker",
+        "characteristics": "Pink in colour",
+        "difficulty": "Advanced",
+        "ingredients": [
+            "Ashwinder eggs",
+            "Rose thorns",
+            "Peppermint",
+            "Powdered Moonstone",
+            "Pearl Dust",
+            "Rose Petals"
+        ],
+        "inventor": [
+            "Laverne de Montmorency",
+            "Fred Weasley",
+            "George Weasley"
+        ]
+    },
+    {
+        "name": "Love Potion Antidote",
+        "link": "/wiki/Love_Potion_Antidote",
+        "description": "Antidote to love potions.",
+        "effect": "Served as an antidote for love potions",
+        "characteristics": "Clear, colourless",
+        "ingredients": [
+            "Liquorice roots",
+            "Castor oil",
+            "Extract of Gurdyroot"
+        ],
+        "recipe": [
+            "Add four bundles of liquorice root, or until the potion turns green.",
+            "Stir until the potion turns orange.",
+            "Add castor oil until the potion turns blue.",
+            "Stir until the potion turns purple.",
+            "Add extract of Gurdyroot until the potion turns red.",
+            "Add one liquorice root bundle.",
+            "Add Extract of Gurdyroot until the potion turns purple.",
+            "Leave the potion to simmer till it turns red.",
+            "Add more gurdyroot extract till it turns green.",
+            "Stir till it turns orange.",
+            "Add seven liquorice root bundles.",
+            "Allow to simmer till it turns pink.[3]"
+        ]
+    },
+    {
+        "name": "Madame Glossy's Silver Polish",
+        "link": "/wiki/Madame_Glossy%27s_Silver_Polish",
+        "description": "A magical cleaning solution.",
+        "effect": "Polished silver objects",
+        "manufacturer": "Madame Glossy's Finest Cleaning Products Ltd."
+    },
+    {
+        "name": "Malevolent Mixture",
+        "link": "/wiki/Malevolent_Mixture",
+        "description": "A potion that is most likely a poison or produces other bad effects.",
+        "effect": "Poison or other foul effects (most likely)",
+        "characteristics": "Purple in colour"
+    },
+    {
+        "name": "Mandrake Restorative Draught",
+        "link": "/wiki/Mandrake_Restorative_Draught",
+        "description": "A potion made from Mandrakes that restores a person that has been petrified to their original state.",
+        "effect": "Returned transfigured or cursed individuals to their original state",
+        "characteristics": "Green in colour",
+        "difficulty": "Advanced",
+        "ingredients": "Stewed Mandrake"
+    },
+    {
+        "name": "Manegro Potion",
+        "link": "/wiki/Manegro_Potion",
+        "description": "Causes hair on drinker's head to grow out rapidly",
+        "effect": "Rapid hair growth"
+    },
+    {
+        "name": "Maximum Turbo Farts Potion",
+        "link": "/wiki/Maximum_Turbo_Farts_Potion",
+        "description": "resumably causes the drinker to rapidly develop flatulence",
+        "effect": "Excessive flatulence"
+    },
+    {
+        "name": "Memory Potion",
+        "link": "/wiki/Memory_Potion",
+        "description": "Enhances the drinker's memory",
+        "effect": "Enhanced the drinker's memory",
+        "characteristics": "Golden in colour",
+        "time": "Two minutes and fifteen seconds",
+        "difficulty": "Advanced",
+        "ingredients": [
+            "Jobberknoll feathers",
+            "Stewed Mandrake",
+            "Powdered Sage",
+            "Galanthus Nivalis",
+            "Alihotsy",
+            "Peppermint",
+            "Eel eyes"
+        ]
+    },
+    {
+        "name": "Moonseed Poison",
+        "link": "/wiki/Moonseed_Poison",
+        "description": "A poison made with moonseed",
+        "effect": "Poisonous",
+        "characteristics": "Silver in colour",
+        "ingredients": "Moonseed"
+    },
+    {
+        "name": "Mopsus Potion",
+        "link": "/wiki/Mopsus_Potion",
+        "description": "presumably gives one Seer-like power",
+        "effect": [
+            "Gives seer-like powers (possibly)",
+            "Gives telekinetic powers (possibly)"
+        ]
+    },
+    {
+        "name": "Mouth Itching Antidote",
+        "link": "/wiki/Mouth_Itching_Antidote",
+        "description": "Cures Mouth Itching (possibly)",
+        "effect": "Cured mouth itching",
+        "characteristics": "Pale green in colour"
+    },
+    {
+        "name": "Muffling Draught",
+        "link": "/wiki/Muffling_Draught",
+        "description": "A potion most likely used to silence people and/or various objects",
+        "effect": "Prevented inhaler from speaking",
+        "characteristics": "Produced blue-coloured fumes"
+    },
+    {
+        "name": "Mrs Scower's All-Purpose Magical Mess Remover",
+        "link": "/wiki/Mrs_Scower%27s_All-Purpose_Magical_Mess_Remover",
+        "description": "Removes stains",
+        "effect": "Cleans stains",
+        "characteristics": "Strong acrid odour",
+        "inventor": "Mrs Skower (presumably) (after 1492)"
+    },
+    {
+        "name": "Murtlap Essence",
+        "link": "/wiki/Murtlap_Essence",
+        "description": "Soothes and heals painful cuts and abrasions",
+        "effect": "Soothes and heals cuts and abrasions",
+        "characteristics": "Blue in colour",
+        "ingredients": "Murtlap tentacles"
+    },
+    {
+        "name": "Pepperup Elixir",
+        "link": "/wiki/Pepperup_Elixir",
+        "description": "Contains 46\u00a0% alcohol, dosage should not exceed 7/21 drops per potion. Perhaps related to Pepperup Potion",
+        "side-effects": "Possible negative side-effects from more than 7\\21 drops per potion",
+        "ingredients": "46% Alcohol"
+    },
+    {
+        "name": "Pepperup Potion",
+        "link": "/wiki/Pepperup_Potion",
+        "description": "Relieves and/or cures cold symptoms.",
+        "effect": [
+            "Cured common cold",
+            "Warmed up recipient"
+        ],
+        "side-effects": "Steam emitted from drinker's ears",
+        "characteristics": "Red in colour",
+        "difficulty": "Moderate",
+        "ingredients": [
+            "Bicorn horn",
+            "Mandrake root",
+            "Jewelweed"
+        ],
+        "inventor": "Glover Hipworth"
+    },
+    {
+        "name": "Poison Antidote",
+        "link": "/wiki/Antidote",
+        "description": ""
+    },
+    {
+        "name": "Polyjuice Potion",
+        "link": "/wiki/Polyjuice_Potion",
+        "description": "Temporarily transforms the drinker into another person. The drinker will take on the appearance of the person whose hair, fingernails, etc., are added to the potion. Not to be used for transforming into an animal.",
+        "effect": "Allowed a human drinker to temporarily assume the form of another person",
+        "side-effects": "Attempts to transform into animals or part-humans would not reverse automatically",
+        "characteristics": [
+            "Thick and mud-like",
+            "Bubbles slowly"
+        ],
+        "time": "One month",
+        "difficulty": "Advanced",
+        "ingredients": [
+            "Lacewing flies (stewed for 21 days)",
+            "Leeches",
+            "Powdered bicorn horn",
+            "Knotgrass",
+            "Fluxweed (picked at full moon)",
+            "Shredded boomslang skin",
+            "A bit of the person one wanted to turn into (typically hair)"
+        ]
+    },
+    {
+        "name": "Pomfrey's Pick-Me-Up",
+        "link": "/wiki/Pomfrey%27s_Pick-Me-Up",
+        "description": "Kind of tonic, cures minor physical damages",
+        "effect": "A restorative, tonic or bracer",
+        "characteristics": "Emerald-green colour",
+        "inventor": "Poppy Pomfrey (most likely)"
+    },
+    {
+        "name": "Pompion Potion",
+        "link": "/wiki/Pompion_Potion",
+        "description": "Temporarily turns the drinker's head into a pumpkin",
+        "effect": "Turns the drinker's head into a pumpkin",
+        "characteristics": "Orange-coloured",
+        "difficulty": "Beginner",
+        "ingredients": [
+            "Flitterby Moth",
+            "Bouncing Bulb",
+            "Foxglove"
+        ]
+    },
+    {
+        "name": "Potion N. 220",
+        "link": "/wiki/Potion_N._220",
+        "description": ""
+    },
+    {
+        "name": "Potion No. 07",
+        "link": "/wiki/Potion_N._07",
+        "description": "Experimental mix",
+        "effect": "Poisonous",
+        "characteristics": "Experimental mixture (possibly)",
+        "ingredients": [
+            "Powdered Lionfish",
+            "Essence of Venomous Tentacula"
+        ]
+    },
+    {
+        "name": "Potion No. 113",
+        "link": "/wiki/Potion_No._113",
+        "description": "Most likely an experimental mix",
+        "effect": "Extremely Poisonous",
+        "characteristics": [
+            "Experimental mixture (possibly)",
+            "Brown in colour"
+        ],
+        "ingredients": [
+            "Jobberknoll feathers",
+            "Syrup of Arnica"
+        ]
+    },
+    {
+        "name": "Potion No. 86",
+        "link": "/wiki/Potion_No._86",
+        "description": "Highly poisonous",
+        "effect": "Poisonous",
+        "characteristics": "Black in colour",
+        "ingredients": [
+            "Powdered moonstone",
+            "Syrup of Hellebore"
+        ]
+    },
+    {
+        "name": "Potion No. 329",
+        "link": "/wiki/Potion_No._329",
+        "description": "",
+        "manufacturer": "Hogwarts Apothecary Department"
+    },
+    {
+        "name": "Twilight Moonbeams",
+        "link": "/wiki/Twilight_Moonbeams",
+        "description": "Causes the drinker to become infatuated with the giver of the potion",
+        "effect": "Causes the drinker to become infatuated with the giver of the potion",
+        "characteristics": "Red in colour",
+        "ingredients": "Pearl Dust",
+        "inventor": "Fred and George Weasley"
+    },
+    {
+        "name": "Veritaserum",
+        "link": "/wiki/Veritaserum",
+        "description": "Forces the taker to tell the truth.",
+        "effect": "Forced drinker to speak the truth",
+        "characteristics": "Clear and odourless like water",
+        "time": "One lunar phase (about 28 days)",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "Vitamix Potion",
+        "link": "/wiki/Vitamix_Potion",
+        "description": "Gives energy to the drinker",
+        "effect": "Burst of energy",
+        "side-effects": "Unfortunate but unknown",
+        "characteristics": "Blue in colour",
+        "difficulty": "Beginner",
+        "ingredients": [
+            "Infusion of Wormwood",
+            "Powdered Root of Asphodel",
+            "Monkshood"
+        ]
+    },
+    {
+        "name": "Volubilis Potion",
+        "link": "/wiki/Volubilis_Potion",
+        "description": "Alters the drinker's voice",
+        "effect": "Altered the drinker's voice",
+        "characteristics": "Yellow-coloured when finished",
+        "difficulty": "Beginner",
+        "ingredients": [
+            "Honeywater",
+            "Mint sprigs",
+            "Stewed Mandrake",
+            "Syrup of Hellebore"
+        ],
+        "recipe": [
+            "Heat mixture until potion turns red.",
+            "Heat mixture until potion turns green.",
+            "Add Honeywater until potion turns pink.",
+            "Heat mixture until potion turns orange.",
+            "Add mint sprigs until potion turns green.",
+            "Heat mixture until potion turns blue.",
+            "Add mint sprigs until potion turns pink.",
+            "Add Stewed Mandrake until potion turns orange.",
+            "Add Syrup of Hellebore until potion turns turquoise.",
+            "Heat mixture until potion turns red.",
+            "Heat mixture until potion turns yellow.[1]"
+        ]
+    }
+]
