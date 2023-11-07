@@ -1,0 +1,3476 @@
+[
+    {
+        "name": "Abraxan hair",
+        "link": "/wiki/Abraxan_hair",
+        "description": "The hair of an Abraxan, used in Strong Exstimulo Potion.",
+        "fullDescription": "",
+        "madefrom": "Abraxan",
+        "characteristics": "White in colour",
+        "usage": "potion-making"
+    },
+    {
+        "name": "Aconite",
+        "link": "/wiki/Aconite",
+        "description": "(Wolfsbane or Monkshhod)  Used in the Wolfsbane Potion and the Wideye Potion.",
+        "fullDescription": "Aconite (also known as monkshood or wolfsbane) was a mundane plant with magical properties. Its flowers were useful in Potion-making, but its leaves were very toxic. The root of aconite could be used as a potion ingredient. Aconite was most commonly known as an ingredient of Wolfsbane Potion, but it was also an ingredient in Wideye Potion.",
+        "alias": [
+            "Monkshood",
+            "Wolfsbane"
+        ],
+        "sentience": "Non-sentient",
+        "stem": "Green in colour",
+        "leaves": "Dark green",
+        "flowers": "Purple",
+        "distinction": "Poisonous",
+        "usage": [
+            "Flowers used in Potion-making",
+            "Herbology"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Acromantula venom",
+        "link": "/wiki/Acromantula_venom",
+        "description": "Venom of the Acromantula spider: because of its rarity, it can sell for about one hundred Galleons a pint, and is an ingredient in the Armadillo Bile Mixture.",
+        "fullDescription": "Acromantula venom was a highly valuable fluid that was secreted from the pincers of an Acromantula. A phial of Acromantula venom Due to the violent and carnivorous nature of the Acromantula, the venom was virtually impossible to collect from a live specimen. The venom was therefore easier to collect after the recent death of the creature, for by then the venom would not have completely dried out compared to how it would be long after the demise, so a wizard or witch had to be swift in collecting it. Another problem was the Acromantula's cannibalism, making fresh corpses extremely hard to come by. Because of the rarity of the venom, it may have fetched up to a hundred Galleons a pint on the open market. The venom was used in potion-making, and was a known ingredient of the Armadillo Bile Mixture and the Potion of Invisibility. Acromantula Venom itself was not very potent in small doses.",
+        "madefrom": "Acromantulas",
+        "properties": "Venomous",
+        "characteristics": "Green or black in colour",
+        "preparation": "Extracted from pincers",
+        "usage": [
+            "Armadillo Bile Mixture",
+            "Potion of Invisibility"
+        ]
+    },
+    {
+        "name": "Adder's Fork",
+        "link": "/wiki/Adder%27s_Fork",
+        "description": "The tongue of an Adder snake, unknown use and effect.",
+        "fullDescription": "",
+        "madefrom": "Adder"
+    },
+    {
+        "name": "African Red Pepper",
+        "link": "/wiki/African_Red_Pepper",
+        "description": "Used in Piquant Toothpaste and Dentifricium Mouthwash.",
+        "fullDescription": "African Red Pepper was a type of red chilli pepper that originated in or was produced in Africa. Piquant Toothpaste, a wizarding brand of toothpaste, contained \"100% Pure African Red Pepper\", along with Dentifricium Mouthwash."
+    },
+    {
+        "name": "African Sea Salt",
+        "link": "/wiki/African_Sea_Salt",
+        "description": "Used in Draught of Living Death.",
+        "fullDescription": "African Sea Salt was, presumably, salt extracted from one of the seas in or bordering Africa. This variety of sea salt could be used as a potion ingredient."
+    },
+    {
+        "name": "Agrippa",
+        "link": "/wiki/Agrippa",
+        "description": "Unknown usage and effect.",
+        "fullDescription": "This ingredient was presumably named after Cornelius Agrippa, the celebrated German wizard and author.",
+        "characteristics": "Purple in colour"
+    },
+    {
+        "name": "Alcohol",
+        "link": "/wiki/Alcohol",
+        "description": "Ethanol, used in Elixir 7 and Pepperup Elixir.",
+        "fullDescription": "Alcohol is a colourless, volatile and flammable liquid which is produced by the natural fermentation of sugars and is the intoxicating constituent of alcoholic beverages. Its usage and consumption in both areas had long been established in both Muggle and wizarding societies. Beverages containing alcoholic content were often served at inns such as the Three Broomsticks Inn or the Hog's Head Inn. Consumption of alcohol can lower inhibitions and give one a pleasant feeling, but overuse can result in impaired judgement, poor physical coordination, slurred speech, trouble walking and vomiting, commonly referred to as \"being drunk\" or intoxicated, and continued addictive consumption may result in alcoholism. At large quantities, alcohol can be dangerous and even poisonous for the body. The beverage butterbeer might contain a slight alcoholic content and produced effects similar to intoxication in house-elves."
+    },
+    {
+        "name": "Alihotsy",
+        "link": "/wiki/Alihotsy",
+        "description": "Used in the Laughing Potion and  Draught; the leaves cause uncontrollable laughter.",
+        "fullDescription": "Alihotsy (also known as the Hyena tree) was a species of magical tree. The leaves of the plant could induce hysteria and uncontrollable laughter. The treacle produced by the Glumbumble acted as an antidote to the effects of Alihotsy leaves. Finely chopped Alihotsy leaves were used as an ingredient for the Laughing Potion. The leaves' mirth-inducing properties could be damaged by stirring the potion too vigorously following its addition to the mixture. They were also the main ingredient in the Alihotsy Draught, and were also used in the Memory Potion.",
+        "alias": "Hyena tree",
+        "sentience": "Non-sentient",
+        "stem": "Green",
+        "leaves": [
+            "Induce hysteria and uncontrollable laughter",
+            "Green and red in colour"
+        ],
+        "food": "Owl dung fertiliser",
+        "usage": [
+            "Potion-making",
+            "Herbology",
+            "Alihotsy-flavoured fudge"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Angel's Trumpet",
+        "link": "/wiki/Angel%27s_Trumpet",
+        "description": "is used as an ingredient in  Draught and the Tonic for Trace Detection, and is a highly poisonous plant.",
+        "fullDescription": "Angel's Trumpet was used as a potion ingredient in the making of the Angel's Trumpet Draught and the Tonic for Trace Detection.",
+        "native": "South America",
+        "sentience": "Non-sentient",
+        "stem": "Green in colour",
+        "leaves": "Green in colour",
+        "flowers": "White in colour",
+        "distinction": "Contains dangerous levels of poison and may be fatal if ingested",
+        "usage": "Potion-making",
+        "status": "Extant"
+    },
+    {
+        "name": "Anjelica",
+        "link": "/wiki/Anjelica",
+        "description": "Magical herb with unknown effects and uses.",
+        "fullDescription": "",
+        "sentience": "Non-sentient (most likely)",
+        "usage": "Potion-making",
+        "status": "Extant"
+    },
+    {
+        "name": "Antimony",
+        "link": "/wiki/Antimony",
+        "description": "No known usage or effect, but it is also used in its molten form.",
+        "fullDescription": "Antimony, as well as its molten form, were used as ingredient in Potion-making.",
+        "properties": "Poisonous",
+        "characteristics": [
+            "Silvery-blue in colour",
+            "Crystalline solid"
+        ]
+    },
+    {
+        "name": "Armadillo bile",
+        "link": "/wiki/Armadillo_bile",
+        "description": "Used in the WitSharpening Potion.",
+        "fullDescription": "",
+        "madefrom": "Armadillos",
+        "characteristics": [
+            "Green in colour",
+            "Putrid scent"
+        ],
+        "usage": [
+            "Wit-Sharpening Potion",
+            "Armadillo Bile Mixture"
+        ]
+    },
+    {
+        "name": "Armotentia",
+        "link": "/wiki/Armotentia",
+        "description": "The main component in the Armadillo Bile Mixture.",
+        "fullDescription": "Armotentia was the main component of the Armadillo Bile Mixture, despite the name of the potion might lead to think otherwise.",
+        "usage": "Armadillo Bile Mixture"
+    },
+    {
+        "name": "Arnica",
+        "link": "/wiki/Arnica",
+        "description": "Poisonous plant, used in the Syrup of this plant, an ingredient itself .",
+        "fullDescription": "",
+        "native": [
+            "North America",
+            "Eurasia"
+        ],
+        "sentience": "Non-sentient",
+        "flowers": "Large; yellow or orange",
+        "distinction": [
+            "Poisonous if large amounts of the plant are eaten",
+            "Contact can cause skin irritation"
+        ],
+        "usage": "Potion-making"
+    },
+    {
+        "name": "Asian Dragon Hair",
+        "link": "/wiki/Asian_Dragon_Hair",
+        "description": "Used in Sleekeazy's Hair Potion",
+        "fullDescription": "",
+        "madefrom": "Asian dragons",
+        "usage": "Sleekeazy's Hair Potion"
+    },
+    {
+        "name": "Ashwinder egg",
+        "link": "/wiki/Ashwinder_egg",
+        "description": "The eggs of an Ashwinder are used in Love Potions, Felix Felicis, Edurus Potions, and as an antidote to ague.",
+        "fullDescription": "Ashwinder eggs were the eggs of the Ashwinder, a magical serpent which was born from the embers of an unattended magical fire. A frozen Ashwinder egg The Ashwinder eggs were extremely hot and flammable, and, if not frozen in time, would light fire to the surrounding area. They were bright red and very valuable when frozen.",
+        "madefrom": "Ashwinders",
+        "properties": "Cured ague when swallowed whole",
+        "characteristics": [
+            "Bright red in colour",
+            "Hot and flammable"
+        ],
+        "preparation": "Frozen",
+        "usage": [
+            "Felix Felicis",
+            "Love Potions"
+        ]
+    },
+    {
+        "name": "Asphodel",
+        "link": "/wiki/Asphodel",
+        "description": "The powdered roots of  are used in the Draught of Living Death and the Wiggenweld Potion.",
+        "fullDescription": "Asphodel (also known as Royal Staff) is a member of the lily family and has long and slender leaves. It is found worldwide, and was known to grow in the Hogwarts grounds. The plant was not native to Great Britain or Ireland, and required special, well-drained soil to grow. Muggles used to believe the plant grew in the underworld. Sixteen known types of the plant existed, each with their own needs.",
+        "alias": "Royal Staff",
+        "native": "Outside of Great Britain and Ireland",
+        "environment": "Special, well-drained soil",
+        "related": "Lily",
+        "sentience": "Non-sentient",
+        "root": "Powdered and used in potions",
+        "stem": "Dark green in colour",
+        "leaves": "Long and slender",
+        "flowers": "White and pointed",
+        "usage": [
+            "Potion-making",
+            "Herbology"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Avocado",
+        "link": "/wiki/Avocado",
+        "description": "The skin of this fruit is used in Rat Spleen Mixture.",
+        "fullDescription": "",
+        "sentience": "Non-sentient",
+        "fruits": "Large fruit containing single seed",
+        "usage": "Fruit is edible and used in Potion-making",
+        "status": "Extant"
+    },
+    {
+        "name": "Balm",
+        "link": "/wiki/Balm",
+        "description": "Used in the The Famous French Method for the Bite of a Mad Dog.",
+        "fullDescription": "Balm had healing properties, and was used in wizarding remedies: dried balm leaves were used in the treatment of mad dog bites.",
+        "alias": "Melissa",
+        "native": "Europe and Asia",
+        "leaves": "Ovate or heart-shaped, with lemony scent",
+        "usage": "Medicine, ornamental"
+    },
+    {
+        "name": "Banana",
+        "link": "/wiki/Banana",
+        "description": "Used in the Ageing Potion.",
+        "fullDescription": "A banana is an elongated fruit with an inedible yellow, leathery skin and an edible soft, yellowish-white inside, which grows on large plants, which are not trees and only their roots are perennial."
+    },
+    {
+        "name": "Baneberry",
+        "link": "/wiki/Baneberry",
+        "description": "Poisonous plant; used in the  Potion and the Tonic for Trace Detection.",
+        "fullDescription": "The berries are the most poisonous part of the plant, and they were used as potion ingredients\u00a0in the making of the Baneberry Potion. They were also used in the brewing of the Tonic for Trace Detection.",
+        "native": "Europe, Asia, North America",
+        "sentience": "Non-sentient",
+        "stem": "Brown, green or red in colour",
+        "leaves": "Green in colour",
+        "fruits": "Berries",
+        "distinction": "Clusters of red and/or white poisonous berries",
+        "usage": "Potion-making",
+        "status": "Extant"
+    },
+    {
+        "name": "Bat spleen",
+        "link": "/wiki/Bat_spleen",
+        "description": "Used in the Swelling Solution.",
+        "fullDescription": "Bat spleens can be used as an ingredient certain potions, such as the Swelling Solution. They can be purchased from the Apothecary at one Galleon each.",
+        "madefrom": "Bats",
+        "characteristics": "Pink in colour",
+        "usage": "Swelling Solution"
+    },
+    {
+        "name": "Bat wing",
+        "link": "/wiki/Bat_wing",
+        "description": "Used in the corrosive Armadillo Bile Mixture",
+        "fullDescription": "Bat wings were an ingredient used in some potions. They were a required ingredient of an Armadillo Bile Mixture (19 fl.oz. of bat wings for each 125 fl.oz. of potion). They were sold at the Apothecary at five Galleons each.",
+        "madefrom": "Bats",
+        "characteristics": "Dark brown in colour",
+        "usage": "Armadillo Bile Mixture"
+    },
+    {
+        "name": "Beetle Eye",
+        "link": "/wiki/Beetle_Eye",
+        "description": "The eyes of Beetles, Common ingredient.",
+        "fullDescription": "Beetle eyes were the eyes of beetles and a common potion ingredient.",
+        "madefrom": "Beetles",
+        "characteristics": "Black and glittery",
+        "usage": [
+            "Essence of Insanity",
+            "Draught of Perception"
+        ]
+    },
+    {
+        "name": "Belladonna",
+        "link": "/wiki/Belladonna",
+        "description": "Fluids are used in part of a standard potion makingkit. Believed to be a key ingredient in witches' flying ointment.",
+        "fullDescription": "Belladonna, also known as Deadly Nightshade or Atropa, was a mundane plant with magical uses. Belladona was poisonous and unsafe for human consumption.",
+        "alias": [
+            "Deadly Nightshade",
+            "Atropa"
+        ],
+        "environment": "Sterile soil",
+        "sentience": "Non-sentient",
+        "stem": "Green",
+        "leaves": "Green",
+        "flowers": "Purple",
+        "fruits": "Shiny black berries",
+        "distinction": "Poisonous",
+        "usage": [
+            "Potion-making",
+            "Herbology"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Betony",
+        "link": "/wiki/Betony",
+        "description": "Used in the The Famous French Method for the Bite of a Mad Dog.",
+        "fullDescription": "Betony had healing properties, and was used in wizarding remedies: dried betony leaves were used in the treatment of mad dog bites.",
+        "native": "Europe, Asia, Africa, Australia, and America",
+        "leaves": "Opposite and triangular, long with serrate margins",
+        "usage": "Medicine"
+    },
+    {
+        "name": "Bezoar",
+        "link": "/wiki/Bezoar",
+        "description": "Acts as an antidote to most poisons, with the exception of Basilisk venom.",
+        "fullDescription": "A bezoar was a stone-like mass taken from the stomach of a goat, that acted as an antidote to most poisons, with Basilisk venom being one notable exception. This was the reason why bezoars were used in the preparation of the Antidote to Common Poisons. This object was usually made of hair, plant fibre, or similar indigestible matter that stayed in the gut of an animal and formed a hard ball or \"stone\". Bezoars were also notably rare, according to Horace Slughorn, who cited this as the reason why it was still worth knowing how to mix antidotes.",
+        "madefrom": "Goat's stomach",
+        "properties": "Antidote to most poisons when swallowed whole",
+        "characteristics": "Resembled a stone",
+        "preparation": "Powdered",
+        "usage": "Antidote to Common Poisons"
+    },
+    {
+        "name": "Bicorn Horn",
+        "link": "/wiki/Horn_of_Bicorn",
+        "description": "Powdered horns are used in Polyjuice Potion.",
+        "fullDescription": "",
+        "madefrom": "Bicorns",
+        "characteristics": [
+            "Curly",
+            "Brown in colour"
+        ],
+        "preparation": "Powdered",
+        "usage": [
+            "Polyjuice Potion",
+            "Pepperup Potion"
+        ]
+    },
+    {
+        "name": "Billywig sting",
+        "link": "/wiki/Billywig_sting",
+        "description": "Has the ability to make a person float. Used in a variety of potions, including Antidote to Uncommon Poisons and the Wideye Potion.",
+        "fullDescription": "There existed an antidote to Billywig stings that would relieve the effects of being stung by one.",
+        "madefrom": "Billywigs",
+        "properties": "Makes people giddy and float",
+        "characteristics": "Blue in colour",
+        "preparation": [
+            "Dried",
+            "Powdered"
+        ],
+        "usage": [
+            "Antidote to Uncommon Poisons",
+            "Hair-Raising Potion",
+            "Antidote to Billywig stings",
+            "Wideye Potion",
+            "Fizzing Whizzbees (rumored)"
+        ]
+    },
+    {
+        "name": "Billywig Sting Slime",
+        "link": "/wiki/Billywig_sting_slime",
+        "description": "Has curative properties. Used in the Wiggenweld Potion.",
+        "fullDescription": "",
+        "madefrom": "Billywig sting",
+        "usage": "Wiggenweld Potion"
+    },
+    {
+        "name": "Billywig wings",
+        "link": "/wiki/Billywig_wings",
+        "description": "Used in the Laughing Potion",
+        "fullDescription": "The wings of the Billywig, a flying magical insect, could be used as ingredients in certain potions.",
+        "madefrom": "Billywigs",
+        "characteristics": "Clear in colour",
+        "usage": "Laughing Potion"
+    },
+    {
+        "name": "Bitter root",
+        "link": "/wiki/Bitter_root",
+        "description": "Used in the Burning Bitterroot Balm.",
+        "fullDescription": "",
+        "native": "North America",
+        "sentience": "Non-sentient",
+        "root": "Fleshy taproot",
+        "flowers": "Magenta in colour",
+        "distinction": [
+            "Low growing",
+            "Leafless"
+        ],
+        "usage": "Potion-making",
+        "status": "Extant"
+    },
+    {
+        "name": "Blatta Pulvereus",
+        "link": "/wiki/Blatta_Pulvereus",
+        "description": "Unknown origin and effect, presumably crushed insects.",
+        "fullDescription": "Blatta Pulvereus is an ingredient used in Potion-making of unknown effect and usage. Based on its etymology, it might be, or contain, pulverised cockroaches or other insects."
+    },
+    {
+        "name": "Blind-worm's Sting",
+        "link": "/wiki/Blind-worm%27s_Sting",
+        "description": "The sting of a Blindworm, unknown effect and usage.",
+        "fullDescription": "",
+        "madefrom": "Blind-worm"
+    },
+    {
+        "name": "Blood",
+        "link": "/wiki/Blood",
+        "description": "Properties depend on the source. Unicorn blood can keep a person alive, while Re'em blood gives the drinker immense strength for a short time.  of a foe is used in the Dark Regeneration potion",
+        "fullDescription": "Blood is a liquefied substance in some organisms, like humans, that carries oxygen throughout the body. In some creatures, blood was known to possess magical qualities."
+    },
+    {
+        "name": "Bloodroot",
+        "link": "/wiki/Bloodroot",
+        "description": "Poisonous plant, which kills animal cells, used as the main ingredient in  Poison.",
+        "fullDescription": "Bloodroot was poisonous, and it was used as an ingredient for the Bloodroot Poison. Bloodroot required staking.",
+        "sentience": "Non-sentient",
+        "distinction": "Poisonous",
+        "usage": "Potion-making",
+        "status": "Extant"
+    },
+    {
+        "name": "Blowfly",
+        "link": "/wiki/Blowfly",
+        "description": "Common name for flies, unknown usage and effect.",
+        "fullDescription": "Blowfly is a common name for members of Calliphoridae, a family of flies. Dead blowflies can be used as a potion ingredient and are fed to the Giant Purple Toads at the Magical Menagerie. When trying to persuade Professor Severus Snape to attend Rubeus Hagrid's suprise birthday party in 1984 by gifting him potion ingredients, Jacob's sibling found dead blowflies in the Artefact Room at Hogwarts School of Witchcraft and Wizardry with help from Ben Copper and Penny Haywood."
+    },
+    {
+        "name": "Bone",
+        "link": "/wiki/Bone",
+        "description": "Used in the Regeneration potion.",
+        "fullDescription": "Bones are a hard structure that make up the skeleton of vertebrate organisms. They provide structure and protection for the body's other organs, and are responsible for the production of blood, among other, more minor uses. In the wizarding world, bones had a variety of uses. Bones was also the surname of a prominent wizarding family in Great Britain."
+    },
+    {
+        "name": "Boom Berry",
+        "link": "/wiki/Boom_Berry",
+        "description": "Restorative properties. Used in the Wiggenweld Potion.",
+        "fullDescription": "",
+        "distinction": "Juice presumably had restorative proprieties",
+        "usage": "Potion-making"
+    },
+    {
+        "name": "Boomslang",
+        "link": "/wiki/Boomslang",
+        "description": "Venom is highly poisonous, but slow to act. Skin used a potion ingredient.",
+        "fullDescription": "The boomslang is a large, highly venomous snake.",
+        "related": "Snake",
+        "mortality": "Mortal",
+        "distinction": "Venomous",
+        "status": "Extant"
+    },
+    {
+        "name": "Boomslang Skin",
+        "link": "/wiki/Boomslang_skin",
+        "description": "An unusual ingredient used in Polyjuice Potion and Beautification Potion.",
+        "fullDescription": "Boomslang skin is skin shed from a Boomslang snake. The skin is mostly green in males and brown in females, and served as an atypical potion ingredient, such as in the Polyjuice Potion. Boomslang skin was not sold at the Apothecary in Diagon Alley, nor was it available in the student store-cupboard, but it could be found in the Potions Master's private storage at Hogwarts. It was not an ingredient on the Restricted Register.",
+        "madefrom": "Boomslangs",
+        "characteristics": "Green or brown in colour",
+        "preparation": "Dried then shredded",
+        "usage": [
+            "Polyjuice Potion",
+            "Beautification Potion"
+        ]
+    },
+    {
+        "name": "Borage",
+        "link": "/wiki/Borage",
+        "description": "Plant or herb with unknown effects and usage.",
+        "fullDescription": "Borage has magical properties and is most likely used in Potion-making. One could acquire some of this herb at Mr Mulpepper's Apothecary, in Diagon Alley.",
+        "native": [
+            "Mediterranean region",
+            "Asia minor",
+            "Europe",
+            "North Africa",
+            "South America"
+        ],
+        "sentience": "Non-sentient",
+        "flowers": [
+            "Most often blue in colour",
+            "Five narrow triangular petals"
+        ],
+        "usage": "Potion-making"
+    },
+    {
+        "name": "Bouncing Bulb",
+        "link": "/wiki/Bouncing_Bulb",
+        "description": "Used in Pompion Potion.",
+        "fullDescription": "A Bouncing Bulb was a magical plant which jumps around if it is not restrained. The Bouncing Bulb's main stem was a disproportionate purple bulb, with a bunch of leaves growing on the top. Young Bouncing Bulbs were small enough to handle, but mature ones could reach the size of doorways. Bouncing Bulbs could be aggressive when they felt threatened; they jumped towards the possible attacker and tried to hit it. A simple Knockback Jinx could stop a young Bulb, but a mature one would require using the Fire-Making Spell (Incendio) to wither it, because it was quite strong. Bouncing Bulbs were a necessary ingredient in the Pompion Potion, a potion which encased the drinker's head in a pumpkin.",
+        "sentience": "Sentient",
+        "stem": "Purple bulb",
+        "leaves": "Long and green",
+        "distinction": [
+            "Locomotive plant",
+            "Extremely difficult to pot"
+        ],
+        "usage": [
+            "Potion-making",
+            "Herbology"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Bouncing Spider Juice",
+        "link": "/wiki/Bouncing_Spider_Juice",
+        "description": "Standard ingredient in potion making.",
+        "fullDescription": "",
+        "madefrom": "Bouncing spider"
+    },
+    {
+        "name": "Bubotuber pus",
+        "link": "/wiki/Bubotuber_pus",
+        "description": "Has acneridding qualities, as well as an ingredient in Fake protective potions and the Healing Potion.",
+        "fullDescription": "Bubotuber pus was a thick, yellowish-green, petrol-smelling substance squeezed from the swellings of the magical bubotuber plant.",
+        "madefrom": "Bubotuber swellings",
+        "properties": "Cures acne and pimples (Causes painful boils when undiluted)",
+        "characteristics": [
+            "Greenish-yellow in colour",
+            "Thick consistency",
+            "Smells strongly of petrol"
+        ],
+        "preparation": "Diluted",
+        "usage": [
+            "Acne-removal",
+            "Fake protective potions",
+            "Healing Potion"
+        ]
+    },
+    {
+        "name": "Bulbadox juice",
+        "link": "/wiki/Bulbadox_juice",
+        "description": "Magical substance which can causes breakouts of boils, used in the brewing of the Tonic for Trace Detection.",
+        "fullDescription": "",
+        "madefrom": "Bulbadox",
+        "properties": "Can cause breakouts of boils",
+        "characteristics": "Dark green in colour",
+        "usage": "Tonic for Trace Detection"
+    },
+    {
+        "name": "Bundimun Secretion",
+        "link": "/wiki/Bundimun_Secretion",
+        "description": "Used in Doxycide, Bundimun Pomade and various cleaning products.",
+        "fullDescription": "",
+        "madefrom": "Bundimuns",
+        "alias": "Bundimun Ooze",
+        "properties": [
+            "Highly acidic",
+            "Can rot through building structure"
+        ],
+        "characteristics": [
+            "Lime green in colour",
+            "Emits vapours"
+        ],
+        "preparation": "Diluted",
+        "usage": [
+            "Doxycide",
+            "Cleaning products"
+        ]
+    },
+    {
+        "name": "Bursting mushroom",
+        "link": "/wiki/Bursting_mushroom",
+        "description": "Used in the Fire Protection Potion.",
+        "fullDescription": "",
+        "environment": "Forests",
+        "sentience": "Semi-sentient; can detect motion",
+        "distinction": "Explodes when approached",
+        "usage": "Potion ingredient",
+        "status": "Extant"
+    },
+    {
+        "name": "Butterscotch",
+        "link": "/wiki/Butterscotch",
+        "description": "Sweet substance, used in the Dawdle Draught.",
+        "fullDescription": "",
+        "madefrom": [
+            "Brown sugar",
+            "Butter"
+        ],
+        "properties": "Provides fragrant scent",
+        "characteristics": "Somewhat sickly flavour",
+        "preparation": "Liquefied",
+        "usage": [
+            "Butterbeer",
+            "Dawdle Draught"
+        ]
+    },
+    {
+        "name": "Camphirated Spirit",
+        "link": "/wiki/Camphirated_Spirit",
+        "description": "Used in The Famous French Method for the Bite of a Mad Dog.",
+        "fullDescription": "",
+        "madefrom": "Camphor",
+        "properties": "Disinfectant",
+        "usage": "The Famous French Method for the Bite of a Mad Dog"
+    },
+    {
+        "name": "Castor oil",
+        "link": "/wiki/Castor_oil",
+        "description": "Used in the Love Potion Antidote.",
+        "fullDescription": "Castor oil is a vegetable oil extracted from the castor bean. It was used as a potion ingredient and was sold at the apothecary in Diagon Alley for 4 galleons a bottle. It was also kept in the Hospital Wing. Castor oil was one of the ingredients needed to brew a Love Potion Antidote.",
+        "madefrom": "Castor bean",
+        "characteristics": [
+            "Yellow in colour",
+            "Unpleasant taste"
+        ],
+        "preparation": "Shaken",
+        "usage": "Love Potion Antidote"
+    },
+    {
+        "name": "Cat Hair",
+        "link": "/wiki/Cat_hair",
+        "description": "Standard potionmaking ingredient.",
+        "fullDescription": "Cat hair was hair from a cat that may have been used in some potions. It was kept with other potion ingredients in the Potions Classroom at Hogwarts School of Witchcraft and Wizardry.",
+        "madefrom": "Cats",
+        "characteristics": "Varies in colour (depends on fur colour)",
+        "preparation": "Plucked from cats"
+    },
+    {
+        "name": "Caterpillar",
+        "link": "/wiki/Caterpillar",
+        "description": "Sliced caterpillars are used in the Shrinking Solution.",
+        "fullDescription": "A caterpillar is the larval form of a butterfly or moth. Shaved Caterpillars are a bogey-flavoured wizarding sweet. They are sold on the Honeydukes Express trolley onboard the Hogwarts Express. Sliced caterpillars are used as an ingredient in the Shrinking Solution."
+    },
+    {
+        "name": "Centaury",
+        "link": "/wiki/Centaury",
+        "description": "Used in The Famous French Method for the Bite of a Mad Dog.",
+        "fullDescription": "Centaury has healing properties, and is used in wizarding remedies: dried centaury leaves are used in the treatment of mad dog bites.",
+        "native": "Europe and Asia",
+        "sentience": "Non-sentient",
+        "flowers": "Small and pink",
+        "usage": "Medicine",
+        "status": "Extant"
+    },
+    {
+        "name": "Cheese",
+        "link": "/wiki/Cheese",
+        "description": "Used in Based Potions.",
+        "fullDescription": "",
+        "manufacturer": "Greta Catchlove",
+        "flavour": "Savoury",
+        "ingredients": "Milk"
+    },
+    {
+        "name": "Chicken Lips",
+        "link": "/wiki/Chicken_Lips",
+        "description": "The lips of a chicken, unknown effects and usage.",
+        "fullDescription": "",
+        "madefrom": "Chickens (presumably)"
+    },
+    {
+        "name": "Chinese Chomping Cabbage",
+        "link": "/wiki/Chinese_Chomping_Cabbage",
+        "description": "Magical plant. Used in the SkeleGro Potion.",
+        "fullDescription": "Chinese Chomping Cabbage was a magical plant that was presumably native to China. As the name suggests, it had the ability to chomp on foods, such as carrots. It was also an ingredient required in the brewing of the healing potion Skele-Gro.",
+        "native": "China (presumably)",
+        "related": "Cabbage",
+        "sentience": "Sentient",
+        "leaves": "Green in colour",
+        "food": "Carrots",
+        "distinction": [
+            "Capable of eating foods",
+            "Sharp teeth"
+        ],
+        "usage": [
+            "Herbology",
+            "Potion-making"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Chizpurfle Carapace",
+        "link": "/wiki/Chizpurfle_carapace",
+        "description": "Used in the Antidote to Uncommon Poisons.",
+        "fullDescription": "The carapace of a Chizpurfle was used as an ingredient in certain potions, such as the Antidote to Uncommon Poisons. However, splitting them open was particularly difficult to do. One method of splitting open a Chizpurfle carapace was to feed them to a Venomous Tentacula. Chizpurfles could be lured to the plant with the charm Lumos Duo, as they were attracted to magic, whereupon the plant would bite through the carapace with its enormously strong jaws, eating the Chizpurfle and spitting out its carapace afterwards.",
+        "madefrom": "Chizpurfles",
+        "characteristics": "Brown in colour",
+        "preparation": [
+            "Split open the carapace:",
+            "Feed Chizpurfles to a Venomous Tentacula"
+        ],
+        "usage": "Antidote to Uncommon Poisons"
+    },
+    {
+        "name": "Chizpurfle fang",
+        "link": "/wiki/Chizpurfle_fang",
+        "description": "Used in the Wiggenweld Potion.",
+        "fullDescription": "",
+        "madefrom": "Chizpurfles",
+        "usage": "Wiggenweld Potion"
+    },
+    {
+        "name": "Cinnamon",
+        "link": "/wiki/Cinnamon",
+        "description": "Common spice, standard potionmaking ingredient.",
+        "fullDescription": "",
+        "madefrom": "Bark of Cinnamomum trees",
+        "characteristics": "Brown in colour",
+        "usage": [
+            "Holiday Blancmange",
+            "Christmas cake",
+            "Egg-nog"
+        ]
+    },
+    {
+        "name": "Cockroach",
+        "link": "/wiki/Cockroach",
+        "description": "Small brown insect, unknown effect and usage.",
+        "fullDescription": "",
+        "skin": "Dark brown",
+        "related": "Termites",
+        "mortality": "Mortal",
+        "distinction": [
+            "Verminous pests",
+            "Omnivorous",
+            "Often spread disease"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Corn starch",
+        "link": "/wiki/Corn_starch",
+        "description": "Used in a fake version of panacea.",
+        "fullDescription": "",
+        "madefrom": "Corn",
+        "usage": [
+            "Foodstuffs",
+            "Rogue alchemist's fake panacea"
+        ]
+    },
+    {
+        "name": "Cowbane",
+        "link": "/wiki/Cowbane",
+        "description": "Poisonous plant, used in Doxycide and Shrinking Solution.",
+        "fullDescription": "",
+        "sentience": "Non-sentient",
+        "stem": "Green in colour",
+        "leaves": "Green in colour",
+        "flowers": "Small, white and clustered",
+        "distinction": "Poisonous",
+        "usage": "Ingredient in Shrinking Solution and Doxycide",
+        "status": "Extant"
+    },
+    {
+        "name": "Crocodile Heart",
+        "link": "/wiki/Crocodile_heart",
+        "description": "Unknown effect and usage.",
+        "fullDescription": "",
+        "madefrom": "Crocodile",
+        "characteristics": "Large and slippery",
+        "usage": "Calming Draught"
+    },
+    {
+        "name": "Daisy",
+        "link": "/wiki/Daisy",
+        "description": "Its roots are used in the Shrinking Solution.",
+        "fullDescription": "A daisy is a common European wildflower with white and yellow flowers.",
+        "sentience": "Non-sentient",
+        "root": "Brown",
+        "stem": "Green in colour",
+        "leaves": "Green in colour",
+        "flowers": "White and yellow",
+        "distinction": [
+            "Considered weeds",
+            "Can thrive in inhospitable conditions and are resistant to bugs and pesticides"
+        ],
+        "usage": [
+            "Its roots were used to make the Shrinking Solution",
+            "Used in the brewing of Daisyroot Draught"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Dandelion root",
+        "link": "/wiki/Dandelion_root",
+        "description": "Standard potionmaking ingredient.",
+        "fullDescription": "",
+        "madefrom": "Dandelions"
+    },
+    {
+        "name": "Dandruff",
+        "link": "/wiki/Dandruff",
+        "description": "Optional ingredient for the Polyjuice Potion.",
+        "fullDescription": "",
+        "madefrom": "Human scalps",
+        "characteristics": "Flaky",
+        "usage": "Polyjuice Potion (optional)"
+    },
+    {
+        "name": "Deadlyius",
+        "link": "/wiki/Deadlyius",
+        "description": "Unknown effect. Most likely a poisonous fungi.",
+        "fullDescription": "Its exact properties are unknown, but given its name, it may very well\u00a0poisonous.",
+        "related": "Mushroom",
+        "sentience": "Non-sentient",
+        "distinction": "Poisonous (likely)",
+        "usage": "Potion-making",
+        "status": "Extant"
+    },
+    {
+        "name": "Death-Cap",
+        "link": "/wiki/Death-Cap",
+        "description": "Extremely Poisonous mushroom. Used in the  Draught.",
+        "fullDescription": "",
+        "related": "Mushroom",
+        "sentience": "Non-sentient",
+        "distinction": [
+            "Poisonous",
+            "Colourful"
+        ],
+        "usage": "potion-making",
+        "status": "Extant"
+    },
+    {
+        "name": "Dittany",
+        "link": "/wiki/Dittany",
+        "description": "Powerful healing herb. Promotes skin growth, to the point of making a fresh wound seem several days old. An ingredient in the Wiggenweld Potion and Mixture of powdered silver and dittany, the latter of which is used to cure Werewolf bites, along with the Healing Potion.",
+        "fullDescription": "Dittany was a magical plant used in Potion-making. It was a powerful healing herb and restorative. Its use made fresh skin grow over a wound and after application the wound seemed several days old. Dittany was\u00a0one of the plants found in\u00a0One Thousand Magical Herbs and Fungi.",
+        "alias": "Burning Bush",
+        "sentience": "Non-sentient",
+        "stem": "Dark green in colour",
+        "leaves": "Dark green in colour",
+        "distinction": "Sometimes released flammable vapours",
+        "usage": [
+            "Potion-making",
+            "Healing magic",
+            "Wand core",
+            "Herbology"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Doxy egg",
+        "link": "/wiki/Doxy_egg",
+        "description": "Highly poisonous egg of the Doxy, used in the Girding Potion.",
+        "fullDescription": "The eggs of a doxy were black in colour, and were used as an ingredient in potion-making, such as in the Girding Potion. Being that the Doxy was a fairy-like beast, Bowtruckles apparently were drawn to their eggs as readily as fairy eggs. They caused illness when eaten by humans, as they were poisonous.",
+        "madefrom": "Doxies",
+        "properties": "Poisonous",
+        "characteristics": "Black in colour",
+        "usage": "Girding Potion"
+    },
+    {
+        "name": "Dragon blood",
+        "link": "/wiki/Dragon_blood",
+        "description": "Has a number of properties. May be used as an oven cleaner, spot remover, a cure for verruca and potion ingredient.",
+        "fullDescription": "Dragon blood was the blood of any of the many species of dragon. It had a number of magical properties and was fairly expensive to buy bottled. It had twelve uses, the discoveries of which were typically all credited to the famous Hogwarts Headmaster, Albus Dumbledore, although Ivor Dillonsby claimed that he had already discovered eight of them and that Dumbledore \"borrowed\" his notes. Three of the listed uses were as a spot remover, a cure for verruca, and the twelfth use was as an oven cleaner. Dragon blood seemed to have a notable taste, as Dumbledore was able to distinguish it from human blood by placing a small amount in his mouth in 1996. He was, however, the foremost expert on the substance, and the distinction may have been too subtle for anybody else.",
+        "madefrom": "Dragons",
+        "characteristics": [
+            "Dark red in colour",
+            "Glutinous"
+        ],
+        "usage": [
+            "Cleaning ovens",
+            "Removing spots",
+            "Curing verruca",
+            "9 other uses"
+        ]
+    },
+    {
+        "name": "Dragon claw",
+        "link": "/wiki/Dragon_claw",
+        "description": "When powdered and eaten, gives the consumer a 'brain boost', as well as ingredient in Tolipan Blemish Blitzer.",
+        "fullDescription": "Dragon claws were the claws of dragons, and, when powdered down and eaten, gave the consumer a 'brain boost', which left the consumer cunning 'for hours'.",
+        "madefrom": "Dragons",
+        "properties": "Boosts intellect",
+        "characteristics": "Black in colour",
+        "preparation": "Powdered",
+        "usage": [
+            "Baruffio's Brain Elixir",
+            "Tolipan Blemish Blitzer"
+        ]
+    },
+    {
+        "name": "Dragon Claw Ooze",
+        "link": "/wiki/Dragon_Claw_Ooze",
+        "description": "Unknown effect and usage.",
+        "fullDescription": "",
+        "madefrom": "Dragon claws",
+        "characteristics": "Dark yellow in colour"
+    },
+    {
+        "name": "Dragon dung",
+        "link": "/wiki/Dragon_dung",
+        "description": "Used as a fertiliser, particularly the DragonDung Fertiliser.",
+        "fullDescription": "",
+        "madefrom": "Dragons",
+        "properties": "Acts as fertiliser",
+        "characteristics": "Brown in colour",
+        "usage": [
+            "Dragon Dung Fertiliser",
+            "Fertiliser"
+        ]
+    },
+    {
+        "name": "Dragon horn",
+        "link": "/wiki/Dragon_horn",
+        "description": "Common ingredient. Used in the FireBreathing Potion.",
+        "fullDescription": "",
+        "madefrom": "Dragons",
+        "preparation": "Powdered",
+        "usage": "Fire-Breathing Potion"
+    },
+    {
+        "name": "Dragon liver",
+        "link": "/wiki/Dragon_liver",
+        "description": "Liver of a dragon, used in the making of the Healing Potion.",
+        "fullDescription": "A dragon liver was the liver taken from a dragon. They cost sixteen Sickles an ounce, and were used as potion ingredients, particularly in the brewing of Doxycide and the Healing Potion.",
+        "madefrom": "Dragons",
+        "characteristics": "Pink in colour",
+        "preparation": "Chopped",
+        "usage": [
+            "Doxycide",
+            "Healing Potion"
+        ]
+    },
+    {
+        "name": "Dragonfly thorax",
+        "link": "/wiki/Dragonfly_thorax",
+        "description": "When toasted, can be used in the Girding Potion and the DragonDung Fertiliser.",
+        "fullDescription": "The thorax of the dragonfly, when toasted, could be used as an ingredient in potion-making. It was a required ingredient of the Girding Potion and Dragon dung Fertiliser.",
+        "madefrom": "Dragonflies",
+        "preparation": "Toasted",
+        "usage": [
+            "Girding Potion",
+            "Dragon dung Fertiliser"
+        ]
+    },
+    {
+        "name": "Eagle Owl Feather",
+        "link": "/wiki/Eagle_owl_feather",
+        "description": "Used in the Dragon Tonic.",
+        "fullDescription": "",
+        "madefrom": "Eagle owl",
+        "characteristics": "Grey in colour",
+        "usage": "Dragon Tonic"
+    },
+    {
+        "name": "Eel eye",
+        "link": "/wiki/Eel_eye",
+        "description": "Used in the Bulgeye Potion.",
+        "fullDescription": "Eels' eyes are the eyes of an eel.",
+        "madefrom": "Eels",
+        "characteristics": "Globular",
+        "usage": "Cure for Spattergroit (allegedly)"
+    },
+    {
+        "name": "Erumpent horn",
+        "link": "/wiki/Erumpent_horn",
+        "description": "Powerful magical properties. Contains a deadly fluid that causes whatever it is injected into to explode. Used in the Tonic for Trace Detection",
+        "fullDescription": "An Erumpent horn was the horn of an Erumpent, a magical beast. The horn contained a fluid that caused whatever it was injected into to explode. They were highly prized as potion ingredients, but were listed as a Class-B Tradeable Material, limiting trade, likely due to the danger they posed.",
+        "madefrom": "Erumpents",
+        "properties": "Contains highly explosive fluid",
+        "characteristics": "Brown in colour",
+        "usage": "Tonic for Trace Detection"
+    },
+    {
+        "name": "Erumpent tail",
+        "link": "/wiki/Erumpent_tail",
+        "description": "Unknown effect and usage.",
+        "fullDescription": "Erumpent tails are long and rope-like. They are classified as a Class B Tradeable Material. The use of Erumpent tail in potions remains unknown though it is known to be an potion ingredient.",
+        "madefrom": "Erumpent",
+        "characteristics": "Long and rope-like"
+    },
+    {
+        "name": "Essence of comfrey",
+        "link": "/wiki/Essence_of_comfrey",
+        "description": "Organic oil, unknown effect and usage.",
+        "fullDescription": "",
+        "madefrom": "Comfrey",
+        "characteristics": "Yellow in colour"
+    },
+    {
+        "name": "Essence of Daisyroot",
+        "link": "/wiki/Essence_of_Daisyroot",
+        "description": "Unknown effect and usage.",
+        "fullDescription": "",
+        "madefrom": "Daisies",
+        "characteristics": "Brown in colour"
+    },
+    {
+        "name": "Exploding Fluid",
+        "link": "/wiki/Exploding_Fluid",
+        "description": "Gives the Erumpent Horn its explosive quality.",
+        "fullDescription": "Exploding Fluid was a magical substance found in the horn of the Erumpent. It caused anything that was impregnated with it to explode. It was highly valued as a potion ingredient, and was listed as a Class B Tradeable Material.",
+        "madefrom": "Erumpent horn",
+        "properties": "Explosive"
+    },
+    {
+        "name": "Exploding Ginger Eyelash",
+        "link": "/wiki/Exploding_Ginger_Eyelash",
+        "description": "Unknown effect. Used in a standard potionmaking kit.",
+        "fullDescription": "",
+        "properties": "Explosive",
+        "characteristics": "Ginger in colour"
+    },
+    {
+        "name": "Eye of Newt",
+        "link": "/wiki/Eye_of_Newt",
+        "description": "Unknown effect and usage.",
+        "fullDescription": "In \"bloodthirstier\" times in wizarding history, before the passage of Legislation regarding animal cruelty, young wizards and witches were expected to personally pop out the newt eyes they were using in potions.",
+        "madefrom": "Newts",
+        "preparation": "Popped out of live newts (formerly, archaic)"
+    },
+    {
+        "name": "Eyeball",
+        "link": "/wiki/Eyeball",
+        "description": "Unknown effect and usage.",
+        "fullDescription": "",
+        "madefrom": [
+            "Beetles",
+            "Eels",
+            "Plimpies",
+            "Newts",
+            "Puffer-fish",
+            "Other creatures"
+        ],
+        "characteristics": "Globular"
+    },
+    {
+        "name": "Fairy Wing",
+        "link": "/wiki/Fairy_wings",
+        "description": "Rare ingredient, as fairies are difficult to capture. Found in the Girding Potion and Beautification Potion.",
+        "fullDescription": "The wings of the fairy were used as an ingredient in Potion-making, such as in the Girding Potion, and the Beautification Potion. Removing a fairy's wings was safe, but would cause extreme annoyance to the fairy in question, due to the creatures' natural vanity. Because the fairies were very hard to approach and to capture, their wings were considered precious ingredients. The wing of a fairy could also be used as a wand core, of which it was used in one known instance for Ollivander family's heirloom wand, an heirloom wand for the Ollivander family that was stolen by Richard Jackdaw in the 1790s and later destroyed.",
+        "madefrom": "Fairies",
+        "characteristics": "Multicoloured or transparent",
+        "preparation": "Ground",
+        "usage": [
+            "Beautification Potion",
+            "Girding Potion",
+            "Wand core"
+        ]
+    },
+    {
+        "name": "Fanged Geranium",
+        "link": "/wiki/Fanged_Geranium",
+        "description": "Fangs used as potion ingredients.",
+        "fullDescription": "A Fanged Geranium was a magical flower with sharp teeth. Its fangs were used as potion ingredients, as well as in wizarding foodstuffs. They were also an ingredient in the Strength Potion, as well in Skele-Gro.",
+        "sentience": "Sentient",
+        "leaves": "Green in colour",
+        "flowers": "Blue or red in colour",
+        "distinction": "Fanged flower with sharp teeth",
+        "usage": [
+            "Fangs used in potions and cooking",
+            "Herbology"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Fillet of a Fenny Snake",
+        "link": "/wiki/Fillet_of_a_Fenny_Snake",
+        "description": "Unknown effect.",
+        "fullDescription": "",
+        "madefrom": "Fenny snake"
+    },
+    {
+        "name": "Fire",
+        "link": "/wiki/Fire",
+        "description": "Used in the heating and brewing of potions.",
+        "fullDescription": "Fire is a term used to describe the large amount of heat, light, and energy created by the rapid oxidation of a material. In the wizarding world, numerous types of magical fire existed."
+    },
+    {
+        "name": "Firefly",
+        "link": "/wiki/Firefly",
+        "description": "Small flying insects, unknown effect and usage.",
+        "fullDescription": "",
+        "mortality": "Mortal",
+        "distinction": [
+            "Winged and flying",
+            "Light-emitting"
+        ],
+        "affiliation": "Erkstag",
+        "status": "Extant"
+    },
+    {
+        "name": "Fire Seed",
+        "link": "/wiki/Fire_Seed",
+        "description": "Seed of the  Bush, maintains high temperatures, used in the FireBreathing Potion and Antidote to Uncommon Poisons.",
+        "fullDescription": "Fire seeds (also spelled fireseeds) were the seeds from the fire seed bush. They were used as ingredients in certain potions, including the Fire-Breathing Potion, and the Antidote to Uncommon Poisons. When fire seeds were thrown into a fire, they emitted a great burst of heat, which can be used in the final stage of hatching dragon eggs. As the seeds were as hot as fire while still attached to the plant, they had to be first be cooled down before collecting them. The fastest way this could be done was by chilling the seeds, such as with the Freezing Spell. Alternatively, the seeds can be removed from the plant, such as with the Knockback Jinx, and would cool down after waiting a while. Rubeus Hagrid used these seeds to hatch the egg of his baby dragon, Norbert in 1992.",
+        "madefrom": "Fire seed bushes",
+        "properties": "Burst of heat when thrown into flames",
+        "characteristics": [
+            "Hot as fire when attatched",
+            "Orange in colour"
+        ],
+        "preparation": "Cooled off",
+        "usage": [
+            "Fire-Breathing Potion",
+            "Antidote to Uncommon Poisons",
+            "Hatching dragon eggs"
+        ]
+    },
+    {
+        "name": "Flabberghasted Leech",
+        "link": "/wiki/Flabberghasted_leech",
+        "description": "Unknown effect.",
+        "fullDescription": "",
+        "skin": "Black in colour",
+        "related": "Leech",
+        "mortality": "Mortal",
+        "distinction": "Used in potions",
+        "status": "Extant"
+    },
+    {
+        "name": "Flesh",
+        "link": "/wiki/Flesh",
+        "description": "The flesh of living beings, including humans  used in the Regeneration Potion that aided the Return of the Dark Lord.",
+        "fullDescription": "Flesh describes the essence of certain organisms, mostly animals. In vertebrates, the flesh is a soft tissue of the body, covering the bones and consisting mainly of skeletal muscle and fat."
+    },
+    {
+        "name": "Flitterby",
+        "link": "/wiki/Flitterby",
+        "description": "Moths used in potions.",
+        "fullDescription": "The Flitterby was a magical species of moth. Flitterby moths had orange glowing wings and hummed characteristically lightly and playfully when in flight, almost like if they were laughing. Flitterby moths were attracted to heat, and could also be used as an ingredient in certain potions.",
+        "related": "Moth",
+        "native": "Scotland, Great Britain",
+        "alias": "Flitterby moth",
+        "mortality": "Mortal",
+        "distinction": [
+            "Laugh lightly when in flight",
+            "Scarlet glow around wings",
+            "Are attracted to heat"
+        ],
+        "affiliation": [
+            "Hogwarts School of Witchcraft and Wizardry",
+            "Rubeus Hagrid"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Flobberworm Mucus",
+        "link": "/wiki/Flobberworm_Mucus",
+        "description": "Mucus of the Flobberworm, used as a common thickener in potions. A vital ingredient in the Wiggenweld Potion, Cure for Boils, Herbicide Potion and Sleeping Draught.",
+        "fullDescription": "Flobberworm Mucus, alternatively spelled Flobberworm mucous or Flobber Mucus for short, was the slimy green mucus exuded from the Flobberworm, often used to thicken potions. A popular potion ingredient, it was used in the Wiggenweld Potion, Herbicide Potion, and the Sleeping Draught. Flobberworm Mucus was sold at the Apothecary, costing one Galleon for eight bottles. This mucus was also spread all over the roof beams on the Hogwarts attic.",
+        "madefrom": "Flobberworm",
+        "alias": "Flobber Mucus",
+        "properties": "Thickens potions",
+        "characteristics": [
+            "Green in colour",
+            "Slimy consistency"
+        ],
+        "preparation": "Extract from Flobberworm, then shake the bottle",
+        "usage": [
+            "Wiggenweld Potion",
+            "Herbicide Potion",
+            "Sleeping Draught",
+            "Cure for Boils"
+        ]
+    },
+    {
+        "name": "Flower head",
+        "link": "/wiki/Flower_head",
+        "description": "Unknown effect and usage.",
+        "fullDescription": "",
+        "madefrom": "Flowers",
+        "characteristics": "Colourful",
+        "usage": "Draught of Living Death"
+    },
+    {
+        "name": "Fluxweed",
+        "link": "/wiki/Fluxweed",
+        "description": "Known for its healing properties. Used in the Polyjuice Potion if picked at the full moon.",
+        "fullDescription": "Fluxweed was a magical plant and member of the mustard family. The flowers of a strand of fluxweed When picked at the full moon, it could be used in the making of the Polyjuice Potion. Sixteen scruples were needed to make the potion. It was also possible to use Fluxweed Syrup alone to achieve certain effects of the Polyjuice Potion.",
+        "related": "Mustard family",
+        "sentience": "Non-sentient",
+        "stem": "Green in colour",
+        "leaves": "Green in colour",
+        "flowers": "Purple in colour",
+        "usage": [
+            "Potion ingredient",
+            "Herbology"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Flying Seahorses",
+        "link": "/wiki/Flying_Seahorse",
+        "description": "Used in the Girding Potion",
+        "fullDescription": "Flying Seahorses were a magical variant of seahorses, known for their ability to fly when provoked. They were used as ingredients in certain potions, such as the Girding Potion and Dragon dung Fertiliser. They were native to aquatic environments, such as the Black Lake in Scotland.",
+        "eyes": "Black",
+        "skin": "Tan or red in colour",
+        "related": "Seahorse",
+        "native": "Scotland",
+        "mortality": "Mortal",
+        "distinction": [
+            "Winged, capable of flight",
+            "Used as potion ingredients"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Foxglove",
+        "link": "/wiki/Foxglove",
+        "description": "Poisonous plant, used in the Pompion Potion.",
+        "fullDescription": "Foxgloves are a genus of herbaceous plants with vivid flowers that range in colour from various purple tints through various shades of light grey. Foxgloves are also highly poisonous. Foxgloves were used in potion-making, and were an essential ingredient in the preparation of the Pompion Potion.",
+        "native": [
+            "Europe",
+            "Asia",
+            "Africa"
+        ],
+        "stem": "Long and leafy",
+        "leaves": "Long and basal",
+        "flowers": "Tubular, colourful",
+        "distinction": "Poisonous",
+        "usage": "Potion-making"
+    },
+    {
+        "name": "Frog",
+        "link": "/wiki/Frog",
+        "description": "Small green amphibians, parts used as potion ingredients, such as the  Parts Mixture.",
+        "fullDescription": "",
+        "eyes": "Various",
+        "skin": "Various",
+        "related": [
+            "AmphibiansToadsNewts",
+            "Toads",
+            "Newts"
+        ],
+        "height": "Various",
+        "length": "Various",
+        "mortality": "Mortal",
+        "distinction": [
+            "Can jump",
+            "Inhabit bodies of water"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Frog brain",
+        "link": "/wiki/Frog_brain",
+        "description": "The brain of a frog, used in Baruffio's Brain Elixir.",
+        "fullDescription": "Frog brains were the brains of frogs. They were used as an ingredient in potions, such as in the dubious Baruffio's Brain Elixir and the Essence of Insanity.",
+        "madefrom": "Frogs",
+        "characteristics": "Brown in colour",
+        "usage": [
+            "Baruffio's Brain Elixir",
+            "Essence of Insanity",
+            "Befuddlement Draught"
+        ]
+    },
+    {
+        "name": "Galanthus Nivalis",
+        "link": "/wiki/Galanthus_Nivalis",
+        "description": "Commonly known as Snowdrop, unknown effect.",
+        "fullDescription": "A jar containing Snowdrop This plant could be used in potion-making, and Severus Snape kept a jar of these plants in his office in Hogwarts Castle during the 1990s. The plant was an ingredient in the making of the Exstimulo Potion, the Strong Exstimulo Potion, and Potent Exstimulo Potion.",
+        "alias": "Snowdrop",
+        "sentience": "Non-sentient",
+        "stem": "Green in colour",
+        "leaves": "Green in colour",
+        "flowers": "White and small",
+        "usage": "Potion-making",
+        "status": "Extant"
+    },
+    {
+        "name": "Giant Purple Toad Wart",
+        "link": "/wiki/Giant_Purple_Toad_wart",
+        "description": "Difficult to extract, given the toads' tendency to disappear. Used in the Dragon Tonic.",
+        "fullDescription": "",
+        "madefrom": "Giant Purple Toads",
+        "characteristics": "Purple in colour",
+        "preparation": "Remove from toad with Knockback Jinx",
+        "usage": "Dragon Tonic"
+    },
+    {
+        "name": "Ginger",
+        "link": "/wiki/Ginger",
+        "description": "Root  Used in the WitSharpening Potion.",
+        "fullDescription": "Ginger (Zingiber officinale) is a flowering plant whose rhizome, ginger root is used in cooking as a highly-flavoured spice and in folk medicine. It was also used in Ginger Newts, and was also used as an ingredient in the brewing of several potions.",
+        "sentience": "Non-sentient",
+        "root": "Ginger root",
+        "distinction": "An highly-flavoured spice",
+        "usage": [
+            "Potion-making",
+            "Herbology",
+            "Food and drink",
+            "Healing magic"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Gomas Barbadensis",
+        "link": "/wiki/Gomas_Barbadensis",
+        "description": "Used in Sleekeazy's Hair Potion.",
+        "fullDescription": "",
+        "usage": "Sleekeazy's Hair Potion"
+    },
+    {
+        "name": "Goosegrass",
+        "link": "/wiki/Goosegrass",
+        "description": "Used for skin ailments and scurvy. May produce a red dye.",
+        "fullDescription": "",
+        "distinction": "Yellow in colour",
+        "usage": "Potion-making",
+        "status": "Extant"
+    },
+    {
+        "name": "Granian hair",
+        "link": "/wiki/Granian_hair",
+        "description": "Unknown effect.",
+        "fullDescription": "",
+        "madefrom": "Granian",
+        "characteristics": "Grey in colour",
+        "usage": "Exstimulo Potion"
+    },
+    {
+        "name": "Graphorn horn",
+        "link": "/wiki/Graphorn_horn",
+        "description": "The horn of the Graphorn, extremely expensive and an ingredient in the Antidote to Uncommon Poisons",
+        "fullDescription": "The golden horn of a Graphorn was highly prized as a potion ingredient when it was ground into a powder. It was extremely expensive due to the difficulty of obtaining it from the fierce and aggressive animal.",
+        "madefrom": "Graphorn",
+        "characteristics": "Made of gold",
+        "preparation": "Powdered",
+        "usage": "Antidote to Uncommon Poisons"
+    },
+    {
+        "name": "Gravy",
+        "link": "/wiki/Gravy",
+        "description": "Used in Fake protective potions.",
+        "fullDescription": "",
+        "manufacturer": [
+            "Hogwarts house-elves",
+            "Molly Weasley"
+        ],
+        "flavour": "Savoury",
+        "ingredients": "Meat and vegetable juices"
+    },
+    {
+        "name": "Griffin Claw",
+        "link": "/wiki/Griffin_claw",
+        "description": "When powdered, used in the Strengthening Solution.",
+        "fullDescription": "",
+        "madefrom": "Griffin",
+        "characteristics": "Black in colour",
+        "preparation": "Powdered",
+        "usage": "Strengthening Solution"
+    },
+    {
+        "name": "Gillyweed",
+        "link": "/wiki/Gillyweed",
+        "description": "When ingested, allows the user to grow gills and webbing between their fingers and toes. Unknown usage in potionmaking.",
+        "fullDescription": "Gillyweed was a magical plant that, when eaten, allowed a human to breathe underwater. It was said to resemble a bundle of slimy, grey-green rat tails. When eaten, it gave the consumer gills, allowing them to breathe underwater, and webbing between the fingers and toes, allowing them to swim underwater with ease. Gillyweed was native to the Mediterranean Sea.",
+        "native": "Mediterranean Sea",
+        "environment": "Salt water",
+        "sentience": "Non-sentient",
+        "root": "Green in colour",
+        "leaves": "Green in colour",
+        "distinction": [
+            "Grey-green in colour",
+            "Slimy",
+            "Resembles rat tails"
+        ],
+        "usage": [
+            "To help humans breathe underwater",
+            "potion-making",
+            "Herbology"
+        ],
+        "affiliation": "Water",
+        "status": "Extant"
+    },
+    {
+        "name": "Gnat Heads",
+        "link": "/wiki/Gnat_Heads",
+        "description": "Unknown effect.",
+        "fullDescription": "",
+        "madefrom": "Gnats",
+        "characteristics": "Extract was green in colour"
+    },
+    {
+        "name": "Gulf",
+        "link": "/wiki/Gulf",
+        "description": "Unknown effect.",
+        "fullDescription": "Gulf is a potion ingredient of unknown effect. Gulf is old English for \"throat\", and it is likely that, when it is referred to in the song \"Something Wicked This Way Comes\", it is referring to the gulf of a Witches' Mummy."
+    },
+    {
+        "name": "Gurdyroot",
+        "link": "/wiki/Gurdyroot",
+        "description": "Extract of  used in the Love Potion Antidote and Stamina Game.",
+        "fullDescription": "Gurdyroot was a magical plant resembling a green onion, and according to Luna Lovegood, it was excellent for warding off Gulping Plimpies.",
+        "sentience": "Non-sentient",
+        "distinction": [
+            "Resembles a green onion",
+            "Bogey-Like taste"
+        ],
+        "usage": [
+            "Wards off Gulping Plimpies (possibly; according to Luna Lovegood)",
+            "Extract of Gurdyroot used as potion ingredient in the Love Potion Antidote and Stamina Game"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Haliwinkles",
+        "link": "/wiki/Haliwinkles",
+        "description": "Unknown effect. Presumably a plant or animal.",
+        "fullDescription": "Haliwinkles was a potion ingredient of unknown origin and nature."
+    },
+    {
+        "name": "Hellebore",
+        "link": "/wiki/Hellebore",
+        "description": "Poisonous plant, used in the Syrup of , a potion ingredient in itself.",
+        "fullDescription": "",
+        "sentience": "Non-sentient",
+        "distinction": "Poisonous",
+        "usage": [
+            "Potion ingredient",
+            "Used in creation of Syrup of Hellebore"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Hemlock",
+        "link": "/wiki/Hemlock",
+        "description": "Poisonous plant, used in Doxycide.",
+        "fullDescription": "Hemlock is the common name of Conium maculatum, a perennial herbaceous flowering plant widely known for being highly poisonous.",
+        "sentience": "Non-sentient",
+        "root": "Green in colour",
+        "stem": "Green in colour",
+        "leaves": "Green in colour",
+        "flowers": "Small, white and clustered",
+        "distinction": "Highly poisonous",
+        "usage": "Ingredient in Doxycide",
+        "status": "Extant"
+    },
+    {
+        "name": "Herbaria",
+        "link": "/wiki/Herbaria",
+        "description": "Unknown effect.",
+        "fullDescription": "Herbaria was a potion or potion ingredient which was stored in a test tube by Professor Severus Snape in 1995 or 1996."
+    },
+    {
+        "name": "Hermit crab shell",
+        "link": "/wiki/Hermit_crab_shell",
+        "description": "Used in the Dawdle Draught.",
+        "fullDescription": "",
+        "madefrom": "Hermit crabs",
+        "characteristics": "Bronze in colour",
+        "usage": "Dawdle Draught"
+    },
+    {
+        "name": "Honey",
+        "link": "/wiki/Honey",
+        "description": "Used in water, in a variety of potions.",
+        "fullDescription": "Honey is a sweet substance made by bees from the nectar in flowers. It is consumed by humans as a foodstuff, and could also be used by wizards as a potion ingredient, especially when made into honeywater. Honey was a known component of Belch Powder; 2 pounds of honey, in the apothecaries' system of weights, were required ingredients. Home Made Yummy Honey was a type of honey made by Molly Weasley. The Glumbumble had a disastrous effect on the honey produced if it infested a beehive.",
+        "manufacturer": "Bees",
+        "flavour": "Sweet",
+        "ingredients": "Nectar"
+    },
+    {
+        "name": "Honeywater",
+        "link": "/wiki/Honeywater",
+        "description": "Drops are used in the Wiggenweld Potion, while larger quantities are used in the Volubilis Potion and the Antidote to Common Poisons.",
+        "fullDescription": "",
+        "madefrom": "Honey and water",
+        "characteristics": "Yellow in colour",
+        "preparation": "Shaken",
+        "usage": [
+            "Wiggenweld Potion",
+            "Volubilis Potion",
+            "Antidote to Common Poisons",
+            "Invigoration Draught",
+            "Strong Invigoration Draught"
+        ]
+    },
+    {
+        "name": "Horklump juice",
+        "link": "/wiki/Horklump_juice",
+        "description": "Used in a range of healing potions, including the Wiggenweld Potion, as well as the poisonous Herbicide Potion.",
+        "fullDescription": "",
+        "madefrom": "Horklumps",
+        "properties": "Healing properties",
+        "characteristics": "Red in colour",
+        "usage": [
+            "Wiggenweld Potion",
+            "Herbicide Potion",
+            "Draught of Perception"
+        ]
+    },
+    {
+        "name": "Horned slug",
+        "link": "/wiki/Horned_slug",
+        "description": "When stewed, used in the BoilCure Potion.",
+        "fullDescription": "",
+        "related": "Slug",
+        "mortality": "Mortal",
+        "distinction": [
+            "Black in colour",
+            "Horned",
+            "Used as potion ingredients"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Horned toad",
+        "link": "/wiki/Horned_toad",
+        "description": "Unknown effect.",
+        "fullDescription": "",
+        "related": "Toad",
+        "mortality": "Mortal",
+        "distinction": "Horned",
+        "affiliation": "Magical Menagerie",
+        "status": "Extant"
+    },
+    {
+        "name": "Horse hair",
+        "link": "/wiki/Horse_hair",
+        "description": "Unknown effect.",
+        "fullDescription": "",
+        "madefrom": "Horses",
+        "characteristics": "Varies in colour"
+    },
+    {
+        "name": "Horseradish",
+        "link": "/wiki/Horseradish",
+        "description": "Perennial plant; powdered ingredient in the Laughing Potion.",
+        "fullDescription": "Horseradish is one of the flavours in which Bertie Bott's Every Flavour Beans is available. It is also an ingredient in the Laughing Potion, when powdered.",
+        "related": [
+            "Broccoli",
+            "Wasabi",
+            "Mustard",
+            "Cabbage"
+        ],
+        "sentience": "Non-sentient",
+        "root": "Large and white",
+        "leaves": "Green",
+        "distinction": "Pungent smell",
+        "usage": [
+            "Culinary spice",
+            "Bertie Bott's Every Flavour Beans",
+            "Potion-making"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Howlet's Wing",
+        "link": "/wiki/Howlet%27s_Wing",
+        "description": "Unknown effect.",
+        "fullDescription": "",
+        "madefrom": "Howlet (owl)"
+    },
+    {
+        "name": "Iguana blood",
+        "link": "/wiki/Iguana_blood",
+        "description": "The blood of an Iguana, unknown effect and usage.",
+        "fullDescription": "",
+        "madefrom": "Iguanas",
+        "characteristics": "Red in colour"
+    },
+    {
+        "name": "Infusion of Wormwood",
+        "link": "/wiki/Infusion_of_Wormwood",
+        "description": "Used in Draught of Living Death, Elixir to Induce Euphoria, Shrinking Solution and Vitamix Potion.",
+        "fullDescription": "Infusion of Wormwood was a substance derived from the wormwood plant. A notable use of the infusion was that it could be used in potion making, along with Powdered Root of Asphodel, to create the Draught of Living Death. The infusion was also used to create the Elixir to Induce Euphoria, Vitamix Potion and the Shrinking Solution.",
+        "madefrom": "Wormwood",
+        "properties": "Poisonous",
+        "characteristics": "Green in colour",
+        "preparation": [
+            "Infused",
+            "Shaken"
+        ],
+        "usage": [
+            "Draught of Living Death",
+            "Elixir to Induce Euphoria",
+            "Shrinking Solution",
+            "Vitamix Potion"
+        ]
+    },
+    {
+        "name": "Jewelweed",
+        "link": "/wiki/Jewelweed",
+        "description": "Plant, used in Fergus Fungal Budge.",
+        "fullDescription": "",
+        "native": "Nearctic ecozone",
+        "sentience": "Non-sentient",
+        "stem": "Green",
+        "leaves": "Green",
+        "flowers": "Orange",
+        "usage": "Ingredient in Fergus Fungal Budge and Pepperup Potion",
+        "status": "Extant"
+    },
+    {
+        "name": "Jobberknoll feather",
+        "link": "/wiki/Jobberknoll_feather",
+        "description": "Used in Truth Serums and Memory Potions.",
+        "fullDescription": "",
+        "madefrom": "Jobberknolls",
+        "characteristics": "Blue in colour",
+        "usage": [
+            "Truth serums",
+            "Memory Potions",
+            "Potion No. 113"
+        ]
+    },
+    {
+        "name": "Kelp",
+        "link": "/wiki/Kelp",
+        "description": "Used in common Fertiliser.",
+        "fullDescription": "",
+        "environment": "Oceans",
+        "related": "Seaweed",
+        "sentience": "Non-sentient",
+        "leaves": "Green",
+        "usage": "Potion ingredient",
+        "status": "Extant"
+    },
+    {
+        "name": "Knarl quills",
+        "link": "/wiki/Knarl_quill",
+        "description": "Used in the Laughing Potion.",
+        "fullDescription": "Knarl quills were sharp spines which cover the Knarl, a magical beast which heavily resembled the hedgehog. They could be used as ingredients in the brewing of certain potions.",
+        "madefrom": "Knarls",
+        "characteristics": [
+            "Sharp spines",
+            "Brown in colour"
+        ],
+        "preparation": "Extracted with tweezers",
+        "usage": "Laughing Potion"
+    },
+    {
+        "name": "Kneazle hair",
+        "link": "/wiki/Kneazle_hair",
+        "description": "The hair of the Kneazle is used in the Rat Spleen Mixture.",
+        "fullDescription": "",
+        "madefrom": "Kneazles",
+        "usage": "Rat Spleen Mixture"
+    },
+    {
+        "name": "Knotgrass",
+        "link": "/wiki/Knotgrass",
+        "description": "Magical properties. Used in the Polyjuice Potion",
+        "fullDescription": "Knotgrass was a plant with magical properties. It was used in Potion-making, and was an essential ingredient in the making of the Polyjuice Potion and Invisibility Potion, as well as in the brewing of the alcoholic beverage Knotgrass Mead.",
+        "native": "Scotland",
+        "sentience": "Non-sentient",
+        "stem": "Green in colour",
+        "leaves": "Green in colour",
+        "flowers": "White in colour",
+        "usage": [
+            "Herbology",
+            "Potion-making",
+            "Knotgrass Mead"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Lacewing Fly",
+        "link": "/wiki/Lacewing_fly",
+        "description": "When stewed for 21 days, used in the Polyjuice Potion",
+        "fullDescription": "Lacewing flies, or just lacewings, are small green insects named for their large, transparent, laced wings. Lacewing flies were sold at the Magical Menagerie. Lacewing flies were an ingredient used in the Polyjuice Potion, where they must be stewed for twenty-one days. Lacewing flies were not on the Restricted Register.",
+        "eyes": "Green",
+        "skin": "Green",
+        "alias": "Lacewing",
+        "mortality": "Mortal",
+        "distinction": "Laced wings",
+        "status": "Extant"
+    },
+    {
+        "name": "Lady's Mantle",
+        "link": "/wiki/Lady%27s_Mantle",
+        "description": "A plant with magical properties. Used in Beautification Potion.",
+        "fullDescription": "",
+        "sentience": "Non-sentient",
+        "stem": "Green in colour",
+        "leaves": "Green in colour",
+        "flowers": "Yellow in colour",
+        "usage": "Potion-making",
+        "status": "Extant"
+    },
+    {
+        "name": "Lard",
+        "link": "/wiki/Lard",
+        "description": "Used in a fake version of panacea.",
+        "fullDescription": "",
+        "madefrom": "Fatty tissue of pigs",
+        "characteristics": "Semi-solid and white in colour",
+        "usage": [
+            "Cooking",
+            "Rogue alchemist's fake panacea"
+        ]
+    },
+    {
+        "name": "Lavender",
+        "link": "/wiki/Lavender",
+        "description": "Flower with calming influence and pleasant smell, used in the FireBreathing Potion and the Sleeping Draught.",
+        "fullDescription": "Lavender is a flower noted for its \"beautiful colour\" and \"calming fragrance\". It could be used as an ingredient in a variety of potions. It also had a variety of practical uses, including as an insect repellent.",
+        "sentience": "Non-sentient",
+        "stem": "Green",
+        "leaves": "Green",
+        "flowers": "Small, purple blossoms",
+        "distinction": "Pleasant smell",
+        "usage": [
+            "Sleeping Draught",
+            "Fire-Breathing Potion",
+            "Calming Draught",
+            "Potion for Dreamless Sleep",
+            "Insect repellent"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Leech",
+        "link": "/wiki/Leech",
+        "description": "Used in the Polyjuice Potion .",
+        "fullDescription": "Leeches are small slug-like invertebrates that live in water and feed on human blood or that of other small invertebrates. Leech spit contains an anticoagulant (a substance that prevents blood clotting), allowing them to feed for longer than blood would normally flow.",
+        "skin": "Black",
+        "mortality": "Mortal",
+        "distinction": [
+            "Live in water",
+            "Suck blood",
+            "Used in potions"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Leech Juice",
+        "link": "/wiki/Leech_juice",
+        "description": "Used in the Shrinking Solution.",
+        "fullDescription": "Leech juice was a fluid comprised of crushed and liquefied leeches.",
+        "madefrom": "Leeches",
+        "characteristics": "Yellow, purple or brown in colour",
+        "preparation": "Crush and liquefy the leeches",
+        "usage": [
+            "Shrinking Solution",
+            "Thunderbrew",
+            "Maxima Potion"
+        ]
+    },
+    {
+        "name": "Left handed nazle powder",
+        "link": "/wiki/Left_handed_nazle_powder",
+        "description": "Magical powder, unknown effect and usage.",
+        "fullDescription": "",
+        "properties": "Caused the consumer to become left handed (possibly)",
+        "characteristics": "Red/brown in colour"
+    },
+    {
+        "name": "Lethe River Water",
+        "link": "/wiki/Lethe_River_Water",
+        "description": "Used in Memory Potion.",
+        "fullDescription": "It possessed\u00a0magical\u00a0properties, which could cause\u00a0one to forget things, and was\u00a0thus used as an ingredient in the Forgetfulness Potion.",
+        "madefrom": "River Lethe",
+        "properties": "Causes forgetfulness",
+        "usage": "Forgetfulness Potion"
+    },
+    {
+        "name": "Lionfish",
+        "link": "/wiki/Lionfish",
+        "description": "Venomous fish, spines used as potion ingredient, as well as an powdered ingredient in the poisonous Potion N. 07.",
+        "fullDescription": "A lionfish was a venomous fish. They were notable for their extremely long and separated spines, and had a generally striped appearance, red, green, navy green, brown, orange, yellow, black, maroon, or white. Spine of Lionfish was part of a student's standard potion-making kit. Powdered Lionfish was also an ingredient in the poisonous Potion N. 07."
+    },
+    {
+        "name": "Lionfish Spine",
+        "link": "/wiki/Spine_of_Lionfish",
+        "description": "When crushed into powder or used whole, used in healing potions, including Wiggenweld Potion, and the Herbicide Potion",
+        "fullDescription": "Spine of Lionfish is the long and separated vertebrae of the lionfish. These spines were either used whole, or crushed into a powder. They could be used in the brewing of healing potions, such as the Wiggenweld Potion, and was also an ingredient of the Herbicide Potion. The ingredient could be bought from some shops, notably the Apothecary in Diagon Alley, at 2 Galleons for 16 bottles.",
+        "madefrom": "Lionfish",
+        "characteristics": "White in colour",
+        "preparation": "Powdered",
+        "usage": [
+            "Wiggenweld Potion",
+            "Herbicide Potion"
+        ]
+    },
+    {
+        "name": "Liquorice",
+        "link": "/wiki/Liquorice",
+        "description": "roots used in Love Potion Antidote.",
+        "fullDescription": "",
+        "sentience": "Non-sentient",
+        "root": "Brown in colour",
+        "distinction": "Edible",
+        "usage": [
+            "Sweets",
+            "Peppermint-licorice root tea",
+            "Love Potion Antidote"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Liver",
+        "link": "/wiki/Liver",
+        "description": "Offal of humans and animals, used in potions.",
+        "fullDescription": "",
+        "sold": "Leaky Cauldron",
+        "flavour": "Meaty"
+    },
+    {
+        "name": "Lizard's Leg",
+        "link": "/wiki/Lizard%27s_Leg",
+        "description": "The leg of a lizard, unknown effect and usage.",
+        "fullDescription": "",
+        "madefrom": "Lizard"
+    },
+    {
+        "name": "Lobalug Venom",
+        "link": "/wiki/Lobalug_venom",
+        "description": "The venom of a Lobalug, unknown effect and usage.",
+        "fullDescription": "",
+        "madefrom": "Lobalugs",
+        "properties": "Venomous",
+        "characteristics": "Black in colour"
+    },
+    {
+        "name": "Lovage",
+        "link": "/wiki/Lovage",
+        "description": "Used in the Confusing Concoction and Befuddlement Draught.",
+        "fullDescription": "Lovage (Levisticum officinale) is a plant similar to celery, whose fruit and seeds are used in cooking. It has been used in herbal medicines for centuries, especially to facilitate digestion.",
+        "sentience": "Non-sentient",
+        "stem": "Green",
+        "leaves": "Green",
+        "distinction": "Similar to celery",
+        "usage": [
+            "Used as an ingredient in Confusing and Befuddlement Draughts",
+            "Herbology"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Mackled Malaclaw tail",
+        "link": "/wiki/Mackled_Malaclaw_tail",
+        "description": "Tail of a Mackled Malaclaw, unknown effect and usage.",
+        "fullDescription": "",
+        "madefrom": "Mackled Malaclaw",
+        "properties": "Causes sickness when eaten",
+        "characteristics": "Grey with green spots"
+    },
+    {
+        "name": "Mallowsweet",
+        "link": "/wiki/Mallowsweet",
+        "description": "Magical herb with unknown effect and usage.",
+        "fullDescription": "",
+        "sentience": "Non-sentient",
+        "stem": "Green and yellow in colour",
+        "leaves": "Green and yellow in colour",
+        "flowers": "Orange in colour",
+        "usage": [
+            "To activate Trials of Merlin",
+            "Used by centaurs in their stargazing",
+            "By Madam Rosmerta, as an ingredient in her extra-sweet Butterbeer",
+            "Potion-making"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Mandrake",
+        "link": "/wiki/Mandrake",
+        "description": "\ufeff  Used in the  Restorative Draught.",
+        "fullDescription": "A Mandrake, also known as Mandragora, was a magical and sentient plant which had a root that looked like a human (like a baby when the plant is young, but maturing as the plant grows). When matured, its cry could be fatal to any person who heard it.",
+        "alias": "Mandragora",
+        "environment": "Soil",
+        "sentience": "Sentient",
+        "root": [
+            "Humanoid in shape and behaviour",
+            "Brown in colour"
+        ],
+        "stem": "Green in colour",
+        "leaves": "Green in colour",
+        "distinction": "Cries are fatal to anyone who hears it (seedlings' cries only cause unconsciousness)",
+        "usage": [
+            "Herbology",
+            "Prime ingredient for Mandrake Restorative Draught when stewed",
+            "Weapon"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Mandrake, stewed",
+        "link": "/wiki/Stewed_Mandrake",
+        "description": "Used in the Mandrake Restorative Draught, Wiggenweld Potion, Oculus Potion and Volubilis Potion.",
+        "fullDescription": "Stewed Mandrake was a potion ingredient, consisting of a Mandrake that had been stewed. It was a common, but powerful potion ingredient, and was most effective when it was shaken.",
+        "madefrom": "Matured Mandrakes",
+        "properties": "Returns transfigured or cursed individuals to their original state",
+        "characteristics": "Dark green in colour",
+        "preparation": [
+            "Stewed",
+            "Cut up"
+        ],
+        "usage": [
+            "Mandrake Restorative Draught",
+            "Wiggenweld Potion",
+            "Oculus Potion",
+            "Volubilis Potion",
+            "Blood-Replenishing Potion",
+            "Stewed Mandrake Quiche"
+        ]
+    },
+    {
+        "name": "Mandrake Root",
+        "link": "/wiki/Mandrake_Root",
+        "description": "Used in the Pepperup Potion.",
+        "fullDescription": "",
+        "madefrom": "Mandrakes",
+        "properties": "Healing/Restorative abilities",
+        "characteristics": "Brown in colour",
+        "usage": "Mandrake Restorative Draught"
+    },
+    {
+        "name": "Maw",
+        "link": "/wiki/Maw",
+        "description": "Unknown origin and effect.",
+        "fullDescription": "Maw is a potion ingredient of unknown effect. Maw is old English for \"mouth\", and it is likely that, when it is referred to in the song \"Something Wicked This Way Comes\", it is referring to the maw of a Witches' Mummy."
+    },
+    {
+        "name": "Mercury and Mars",
+        "link": "/wiki/Mercury_and_Mars",
+        "description": "Unknown usage, probably poisonous.",
+        "fullDescription": "Mercury probably refers to the poisonous liquid, while Mars may be a reference to Iron, since Mars represents the said Element in Alchemy.",
+        "properties": "Poisonous (possibly)"
+    },
+    {
+        "name": "Mistletoe Berry",
+        "link": "/wiki/Mistletoe_berry",
+        "description": "Used in the Antidote in Common Poisons.",
+        "fullDescription": "The berry of the mistletoe is small, white, and waxy, and also poisonous, thus unsafe to eat. It was used as an ingredient in potions, including the Antidote to Common Poisons and the Forgetfulness Potion.",
+        "madefrom": "Mistletoe",
+        "properties": "Poisonous",
+        "characteristics": [
+            "Small",
+            "White",
+            "Waxy"
+        ],
+        "preparation": "Crushed",
+        "usage": [
+            "Antidote to Common Poisons",
+            "Forgetfulness Potion",
+            "Holiday Blancmange"
+        ]
+    },
+    {
+        "name": "Mint",
+        "link": "/wiki/Mint",
+        "description": "Used in The Famous French Method for the Bite of a Mad Dog and the FireBreathing Potion.",
+        "fullDescription": "Mint has healing and cooling properties, and is used in wizarding remedies: dried mint leaves are used in the treatment of mad dog bites., as well as the Fire-Breathing Potion. Mint is also used to flavour certain sweets, such as mint humbugs and after-dinner mints.",
+        "native": "Europe, Asia, Africa, Australia, North America",
+        "sentience": "Non-sentient",
+        "stem": "Green",
+        "leaves": "Green",
+        "distinction": "Strong scent",
+        "usage": "Medicine, cuisine, potion ingredient",
+        "status": "Extant"
+    },
+    {
+        "name": "Moly",
+        "link": "/wiki/Moly",
+        "description": "Used in the Wiggenweld Potion.",
+        "fullDescription": "Moly was a powerful plant that could be eaten to counteract enchantments, and were also used as a potion ingredient, such as in the brewing of the Wiggenweld Potion. Moly plants were easily recognised by their distinctive black stems and white flowers.",
+        "sentience": "Non-sentient",
+        "stem": "Black",
+        "leaves": "Black",
+        "flowers": "White",
+        "usage": [
+            "Counteracts enchantments",
+            "Potion ingredient",
+            "Herbology"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Mongrel Dog",
+        "link": "/wiki/Mongrel_Dog",
+        "description": "fur  Used in the Edurus Potion",
+        "fullDescription": "Mongrels could be found in the Scottish Highlands in the 1890s. Their fur could be used to brew the Edurus Potion.",
+        "hair": "Grey in colour",
+        "related": "Dog",
+        "mortality": "Mortal",
+        "status": "Extant"
+    },
+    {
+        "name": "Moondew",
+        "link": "/wiki/Moondew",
+        "description": "Used in the Wiggenweld Potion, Draught of Living Death and Antidote to Common Poisons.",
+        "fullDescription": "It was also used in extra-sweet Butterbeer, concocted by Madam Rosmerta.",
+        "native": [
+            "Scotland",
+            "Ireland (possibly)"
+        ],
+        "sentience": "Non-sentient",
+        "stem": "Green in colour",
+        "flowers": "White in colour",
+        "usage": [
+            "Wiggenweld Potion",
+            "Draught of Living Death",
+            "Extra-sweet Butterbeer"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Moonseed",
+        "link": "/wiki/Moonseed",
+        "description": "Used in the  Poison.",
+        "fullDescription": "",
+        "native": "North America",
+        "stem": "Green",
+        "leaves": "Green",
+        "fruits": "Purple-black berries",
+        "distinction": [
+            "Poisonous",
+            "Shaped like a crescent moon"
+        ],
+        "usage": "Ingredient in Moonseed Poison",
+        "status": "Extant"
+    },
+    {
+        "name": "Moonstone",
+        "link": "/wiki/Moonstone",
+        "description": "Used in Draught of Peace, Love Potions, and Potion No. 86.",
+        "fullDescription": "Moonstone (also known as the wishing stone) is a gemstone of medium value. Moonstones were a milky colour and shine very brightly, almost as though they were a source of their own light. They were a useful potion ingredient; powdered moonstones were used as an ingredient for the Draught of Peace and in several love potions. Powdered moonstone was also an ingredient in Potion No. 86, which was likely an experimental potion. Moonstones were also used as an \"ingredient\" in conjuration magic.",
+        "alias": "Wishing stone",
+        "properties": "Could be used in conjuration",
+        "characteristics": [
+            "Milky colour or blue",
+            "Shine very brightly"
+        ],
+        "preparation": "Powdered",
+        "usage": [
+            "Draught of Peace",
+            "Love potions",
+            "Potion No. 86"
+        ]
+    },
+    {
+        "name": "Morning dew",
+        "link": "/wiki/Morning_dew",
+        "description": "Used in the Beautification Potion.",
+        "fullDescription": "Morning dew, also simply known as dew, is water that collects on the leaves of plants in the early morning due to condensation. Morning dew could be used as a potion ingredient; Zygmunt Budge used it in his version of the Beautification Potion.",
+        "madefrom": "Water collected on plants",
+        "alias": "Dew",
+        "characteristics": "Colourless",
+        "preparation": "Collected in the morning",
+        "usage": "Beautification Potion"
+    },
+    {
+        "name": "Motherwort",
+        "link": "/wiki/Motherwort",
+        "description": "Used in The Famous French Method for the Bite of a Mad Dog.",
+        "fullDescription": "Motherwort had healing properties and was used in wizarding remedies; motherwort was used in the treatment of mad dog bites.",
+        "native": "Worldwide",
+        "leaves": "Serrated margins",
+        "flowers": "Pink to lilac in colour",
+        "usage": "Medicine"
+    },
+    {
+        "name": "Murtlap tentacle",
+        "link": "/wiki/Murtlap_tentacle",
+        "description": "Used in Murtlap Essence and Felix Felicis.",
+        "fullDescription": "A Murtlap tentacle was a rare potion ingredient that could be obtained from the growth on the back of a Murtlap. When a Murtlap tentacle was eaten, they heightened resistance\u00a0to various dark charms, but an overdose had the side-effect of purple ear-hair. They were also known to possess healing\u00a0properties, and\u00a0were\u00a0used as an ingredient in the brewing of Murtlap Essence.",
+        "madefrom": "Murtlap",
+        "properties": [
+            "Healing properties",
+            "Heighten resistance to dark charms",
+            "Overdose causes purple ear hair"
+        ],
+        "characteristics": "Blue/purple in colour",
+        "preparation": "Strained and pickled",
+        "usage": [
+            "Murtlap Essence",
+            "Felix Felicis"
+        ]
+    },
+    {
+        "name": "Mushroom",
+        "link": "/wiki/Mushroom",
+        "description": "Various types of fungi can be used as potion ingredients.",
+        "fullDescription": "A mushroom, also known as a toadstool, is the spore producing part of a fungus, which is the portion of the organism visible above ground. Though some varieties were poisonous, other types of mushrooms were edible; saut\u00e9ed mushrooms were a part of the Traditional English Breakfast served at the Three Broomsticks Inn. Mushrooms could also be used as a potion ingredient.",
+        "alias": "Toadstool",
+        "environment": "Damp places",
+        "sentience": "Non-sentient",
+        "distinction": "Some varieties were poisonous",
+        "usage": [
+            "Potions",
+            "Food"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Nagini's venom",
+        "link": "/wiki/Nagini%27s_venom",
+        "description": "Used in the Rudimentary body potion.",
+        "fullDescription": "The venom produced from the snake-form of the Maledictus, Nagini, was an extremely potent poison that prevented the wounds of the victim from healing. This would lead to severe blood loss that must be compensated with a Blood-Replenishing Potion, or the blood loss severity would turn fatal. There was an antidote to it, though this remedy was apparently hard to find. The venom was capable of melting stitches, rendering it an ineffective treatment against it. Though the venom itself was harmful to living beings, it might have also been used as a potion ingredient that granted health benefits for the drinker, albeit the resultant state was so gruesome and miserable that it horrified all who bore witness to it.",
+        "madefrom": "Nagini",
+        "properties": "Highly poisonous and corrosive",
+        "preparation": "Milked",
+        "usage": "Rudimentary body potion"
+    },
+    {
+        "name": "Neem oil",
+        "link": "/wiki/Neem_oil",
+        "description": "Essential oil extracted from the seeds of the Neem tree, used in the Fergus Fungal Budge.",
+        "fullDescription": "",
+        "madefrom": "Neem tree",
+        "usage": "Fergus Fungal Budge"
+    },
+    {
+        "name": "Nettle",
+        "link": "/wiki/Nettle",
+        "description": "Dried s in Cure for Boils.",
+        "fullDescription": "The nettle, also known as the stinging nettle (Urtica diocia) or burn hazel, is a widespread plant known for the stinging hairs that grows on its leaves.",
+        "alias": [
+            "Stinging nettle",
+            "Burn hazel"
+        ],
+        "native": "Great Britain",
+        "environment": "Gardens",
+        "sentience": "Non-sentient",
+        "stem": "Green in colour",
+        "leaves": "Green, covered in stinging hairs",
+        "distinction": "Stinging hairs",
+        "usage": [
+            "Potion ingredient",
+            "Foodstuff in soups, tea, and wine",
+            "Improving glossiness of hair",
+            "Herbology"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Newt",
+        "link": "/wiki/Newt",
+        "description": "Eyes and spleen used as potion ingredients.",
+        "fullDescription": "It was used as a potion ingredient. It was an ingredient in a potion Harry Potter researched for the second task of the Triwizard Tournament. The eye and spleen of this creature were also commonly used as a potion ingredient (such as in the Ageing Potion, the former also being a phrase used by the Frog Choir in the song Something Wicked This Way Comes. The tail of this creature could supposedly be used as a protective device to protect the owner against the Dark Arts. Double-ended newts were a breed of newt with two heads that could be kept as a pet, which a wizard was instructed into by the saleswoman in the Magical Menagerie in 1993. Ginger Newts were a kind of biscuit sweet in the wizarding world, which Minerva McGonagall, the Transfiguration Professor at Hogwarts School of Witchcraft and Wizardry, owned a jar of. The Nastily Exhausting Wizarding Test was often abbreviated as \"N.E.W.T.\", likely a reference to this creature in much the same manner as the Ordinary Wizarding Level exams were abbreviated \"O.W.L.\" (owl).",
+        "eyes": "Various",
+        "skin": "Various",
+        "related": [
+            "Double-ended newt",
+            "Salamander",
+            "Frog",
+            "Toad"
+        ],
+        "native": "Northern hemisphere",
+        "height": "Various",
+        "length": "Various",
+        "mortality": "Mortal",
+        "distinction": "Closely resemble salamanders and lizards",
+        "status": "Extant"
+    },
+    {
+        "name": "Newt spleen",
+        "link": "/wiki/Newt_spleen",
+        "description": "Used in the Ageing Potion.",
+        "fullDescription": "",
+        "madefrom": "Newts",
+        "characteristics": [
+            "Red in colour",
+            "Slimy"
+        ],
+        "usage": [
+            "Ageing Potion",
+            "Wit-Sharpening Potion"
+        ]
+    },
+    {
+        "name": "Niffler's Fancy",
+        "link": "/wiki/Niffler%27s_Fancy",
+        "description": "Used in the Potion of All Potential.",
+        "fullDescription": "Niffler's Fancy was a rare plant with magical properties. It had gleaming leaves that shone like copper, and were thus named since Nifflers had an affinity for shiny objects. The shiny leaves of this plant were known to have been used as one of the earliest forms of wizarding currency, by primitive wizards. Perhaps because of this, Niffler's fancy was a rare plant, and its properties in potion-making were not well-known or studied; however, it was known that it was a powerfully magical potion ingredient, since it was one of the constituents of the Potion of All Potential.",
+        "native": "Enchanted garden",
+        "sentience": "Non-sentient",
+        "stem": "Dark green in colour",
+        "leaves": "Gleaming and copper-like",
+        "usage": [
+            "Primitive currency",
+            "Potion-making"
+        ],
+        "status": "Extant (though rare)"
+    },
+    {
+        "name": "Nightshade",
+        "link": "/wiki/Nightshade",
+        "description": "Plants with unknown effect and usage.",
+        "fullDescription": "",
+        "alias": "Solanaceae",
+        "sentience": "Non-sentient",
+        "usage": "Could be used in potion-making",
+        "status": "Extant"
+    },
+    {
+        "name": "Nux Myristica",
+        "link": "/wiki/Nux_Myristica",
+        "description": "Magical plant with unknown effects and usage.",
+        "fullDescription": "",
+        "sentience": "Non-sentient",
+        "root": "Brown in colour",
+        "usage": "Potion making",
+        "status": "Extant"
+    },
+    {
+        "name": "Occamy egg",
+        "link": "/wiki/Occamy_egg",
+        "description": "Used in Occamy Egg Yolk Shampoo and Felix Felicis.",
+        "fullDescription": "The egg of the Occamy had a shell made of pure silver, which accounted for why it was so much sought after. It also had lustre-giving properties and was rather nutritious to the hair. They were similar in size to ostrich eggs. Occamy egg shells were an essential ingredient for the brewing of Felix Felicis.",
+        "madefrom": "Occamy",
+        "properties": [
+            "Provided lustre",
+            "Nutritious for the hair"
+        ],
+        "characteristics": "Shell was pure silver",
+        "usage": [
+            "Felix Felicis",
+            "Occamy egg yolk shampoo"
+        ]
+    },
+    {
+        "name": "Octopus Powder",
+        "link": "/wiki/Octopus_Powder",
+        "description": "Used to strengthen potions.",
+        "fullDescription": "",
+        "madefrom": "Octopi",
+        "properties": "Strengthens potions",
+        "characteristics": "Purple in colour",
+        "preparation": "Dried and powdered"
+    },
+    {
+        "name": "Onion juice",
+        "link": "/wiki/Onion_juice",
+        "description": "Used in Fergus Fungal Budge.",
+        "fullDescription": "",
+        "madefrom": "Onions",
+        "properties": "Used as a seasoning",
+        "usage": "Fergus Fungal Budge"
+    },
+    {
+        "name": "Peacock feather",
+        "link": "/wiki/Peacock_feather",
+        "description": "Used in Dragon Tonic.",
+        "fullDescription": "Peacock feathers were the feathers of a peacock. They were used in Dragon Tonic. Also, quills could be made out of these feathers. Gilderoy Lockhart owned a peacock feather quill that he used for signing autographs, which matched his flamboyant nature.\u00a0Garrick Ollivander's peacock would lose its feathers if it got scared, and sold them at one Knut for each feather.",
+        "madefrom": "Peacocks",
+        "characteristics": "Colourful",
+        "usage": [
+            "Dragon Tonic",
+            "As quills"
+        ]
+    },
+    {
+        "name": "Pearl Dust",
+        "link": "/wiki/Pearl_Dust",
+        "description": "Used in Love Potions.",
+        "fullDescription": "Pearl Dust was an ingredient used in potion making. It was one of many ingredients that were often used in love potions, as well as the Potion of Invisibility. While love potions consisted of many ingredients, pearl dust was always found in them.",
+        "madefrom": "Pearls",
+        "properties": "Burned when exposed to Tincture of Demiguise",
+        "preparation": "Powdered",
+        "usage": [
+            "Love potions",
+            "Potion of Invisibility"
+        ]
+    },
+    {
+        "name": "Peppermint",
+        "link": "/wiki/Peppermint",
+        "description": "Sprigs used in the Elixir to Induce Euphoria.",
+        "fullDescription": "Peppermint is a mint plant.",
+        "sentience": "Non-sentient",
+        "stem": "Green in colour",
+        "leaves": "Green in colour",
+        "distinction": "Minty scent",
+        "usage": [
+            "Potion ingredient",
+            "Peppermint Toads",
+            "Peppermint Humbugs",
+            "Used to flavour foodstuffs",
+            "Flavour of Bertie Bott's Every Flavour Beans",
+            "Herbology",
+            "Tea"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Petroleum Jelly",
+        "link": "/wiki/Petroleum_Jelly",
+        "description": "Used in Sleekeazy's Hair Potion.",
+        "fullDescription": "",
+        "properties": "Skin ointment",
+        "usage": "Sleekeazy's Hair Potion"
+    },
+    {
+        "name": "Pickled Slugs",
+        "link": "/wiki/Pickled_Slugs",
+        "description": "Unknown effect and usage",
+        "fullDescription": "Pickled slugs\u00a0were\u00a0slugs that were presumably pickled in vinegar.",
+        "madefrom": "Slugs",
+        "preparation": "Pickled"
+    },
+    {
+        "name": "Plangentine",
+        "link": "/wiki/Plangentine",
+        "description": "Unknown effect and usage.",
+        "fullDescription": "A Plangentine was presumably either a magical fruit or a flower. Bathilda Bagshot stated that she first saw Ariana Dumbledore while out gathering Plangentines on a winter's night in Godric's Hollow.",
+        "native": "Godric's Hollow, West Country, England, Great Britain",
+        "status": "Extant"
+    },
+    {
+        "name": "Plantain",
+        "link": "/wiki/Plantain",
+        "description": "Used in The Famous French Method for the Bite of a Mad Dog.",
+        "fullDescription": "",
+        "native": "Europe, Asia",
+        "leaves": "Broad and flat, known to survive and even thrive under waggon wheels and on footpaths",
+        "usage": "Potion ingredient",
+        "status": "Extant"
+    },
+    {
+        "name": "Poison ivy",
+        "link": "/wiki/Poison_ivy",
+        "description": "Poisonous plant, unknown usage.",
+        "fullDescription": "Poison ivy is the common name of Toxicodendron radicans, a poisonous plant known for the production of a fluid that causes skin irritation. Poison ivy could be used in potions, and grew wild in the woods near the Quidditch World Cup Campsite.",
+        "native": "England",
+        "sentience": "Non-sentient",
+        "stem": "Green in colour",
+        "leaves": "Green in colour",
+        "distinction": "Poisonous; toxins secreted cause skin irritation",
+        "usage": "Potion ingredient",
+        "status": "Extant"
+    },
+    {
+        "name": "Polypody",
+        "link": "/wiki/Polypody",
+        "description": "Used in The Famous French Method for the Bite of a Mad Dog.",
+        "fullDescription": "",
+        "related": "Fern",
+        "sentience": "Non-sentient",
+        "leaves": "Thin and small",
+        "usage": "Medicine, ornamental",
+        "status": "Extant"
+    },
+    {
+        "name": "Pomegranate juice",
+        "link": "/wiki/Pomegranate_juice",
+        "description": "Unknown usage and effect.",
+        "fullDescription": "Pomegranate juice was juice made from the pomegranate fruit. It could be used in the brewing of certain potions.",
+        "madefrom": "Pomegranates",
+        "characteristics": "Red in colour"
+    },
+    {
+        "name": "Pond Slime",
+        "link": "/wiki/Pond_Slime",
+        "description": "Unknown usage and effect.",
+        "fullDescription": "A sign advertising Pond Slime could be found on Platform 9\u00be near the Hogwarts Express in the early 1990s. Horace Slughorn kept a tin of it in his personal stores.",
+        "madefrom": "Ponds",
+        "characteristics": "Slimy"
+    },
+    {
+        "name": "Poppy head",
+        "link": "/wiki/Poppy_head",
+        "description": "Unknown usage and effect.",
+        "fullDescription": "",
+        "madefrom": "Poppies",
+        "characteristics": "Brown in colour"
+    },
+    {
+        "name": "Powder of vipers-flesh",
+        "link": "/wiki/Powder_of_vipers-flesh",
+        "description": "Used in The Famous French Method for the Bite of a Mad Dog.",
+        "fullDescription": "This powder had healing properties, and was used in wizarding remedies: for example it was used in the treatment of mad dog bites.",
+        "madefrom": "Viper's flesh",
+        "properties": "Healing properties",
+        "preparation": "Powdered",
+        "usage": "The Famous French Method for the Bite of a Mad Dog"
+    },
+    {
+        "name": "Porcupine quill",
+        "link": "/wiki/Porcupine_quill",
+        "description": "Used in the Cure for Boils, Elixir to Induce Euphoria, HairRaising Potion and Draught of Peace.",
+        "fullDescription": "Porcupine quills were an ingredient in several potions, either whole or powdered, including the Cure for Boils and Elixir to Induce Euphoria. Quills that caused no harm were considered the best by potion-makers. The Porcupine Robe was a special type of robe made out of porcupine quills. It protected the wearer by hurting anyone who tried to physically attack them.",
+        "madefrom": "Porcupines",
+        "characteristics": "Long and black",
+        "preparation": "Powdered",
+        "usage": [
+            "Cure for Boils",
+            "Elixir to Induce Euphoria",
+            "Hair-Raising Potion",
+            "Draught of Peace"
+        ]
+    },
+    {
+        "name": "Pritcher's Porritch",
+        "link": "/wiki/Pritcher%27s_Porritch",
+        "description": "Used in the Potion of All Potential.",
+        "fullDescription": "Pritcher's Porritch was a rare plant with magical properties. It had distinctive pods, from which oozed a blue, thick, and lumpy substance. The magical properties of Preacher's Porritch had never been classified, although, rumour had it the plant was dangerous. However, it was known that it is a magically powerful potion ingredient, since it was one of the constituents of the Potion of All Potential.",
+        "native": "Enchanted garden",
+        "stem": "Green in colour with thorns",
+        "leaves": "Green in colour",
+        "distinction": "Pods which ooze a thick and lumpy blue substance",
+        "usage": "Potion-making",
+        "status": "Extant (though rare)"
+    },
+    {
+        "name": "Ptolemy",
+        "link": "/wiki/Ptolemy_(potion_ingredient)",
+        "description": "Blood red magical substance, unknown effect and usage.",
+        "fullDescription": "",
+        "characteristics": "Blood red in colour"
+    },
+    {
+        "name": "Puffer-fish",
+        "link": "/wiki/Puffer-fish",
+        "description": "Used in SkeleGro.",
+        "fullDescription": "It was a brown fish that could be found in the Black Lake of Hogwarts School of Witchcraft and Wizardry. The eyes of a Puffer-fish could be used as an ingredient in the Swelling Solution. Puffer-fish were also used as ingredients in the brewing of the healing potion Skele-Gro.",
+        "eyes": "Black",
+        "skin": "Brown",
+        "related": "Fish",
+        "mortality": "Mortal",
+        "distinction": "Inflates its body for defence",
+        "status": "Extant"
+    },
+    {
+        "name": "Puffer-fish Eyes",
+        "link": "/wiki/Puffer-fish_eyes",
+        "description": "Eyes of Pufferfish, used in the Swelling Solution.",
+        "fullDescription": "",
+        "madefrom": "Puffer-fish",
+        "characteristics": "Black in colour",
+        "preparation": "Crushed",
+        "usage": "Swelling Solution"
+    },
+    {
+        "name": "Puffskein hair",
+        "link": "/wiki/Puffskein_hair",
+        "description": "Hair of the Puffskein, used in the Laughing Potion.",
+        "fullDescription": "",
+        "madefrom": "Puffskeins",
+        "characteristics": "Yellow-coloured",
+        "preparation": "Trimmed with clippers from Puffskein",
+        "usage": "Laughing Potion"
+    },
+    {
+        "name": "Pungous Onion",
+        "link": "/wiki/Pungous_Onion",
+        "description": "Magical plant, used in the Cure for Boils.",
+        "fullDescription": "Pungous Onion was a magical plant comprised of a swathe of green leaves and an orange elongated bulb at the base. It was very pungent, and, because of this, contact with freshly chopped Pungous Onions was not advised. Chopping these onions seemed to create an eye irritation that made one cry. Pungous Onions had magical properties that made them useful as an ingredient in Potion-making: they were an ingredient in Zygmunt Budge's version of the Cure for Boils.",
+        "related": "Onion",
+        "sentience": "Non-sentient",
+        "root": "Elongated, orange bulb",
+        "leaves": "Green in colour",
+        "distinction": "Very pungent",
+        "usage": "Potion-making",
+        "status": "Extant"
+    },
+    {
+        "name": "Pus",
+        "link": "/wiki/Pus",
+        "description": "The pus of certain plants, such as Bubotubers, can be used as potion ingredients.",
+        "fullDescription": "Pus is a yellowish fluid that is secreted in the human when they have an infection, such as pimples, as a defence mechanism against the infection."
+    },
+    {
+        "name": "Rat spleen",
+        "link": "/wiki/Rat_spleen",
+        "description": "Used in Dragon dung Fertiliser, Shrinking Solution and the Rat Spleen Mixture.",
+        "fullDescription": "Rat spleens served as a common potion ingredient. They could be used whole or liquefied. They were a required ingredient in the Shrinking Solution and in dragon dung fertiliser.",
+        "madefrom": "Rats",
+        "characteristics": "Purple in colour",
+        "preparation": "Liquefied",
+        "usage": [
+            "Shrinking Solution",
+            "Dragon dung Fertiliser"
+        ]
+    },
+    {
+        "name": "Rat tail",
+        "link": "/wiki/Rat_tail",
+        "description": "Used in the HairRaising Potion.",
+        "fullDescription": "A rat tail is a the tail of a rat. It was a common potion ingredient and was used in the Hair-Raising Potion.",
+        "madefrom": "Rats",
+        "characteristics": "Resemble worms",
+        "usage": "Hair-Raising Potion"
+    },
+    {
+        "name": "Re'em blood",
+        "link": "/wiki/Re%27em_blood",
+        "description": "Used in the Exstimulo Potion.",
+        "fullDescription": "",
+        "madefrom": "Re'em",
+        "properties": "Superhuman strength",
+        "characteristics": "Red in colour",
+        "usage": [
+            "Exstimulo Potion",
+            "Strong Exstimulo Potion",
+            "Potent Exstimulo Potion"
+        ]
+    },
+    {
+        "name": "Rose",
+        "link": "/wiki/Rose",
+        "description": "Common garden plant, with many of its parts used in potionmaking.",
+        "fullDescription": "The rose is the common name of a flowering shrub in the genus Rosa, of which over a hundred different species exist. The flowers come in a variety of different colours. The rose is considered a symbol of romance in many countries. Various parts of the plant were used as potion ingredients. Their petals were used in Zygmunt Budge's variation of the Beautification Potion, perfumes, and some varieties of Love Potion. Rose thorns could also be used in the latter, though, in the opinion of Zygmunt Budge, Love Potions made with the thorns tended to be more short-lasting and unstable. The charm Rose Growth caused roses to spontaneously grow. The Herbivicus Charm could also be used to rapidly accelerate the growth of roses.",
+        "sentience": "Non-sentient",
+        "stem": "Green",
+        "leaves": "Green",
+        "flowers": "Vary in colour",
+        "usage": [
+            "Garden plant",
+            "Petals, thorns and oil could be used as potion ingredients",
+            "Herbology"
+        ],
+        "affiliation": "Valentine's Day",
+        "status": "Extant"
+    },
+    {
+        "name": "Rose Petals",
+        "link": "/wiki/Rose_Petal",
+        "description": "Used in the Beautification Potion and Love Potions.",
+        "fullDescription": "Rose Petals are the petals of a Rose (genus Rosa). They have magical proprieties and are used as an ingredient in Beautification Potions, and for Love Potions. Zygmunt Budge preferred to use the petals of a rose rather than the thorns in Love potions, as he felt that those made with thorns were of brief effect and unstable.",
+        "madefrom": "Roses",
+        "characteristics": "Red in colour",
+        "preparation": "Plucked fresh",
+        "usage": [
+            "Beautification Potion",
+            "Love potions"
+        ]
+    },
+    {
+        "name": "Rose thorn",
+        "link": "/wiki/Rose_thorn",
+        "description": "Used in Love Potions.",
+        "fullDescription": "Rose thorns were sharp, hard structures found on the stem of a rose. They had magical proprieties and were used as an ingredient for love potions, though Zygmunt Budge felt potions made with rose thorns were of brief effect and unstable, and preferred to use rose petals instead.",
+        "madefrom": "Roses",
+        "characteristics": [
+            "Brown in colour",
+            "Sharp, hard, prickly structures"
+        ],
+        "usage": "Love potions"
+    },
+    {
+        "name": "Rose oil",
+        "link": "/wiki/Rose_oil",
+        "description": "Essential oil of the Rose plant, unknown effect and usage.",
+        "fullDescription": "Rose oil is an essential oil extracted from Rose Petals. It was used as a potion ingredient and sold at the apothecary in Diagon Alley for 8 galleons a bottle.",
+        "madefrom": "Rose Petals",
+        "characteristics": "Pink in colour"
+    },
+    {
+        "name": "Rotten egg",
+        "link": "/wiki/Rotten_egg",
+        "description": "Decomposed eggs, unknown effects and usage.",
+        "fullDescription": "",
+        "characteristics": [
+            "Decomposing",
+            "Foul odour",
+            "Often poisonous"
+        ],
+        "usage": [
+            "Potion-making",
+            "Bertie Bott's Every Flavour Beans"
+        ]
+    },
+    {
+        "name": "Rue",
+        "link": "/wiki/Rue",
+        "description": "Evergreen shrubs, with healing properties: essence used to recover from poisoning, as well as an ingredient in The Famous French Method for the Bite of a Mad Dog and Felix Felicis.",
+        "fullDescription": "Rue, also known as common rue, is a kind of evergreen shrubs native to the Mediterranean region, Macaronesia and southwest Asia, with a distinctive bitter taste. Rue has healing properties, and is used in wizarding remedies: essence of rue is used to recover after poisoning, and it is also used in the treatment of mad dog bites and Felix Felicis.",
+        "native": "Mediterranean region, Macaronesia and southwest Asia",
+        "sentience": "Non-sentient",
+        "leaves": "Feathery appearance; green to strongly glaucous blue-green in colour",
+        "flowers": "Yellow, with 4\u20135 petals, about 1 cm diameter, and borne in cymes",
+        "fruits": "Lobed capsules with seeds",
+        "usage": [
+            "To recover from poisoning",
+            "Potion ingredient in The Famous French Method for the Bite of a Mad Dog and Felix Felicis"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Runespoor egg",
+        "link": "/wiki/Runespoor_egg",
+        "description": "Used in Baruffio's Brain Elixir.",
+        "fullDescription": "",
+        "madefrom": "Runespoor's mouth",
+        "properties": "Stimulate mental agility",
+        "characteristics": [
+            "Brown or red in colour",
+            "Round in shape"
+        ],
+        "usage": [
+            "Baruffio's Brain Elixir",
+            "Scintillation Solution"
+        ]
+    },
+    {
+        "name": "Russian's Dragon Nails",
+        "link": "/wiki/Russian%27s_Dragon_Nails",
+        "description": "Unknown effects and usage.",
+        "fullDescription": "",
+        "madefrom": "Dragon claws",
+        "characteristics": "Red in colour, spiky"
+    },
+    {
+        "name": "Sage",
+        "link": "/wiki/Sage",
+        "description": "A herb, used in its powdered form in the Memory Potion.",
+        "fullDescription": "Sage is a herb that had both magical and mundane uses, such as divination. It was used by centaurs, along with Mallowsweet, to assist in their stargazing. They burned the herb and observe the flames and fumes produced. Sage was used in its powdered form in the Memory Potion.",
+        "sentience": "Non-sentient",
+        "stem": "Green",
+        "leaves": "Green",
+        "usage": [
+            "Divination",
+            "Potion ingredient"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Sal Ammoniac",
+        "link": "/wiki/Sal_Ammoniac",
+        "description": "Used in Panacea.",
+        "fullDescription": "",
+        "madefrom": "Ammonium chloride",
+        "characteristics": "Yellow in colour",
+        "usage": "Panacea"
+    },
+    {
+        "name": "Salamander blood",
+        "link": "/wiki/Salamander_blood",
+        "description": "Used in the Strengthening Solution and Wiggenweld Potion.",
+        "fullDescription": "Salamander blood was the blood of a Fire Dwelling Salamander. It has healing and rejuvenating properties, and as such could be used to brew strengthening potions, including the Strengthening Solution.",
+        "madefrom": "Fire Dwelling Salamander",
+        "properties": "Healed and rejuvenated",
+        "characteristics": "Scarlet red in colour",
+        "preparation": "Shaken",
+        "usage": [
+            "Strengthening Solution",
+            "Wiggenweld Potion",
+            "Fire Protection Potion"
+        ]
+    },
+    {
+        "name": "Salpeter",
+        "link": "/wiki/Salpeter",
+        "description": "Magical substance with unknown properties and effects.",
+        "fullDescription": "",
+        "characteristics": "Solid"
+    },
+    {
+        "name": "Salt",
+        "link": "/wiki/Salt",
+        "description": "Used in Panacea and in salt water.",
+        "fullDescription": "",
+        "flavour": "Salty",
+        "ingredients": "Sodium chloride"
+    },
+    {
+        "name": "Saltpetre",
+        "link": "/wiki/Saltpetre",
+        "description": "another term for Potassium nitrate, unknown effect and usage in potionmaking.",
+        "fullDescription": "",
+        "alias": "Potassium nitrate"
+    },
+    {
+        "name": "Salt water",
+        "link": "/wiki/Salt_water",
+        "description": "Used in the Treatment for scale rot.",
+        "fullDescription": "",
+        "madefrom": "Salt and water",
+        "usage": [
+            "Treatment for scale rot",
+            "Shell Shiner"
+        ]
+    },
+    {
+        "name": "Sardine",
+        "link": "/wiki/Sardine",
+        "description": "Fish, unknown usage and fish.",
+        "fullDescription": "A sardine was a small, oily fish related to herrings. Portuguese sardines could be bought from the Apothecary in Diagon Alley. Presumably, when conserved in olive oil, they could be used in Potion-making. It was also a flavour of Bertie Bott's Every Flavour Beans. Rubeus Hagrid was once the victim of a hex which made sardines come out of his nose.",
+        "manufacturer": "Portuguese sardines",
+        "sold": "Slug & Jiggers Apothecary",
+        "flavour": "Savoury"
+    },
+    {
+        "name": "Scale of Dragon",
+        "link": "/wiki/Scale_of_Dragon",
+        "description": "Scale of a dragon, unknown effect.",
+        "fullDescription": "",
+        "madefrom": "Dragons",
+        "characteristics": "Brown in colour",
+        "usage": "Baruffio's Brain Elixir"
+    },
+    {
+        "name": "Scarab beetle",
+        "link": "/wiki/Scarab_beetle",
+        "description": "Used in SkeleGro.",
+        "fullDescription": "The scarab beetle is an insect native to Egypt. The dung beetle is a type of scarab beetle.",
+        "skin": [
+            "Grey",
+            "Brown"
+        ],
+        "related": "Beetle",
+        "native": "Egypt",
+        "height": "Very small",
+        "mortality": "Mortal",
+        "distinction": "Used in potion-making",
+        "status": "Extant"
+    },
+    {
+        "name": "Scurvy grass",
+        "link": "/wiki/Scurvy_grass",
+        "description": "Used in Befuddlement Draught.",
+        "fullDescription": "Scurvy grass is a mundane plant with magical properties.",
+        "sentience": "Non-sentient",
+        "stem": "Green in colour",
+        "leaves": "Green in colour",
+        "flowers": "White in colour",
+        "usage": [
+            "Potion-making",
+            "Herbology"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Shrake spine",
+        "link": "/wiki/Shrake_spine",
+        "description": "Used in Zygmunt Budge's version of the Cure for Boils.",
+        "fullDescription": "",
+        "madefrom": "Shrake",
+        "characteristics": "Grey in colour",
+        "preparation": "Pickled",
+        "usage": [
+            "Cure for Boils",
+            "Rat Spleen Mixture"
+        ]
+    },
+    {
+        "name": "Shrivelfig",
+        "link": "/wiki/Shrivelfig",
+        "description": "Used in Elixir to Induce Euphoria and Shrinking Solution.",
+        "fullDescription": "The Shrivelfig was a magical plant, the best specimens of which were found in Abyssinia. The fruit of the Shrivelfig The flowers of the Shrivelfig grew inside the fruit, both of which were purple in colour. It was a deciduous plant, meaning that its leaves start to shed in autumn, and the plant is leafless during winter. However, due to its aggressive roots, the plant can still survive even in snowy conditions. The leaves had medicinal properties. When the fruit was skinned, which was actually the plant's flower and contained blossoms inside, it produced a purple liquid with potion-making properties. The Shrinking Solution,  the Elixir to Induce Euphoria, and the Thunderbrew were three potions for which Shrivelfigs were used in. The ingredient could be purchased at the Apothecary in Diagon Alley for three Galleons. Despite their healing properties, Shrivelfigs could not reverse the effects of curses.",
+        "native": "Abyssinia",
+        "sentience": "Non-sentient",
+        "root": "\"Aggressive\", allowing the plant to survive in any environment",
+        "leaves": [
+            "Deciduous, shed in the Autumn",
+            "Leaves have medicinal properties"
+        ],
+        "flowers": "Purple in colour",
+        "fruits": "Purple in colour",
+        "distinction": "Liquid in plant is purple",
+        "usage": [
+            "Herbology",
+            "Potion ingredient"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Silver",
+        "link": "/wiki/Silver",
+        "description": "Used in the Mixture of powdered silver and dittany.",
+        "fullDescription": "Silver (chemical symbol: Ag) is a dense, soft shiny grey metal with a high value as money, second only to gold, and is used in jewelery in both Muggle and wizarding world. The most common use for silver in the wizarding world was in the Sickle, though it was also used by goblins to create valuable armor."
+    },
+    {
+        "name": "Silverweed",
+        "link": "/wiki/Silverweed",
+        "description": "Plant in the Rose family, unknown effect and usage.",
+        "fullDescription": "",
+        "related": "Rose",
+        "sentience": "Non-sentient",
+        "distinction": "Yellow in colour",
+        "usage": "Used in potion-making",
+        "status": "Extant"
+    },
+    {
+        "name": "Sloth brain",
+        "link": "/wiki/Sloth_brain",
+        "description": "Mucus used in Draught of Living Death and Dragon dung Fertiliser.",
+        "fullDescription": "A sloth brain was the brain taken from a sloth, which was used as a potion ingredient. The mucus from the brain was a key ingredient in a Dragon dung Fertiliser.",
+        "madefrom": "Sloth",
+        "characteristics": "Pink in colour",
+        "preparation": "Mucus sometimes used separately",
+        "usage": [
+            "Draught of Living Death",
+            "Dragon Dung Fertiliser (mucus only)"
+        ]
+    },
+    {
+        "name": "Snake fang",
+        "link": "/wiki/Snake_fang",
+        "description": "Used in Cure for Boils, Wideye Potion and Strength Potion.",
+        "fullDescription": "",
+        "madefrom": "Non-venomous snakes",
+        "characteristics": "White in colour",
+        "preparation": "Powdered",
+        "usage": [
+            "Cure for Boils",
+            "Wideye Potion",
+            "Strength Potion"
+        ]
+    },
+    {
+        "name": "Snakeweed",
+        "link": "/wiki/Snakeweed",
+        "description": "Magical plant, unknown effect.",
+        "fullDescription": "One could buy jars of Purest Extract of Snakeweed at The Diagon Dispensary.",
+        "sentience": "Non-sentient",
+        "usage": [
+            "Potion-making",
+            "Snakeweed tea"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Sneezewort",
+        "link": "/wiki/Sneezewort",
+        "description": "Poisonous plant, used in the Befuddlement Draught.",
+        "fullDescription": "Sneezewort is a species of herbaceous perennial flowering plant in the genus Archillea.",
+        "native": "Great Britain",
+        "sentience": "Non-sentient",
+        "stem": "Green in colour",
+        "leaves": "Green in colour",
+        "flowers": "Snowy white",
+        "distinction": "Poisonous to cattle, sheep and horses",
+        "usage": [
+            "potion-making",
+            "Herbology"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Sopophorous bean",
+        "link": "/wiki/Sopophorous_bean",
+        "description": "Used in the Draught of Living Death",
+        "fullDescription": "The Sopophorous bean was the fruit of the Sopophorous plant; it was a shrivelled pearly-white bean which resembled an overgrown Mistletoe berry. It had many magical properties and was used as an ingredient in potion-making.",
+        "madefrom": "Sopophorous plant",
+        "properties": [
+            "Juice would remove drinker's memory",
+            "Induced sleep"
+        ],
+        "characteristics": [
+            "Pearly-white in colour",
+            "Difficult to cut",
+            "Juice was silver-coloured"
+        ],
+        "preparation": [
+            "Cut",
+            "Crushed"
+        ],
+        "usage": [
+            "Elixir to Induce Euphoria",
+            "Draught of Living Death",
+            "Dawdle Draught"
+        ]
+    },
+    {
+        "name": "Sopophorous plant",
+        "link": "/wiki/Sopophorous_plant",
+        "description": "Beans used as ingredients.",
+        "fullDescription": "The Sopophorous plant was a rare magical plant that sprouted in gloomy marshlands, especially if fertilised by Mooncalf dung. The Sopophorous plant had a spindly stem and large leaves with developed vascular tissue, which had a reddish tint. By the leaves grew bean pods, containing a single pearly-white bean that resembled an overgrown mistletoe berry. Sopophorous beans had powerful magical properties, and were used in Potion-making.",
+        "sentience": "Non-sentient",
+        "stem": "Spindly and green in colour",
+        "leaves": "Green in colour (with reddish tint)",
+        "fruits": "Sopophorous bean",
+        "usage": [
+            "Beans used in potions",
+            "Herbology"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Spiders",
+        "link": "/wiki/Spider",
+        "description": "Small arachnids, used in various potions with different effects.",
+        "fullDescription": "Spiders are eight-legged and eight-eyed arachnids. Spider Legs They are very common and come in many species, varying from region to region; all are carnivorous and some are venomous, but for the most part they are relatively harmless and could sometimes be used as a potion ingredient. The Acromantula The largest species of spider was the Acromantula, a wizard-bred species which also had the ability to speak, along with being extremely dangerous carnivores with a taste for human flesh. Spiders are known for spinning webs. The webs of the Acromantula were large and dome-shaped. Spiders of all sizes feared the Basilisk above all other things, which caused those at Hogwarts to flee into the Forbidden Forest in the 1992\u20131993 school year. Arania Exumai was the incantation for a charm that could be used to repel spiders by blasting them away, including Acromantulas. Spiders often inhabited dark environments, like the Cupboard Under the Stairs, Broomsheds, and even the Forbidden Forest.",
+        "eyes": "Black",
+        "hair": "Varies",
+        "related": [
+            "Acromantula",
+            "Scorpion"
+        ],
+        "native": "Worldwide",
+        "height": "Varies",
+        "length": "Varies",
+        "mortality": "Mortal",
+        "distinction": [
+            "Eight legs and eyes",
+            "Pincers",
+            "Carnivorous",
+            "Some species venomous"
+        ],
+        "class": "Varies",
+        "status": "Extant"
+    },
+    {
+        "name": "Spirit of Myrrh",
+        "link": "/wiki/Spirit_of_Myrrh",
+        "description": "Used in the The Famous French Method for the Bite of a Mad Dog.",
+        "fullDescription": "Spirit of Myrrh has disinfectant properties, and is used to clean the wounds in treatment of mad dog bites.",
+        "madefrom": "Myrrh",
+        "properties": "Disinfectant",
+        "preparation": "Distilled",
+        "usage": "The Famous French Method for the Bite of a Mad Dog"
+    },
+    {
+        "name": "Spleenwart",
+        "link": "/wiki/Spleenwart",
+        "description": "Magical plant, unknown effect and usage.",
+        "fullDescription": "Spleenwart was a magical plant. It was used as an ingredient in potions, and jars of Purifying Concentrate of Spleenwart could be bought at The Diagon Dispensary in Diagon Alley."
+    },
+    {
+        "name": "Squill",
+        "link": "/wiki/Squill",
+        "description": "Bulb of plant used as an ingredient in itself.",
+        "fullDescription": "Squill, also known as glory-of-the-snow (genus Scilla), are a number of brightly coloured flowering plants in the family Asparagaceae. The species goes dormant after flowering in the spring. Squill bulbs, which had Potion-making properties, are best harvested just after the plants flower. Squill were used by Muggles to manufacture cough medicines, while wizards used it as an ingredient for Felix Felicis \u2014 renowned Potioneer Zygmunt Budge remarked that it was perhaps the squill that gave Felix Felicis its smooth texture.",
+        "alias": "Glory-of-the-snow",
+        "sentience": "Non-sentient",
+        "stem": "Brown in colour",
+        "leaves": "Green in colour",
+        "flowers": "Blue in colour with white-eyes",
+        "usage": [
+            "Ingredient for Muggle cough medicines",
+            "Ingredient for Felix Felicis"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Squill bulb",
+        "link": "/wiki/Squill_bulb",
+        "description": "Bulb of the Squill plant, used in Felix Felicis.",
+        "fullDescription": "The bulb of the squill is a structure that functions as food storage organs during the dormant state of the plant. Squill bulbs had potion-making properties and were best harvested just after the plants flowered. Squill was used by Muggles to manufacture cough medicines, while wizards used it as an ingredient for Felix Felicis \u2014 renowned Potioneer Zygmunt Budge remarked that it was perhaps the squill that gave Felix Felicis its smooth texture.",
+        "madefrom": "Squills",
+        "characteristics": "Brown in colour",
+        "usage": [
+            "Ingredient for Muggle cough medicines",
+            "Ingredient for Felix Felicis"
+        ]
+    },
+    {
+        "name": "St John's-wort",
+        "link": "/wiki/St_John%27s-wort",
+        "description": "Used in The Famous French Method for the Bite of a Mad Dog.",
+        "fullDescription": "St John's-wort has  healing  properties, and is used in wizarding remedies: dried St John's-wort leaves are used in the treatment of mad dog bites.",
+        "environment": "Temperate and subtropical climates",
+        "sentience": "Non-sentient",
+        "stem": "Oblong, around 12 mm long",
+        "flowers": "Bright yellow in colour",
+        "usage": "Medicine, Potion-making"
+    },
+    {
+        "name": "Staghorn",
+        "link": "/wiki/Staghorn",
+        "description": "Fungi, unknown effects and usage.",
+        "fullDescription": "Rubeus Hagrid kept a jar of powdered staghorns in his hut.",
+        "related": "Mushroom",
+        "sentience": "Non-sentient",
+        "distinction": "Brown or yellow in colour",
+        "usage": "Potion-making",
+        "status": "Extant"
+    },
+    {
+        "name": "Standard Ingredient",
+        "link": "/wiki/Standard_Ingredient",
+        "description": "Dried herbs used as ingredient in many potions.",
+        "fullDescription": "",
+        "characteristics": "Mixture of dried herbs",
+        "preparation": "Powdered",
+        "usage": [
+            "Antidote to Common Poisons",
+            "Forgetfulness Potion",
+            "Herbicide Potion",
+            "Sleeping Draught",
+            "Wideye Potion"
+        ]
+    },
+    {
+        "name": "Star Grass",
+        "link": "/wiki/Star_Grass",
+        "description": "Medicinal herb used in the  Salve.",
+        "fullDescription": "",
+        "sentience": "Non-sentient",
+        "usage": "Ingredient in Star Grass Salve",
+        "status": "Extant"
+    },
+    {
+        "name": "Starthistle",
+        "link": "/wiki/Starthistle",
+        "description": "Magical plant, unknown effect and usage.",
+        "fullDescription": "",
+        "sentience": "Non-sentient",
+        "distinction": "White in colour",
+        "usage": "Potion-making",
+        "status": "Extant"
+    },
+    {
+        "name": "Stench of the Dead",
+        "link": "/wiki/Stench_of_the_Dead",
+        "description": "Essence of Inferius, used in Thunderbrew.",
+        "fullDescription": "",
+        "madefrom": "Inferius",
+        "usage": "Thunderbrew"
+    },
+    {
+        "name": "Streeler shells",
+        "link": "/wiki/Streeler_shell",
+        "description": "Highly poisonous shells of the Streeler, used in the brewing of Doxycide.",
+        "fullDescription": "",
+        "madefrom": "Streelers",
+        "properties": "Poisonous",
+        "characteristics": "Change colour every hour",
+        "preparation": "Must be handled with thick protective gloves.",
+        "usage": [
+            "Doxycide",
+            "Hair-Dying Potion"
+        ]
+    },
+    {
+        "name": "Sulphur Vive",
+        "link": "/wiki/Sulphur_Vive",
+        "description": "Used in the Panacea.",
+        "fullDescription": "",
+        "madefrom": "Sulphur",
+        "usage": "Panacea"
+    },
+    {
+        "name": "Syrup of Arnica",
+        "link": "/wiki/Syrup_of_Arnica",
+        "description": "Poisonous substance extracted from its plant, unknown effects and usage.",
+        "fullDescription": "",
+        "madefrom": "Arnica",
+        "properties": "Poisonous",
+        "usage": "Potion No. 113"
+    },
+    {
+        "name": "Syrup of Hellebore",
+        "link": "/wiki/Syrup_of_Hellebore",
+        "description": "Used in Draught of Peace, Volubilis Potion and Potion No. 86.",
+        "fullDescription": "",
+        "madefrom": "Hellebore",
+        "properties": "Poisonous (possibly)",
+        "characteristics": "Blue in colour",
+        "usage": [
+            "Draught of Peace",
+            "Volubilis Potion",
+            "Potion No. 86"
+        ]
+    },
+    {
+        "name": "Tar",
+        "link": "/wiki/Tar",
+        "description": "Used in the Treatment for scale rot.",
+        "fullDescription": "",
+        "madefrom": "Wood or coal",
+        "properties": "Flammable",
+        "characteristics": [
+            "Dark",
+            "Thick"
+        ],
+        "preparation": "Distilled",
+        "usage": "Treatment for scale rot"
+    },
+    {
+        "name": "Thaumatagoria",
+        "link": "/wiki/Thaumatagoria",
+        "description": "Used in the Potion of All Potential.",
+        "fullDescription": "Thaumatagoria was a rare magical plant, believed to be a myth by even the Potioneer Zygmunt Budge. It was rumoured to be capable of legendary magics, but quite how legendary was unknown, due to its mythical status. However, it was known that it was a magically powerful potion ingredient, most notably as one of the constituents of the Potion of All Potential.",
+        "native": "Enchanted garden",
+        "stem": "Dark in colour",
+        "flowers": "Blue in colour",
+        "usage": "Potion-making",
+        "status": "Extant (though rare)"
+    },
+    {
+        "name": "Thyme",
+        "link": "/wiki/Thyme",
+        "description": "Tincture of  used in Felix Felicis.",
+        "fullDescription": "",
+        "sentience": "Non-sentient",
+        "stem": "Green in colour",
+        "leaves": "Green in colour",
+        "usage": "Potion ingredient",
+        "status": "Extant"
+    },
+    {
+        "name": "Tincture of Demiguise",
+        "link": "/wiki/Tincture_of_Demiguise",
+        "description": "Substance extracted from Demiguises, unknown effect and usage.",
+        "fullDescription": "Tincture of Demiguise was a magical substance extracted from a Demiguise, used as an ingredient in potion-making, being an ingredient in the Potion of Invisibility and Draught of Perception. It would burn if reacted with Pearl Dust, and was also invisible to the naked eye.",
+        "madefrom": "Demiguise",
+        "properties": [
+            "Burned when reacted with Pearl Dust",
+            "Invisible to the naked eye"
+        ],
+        "characteristics": "Scarlet in colour",
+        "preparation": "Tinctured",
+        "usage": [
+            "Potion of Invisibility",
+            "Draught of Perception"
+        ]
+    },
+    {
+        "name": "Toe of Frog",
+        "link": "/wiki/Toe_of_Frog",
+        "description": "The toe of a frog, unknown effect and usage.",
+        "fullDescription": "",
+        "madefrom": "Frogs"
+    },
+    {
+        "name": "Tongue of Dog",
+        "link": "/wiki/Tongue_of_Dog",
+        "description": "The tongue of a dog, unknown effect and usage.",
+        "fullDescription": "",
+        "madefrom": "Dog",
+        "characteristics": "Pink in colour"
+    },
+    {
+        "name": "Tooth of Wolf",
+        "link": "/wiki/Tooth_of_Wolf",
+        "description": "The tooth of a wolf, unknown effect and usage.",
+        "fullDescription": "",
+        "madefrom": "Wolves"
+    },
+    {
+        "name": "Tormentil",
+        "link": "/wiki/Tormentil",
+        "description": "Used in Zygmunt Budge's version of Doxycide.",
+        "fullDescription": "",
+        "related": "Rose",
+        "sentience": "Non-sentient",
+        "stem": "Green in colour",
+        "leaves": "Green in colour",
+        "flowers": "Yellow in colour",
+        "usage": "Doxycide",
+        "status": "Extant"
+    },
+    {
+        "name": "Tubeworm",
+        "link": "/wiki/Tubeworm",
+        "description": "Wormlike aquatic creatures, unknown effect and usage.",
+        "fullDescription": "",
+        "mortality": "Mortal",
+        "distinction": [
+            "Secretes a protective tube around its body",
+            "Aquatic",
+            "Used as potion ingredient"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Turtle",
+        "link": "/wiki/Turtle",
+        "description": "Shell  Unknown effect and usage.",
+        "fullDescription": "",
+        "related": [
+            "Sea turtle",
+            "Tortoise"
+        ],
+        "mortality": "Mortal",
+        "status": "Extant"
+    },
+    {
+        "name": "Unicorn Blood",
+        "link": "/wiki/Unicorn_blood",
+        "description": "Used in the Rudimentary body potion.",
+        "fullDescription": "Unicorn blood was a thick, silvery magical substance that ran within a unicorn's veins. A Medieval tapestry depicting wizards slaying a unicorn, and collecting its blood The blood of a unicorn could be drunk in order to keep a person alive. However, the act of slaying a unicorn and drinking its blood would cause the drinker to suffer a cursed life, though the specifics of what this actually entailed were not well known. It was probably non-tradeable, since the sale of this substance was controlled by the British Ministry of Magic, making it strictly forbidden. Mr Mulpepper's Apothecary in Diagon Alley had a sign outside its door asking patrons not to inquire about it. Firenze and Harry Potter both believed that only those who had nothing to lose and everything to gain would dare drink unicorn blood. Unicorn blood was an ingredient for a potion that created a rudimentary body for a disembodied soul.",
+        "madefrom": "Unicorns",
+        "properties": "Kept drinker alive at the cost of a cursed life",
+        "characteristics": [
+            "Silver in colour",
+            "Thick consistency"
+        ],
+        "usage": "Rudimentary body potion"
+    },
+    {
+        "name": "Unicorn Hair",
+        "link": "/wiki/Unicorn_hair",
+        "description": "Used in the Beautification Potion",
+        "fullDescription": "Unicorn hair was a powerful magical substance with a variety of uses, originating on the body of a unicorn. It could be used as the core of wands. It was frequently shed from the creature.",
+        "madefrom": "Unicorns",
+        "properties": "Could bind bandages",
+        "characteristics": "Silver in colour",
+        "usage": [
+            "Beautification Potion",
+            "Potent Exstimulo Potion",
+            "Wand cores"
+        ]
+    },
+    {
+        "name": "Unicorn Horn",
+        "link": "/wiki/Unicorn_horn",
+        "description": "Used in the Antidote to Common Poisons, Draught of Peace and the Wiggenweld Potion.",
+        "fullDescription": "The horn of a unicorn had magical properties that made it a useful ingredient in potions, such as the Antidote to Common Poisons. In classical myths, unicorn horns had purification properties which were used to dissolve poisons. This could be why it was used in the Antidote to Common Poisons.",
+        "madefrom": "Unicorns",
+        "properties": "Purifying properties",
+        "characteristics": "White in colour",
+        "preparation": "Ground",
+        "usage": [
+            "Antidote to Common Poisons",
+            "Draught of Peace",
+            "Wiggenweld Potion",
+            "Oculus Potion",
+            "Blood-Replenishing Potion",
+            "Scintillation Solution"
+        ]
+    },
+    {
+        "name": "Urine",
+        "link": "/wiki/Urine",
+        "description": "Used in Panacea",
+        "fullDescription": "According to an alchemical work dating back to the 1550s, urine is used in the making of the perfect medicine, along with salt, vinegar, Sal Ammoniac and a particular Sulphur Vive. On 31 October 1992, Hermione Granger said that it was awful trying to have a pee with Moaning Myrtle wailing at you in her bathroom. Though its exact flavour varies on the person to be transformed into, on the whole, Alastor Moody expressed the opinion that the Polyjuice Potion tasted like \"goblin piss\".",
+        "madefrom": "The urethra of living creatures",
+        "characteristics": "Yellow-coloured",
+        "usage": "Panacea"
+    },
+    {
+        "name": "Valerian",
+        "link": "/wiki/Valerian",
+        "description": "Plant used in Forgetfulness Potion, Sleeping Draught and FireBreathing Potion.",
+        "fullDescription": "",
+        "sentience": "Non-sentient",
+        "stem": "Green",
+        "leaves": "Green",
+        "flowers": "White",
+        "usage": [
+            "Treacle fudge",
+            "Forgetfulness Potion",
+            "Sleeping Draught",
+            "Fire-Breathing Potion"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Valerian root",
+        "link": "/wiki/Valerian_root",
+        "description": "Root of plant used in Draught of Peace and Draught of Living Death.",
+        "fullDescription": "",
+        "madefrom": "Valerian",
+        "properties": "Sedative",
+        "characteristics": "Green/brown in colour",
+        "usage": [
+            "Draught of Peace",
+            "Draught of Living Death",
+            "Dawdle Draught"
+        ]
+    },
+    {
+        "name": "Venomous Tentacula",
+        "link": "/wiki/Venomous_Tentacula",
+        "description": "Poisonous and dangerous plant; essence of  used in the poisonous Potion N. 07, as well as leaves used as ingredients.",
+        "fullDescription": "The Venomous Tentacula (alternatively spelled Venemous Tentacula or Venomous Tentacular) was a green, spiky, toothsome magical plant with mobile vines that tried to grab living prey. A typical species of Venomous Tentacula The Venomous Tentacula expelled venom from its shoots, and its spikes were deadly. Its bite was highly venomous and could easily stun or kill. Its juice was also a less than lethal poison. This dangerous plant was used for student research in Herbology classes at Hogwarts School of Witchcraft and Wizardry, and they were taught and handled practically in the sixth year. Students were permitted to swear loudly if a Tentacula tried to strangle them during lessons. The Venomous Tentacula had a giant eyeless head with fangs, though the shape of its mouth tended to vary, along with the many leaves surrounding it. It also had many large vines as appendages that acted like arms, which may or may not have also had separate heads of their own at the ends. The Severing Charm could be used to both stun the plant and sever its vines. Occasionally, aside from biting, some forms of the plant could also fire spiky spore-like balls from their mouths at their targets. The Venomous Tentacula ate Chizpurfles, spitting out the carapace of one once they had eaten it.",
+        "alias": [
+            "Venemous Tentacula",
+            "Venomous Tentacular"
+        ],
+        "sentience": "Sentient to unknown degree",
+        "stem": "Green/brown in colour",
+        "leaves": [
+            "Green in colour",
+            "Stinging nettles"
+        ],
+        "food": [
+            "Chizpurfles",
+            "Doxies",
+            "Humans"
+        ],
+        "distinction": [
+            "Spiky, and red in colour",
+            "Mobile vines",
+            "Biting teeth",
+            "Strong Jaw",
+            "Venomous bite",
+            "Produces poisonous juice",
+            "Carnivorous"
+        ],
+        "usage": [
+            "Pets",
+            "Weapons",
+            "Potion-making"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Venomous Tentacula leaf",
+        "link": "/wiki/Venomous_Tentacula_leaf",
+        "description": "Leaves from the poisonous plant; unknown effect and usage but highly valuable on the market.",
+        "fullDescription": "The leaves of the Venomous Tentacula plant were very valuable. Horace Slughorn was known on at least one occasion to steal them from the Hogwarts greenhouses, stating that they were worth 10 Galleons a leaf to the right buyer. Leaves from an unhealthy specimen would not fetch very much money, but an experienced potioneer could brew some dragon dung fertiliser that would make the Tentacula healthy again.",
+        "madefrom": "Venomous Tentacula",
+        "characteristics": "Green in colour"
+    },
+    {
+        "name": "Vervain",
+        "link": "/wiki/Vervain",
+        "description": "Medicinal plant used in The Famous French Method for the Bite of a Mad Dog.",
+        "fullDescription": "Vervain has healing properties, and is used in wizarding remedies: it is used in the treatment of mad dog bites.",
+        "environment": "Gardens and woodland",
+        "sentience": "Non-sentient",
+        "stem": "Green",
+        "leaves": "Green",
+        "flowers": "Small and pink in colour, with dense spikes",
+        "usage": "Medicine",
+        "status": "Extant"
+    },
+    {
+        "name": "Vervain infusion",
+        "link": "/wiki/Vervain_infusion",
+        "description": "Preparation of Vervain, with healing properties.",
+        "fullDescription": "",
+        "madefrom": "Vervain",
+        "properties": "Healing properties",
+        "preparation": "Infused",
+        "usage": "Invigoration Draught"
+    },
+    {
+        "name": "Vinegar",
+        "link": "/wiki/Vinegar",
+        "description": "Used in Panacea.",
+        "fullDescription": "",
+        "madefrom": "Ethanol",
+        "characteristics": "Sour taste",
+        "usage": "Panacea"
+    },
+    {
+        "name": "Wartcap powder",
+        "link": "/wiki/Wartcap_powder",
+        "description": "Used in the Fire Protection Potion.",
+        "fullDescription": "Wartcap powder was a pulverised magical substance which caused the skin of a person who touched it to form a thick hard crust. It could be used in potions such as the Fire Protection Potion.",
+        "properties": "Gives skin hard crust",
+        "characteristics": "Beige in colour",
+        "preparation": "Powdered",
+        "usage": "Fire Protection Potion"
+    },
+    {
+        "name": "Wartizome",
+        "link": "/wiki/Wartizome",
+        "description": "Magical plant, unknown effect and usage.",
+        "fullDescription": "",
+        "usage": "Potion-making"
+    },
+    {
+        "name": "Water",
+        "link": "/wiki/Water",
+        "description": "Used as standard liquid component of all potions.",
+        "fullDescription": "Water is a colourless, odourless molecule consisting of two atoms of hydrogen and one of oxygen. Regular consumption of water is vital to the survival of humans and most other living organisms, and it has a number of other practical uses, including its use in bathing and cooking. It most often appears in the liquid form, but at high temperatures becomes a vapour, and when chilled becomes either ice, or snow when falling as precipitation. Water could be found in large amounts in lakes, such as the Black Lake, or in oceans, in which it takes the form of salt water, water with a heavy concentration of salt.",
+        "madefrom": "Hydrogen and oxygen (at the atomic level)",
+        "characteristics": [
+            "Colourless and odourless",
+            "Becomes ice or steam at extreme temperatures"
+        ],
+        "preparation": [
+            "Boiling",
+            "Freezing"
+        ],
+        "usage": [
+            "Most forms of life",
+            "Bathing",
+            "Cooking",
+            "Potion-making"
+        ]
+    },
+    {
+        "name": "White spirit",
+        "link": "/wiki/White_spirit",
+        "description": "Used in the Treatment for scale rot.",
+        "fullDescription": "",
+        "madefrom": "Paraffin",
+        "characteristics": "Clear",
+        "usage": "Treatment for scale rot"
+    },
+    {
+        "name": "White Wine",
+        "link": "/wiki/Wine",
+        "description": "Used as the liquid component in The Famous French Method for the Bite of a Mad Dog.",
+        "fullDescription": "Wine is an alcoholic beverage, typically made of fermented grape juice. The natural chemical balance of grapes is such that they can ferment without the addition of sugars, acids, enzymes or other nutrients. Wine is produced by fermenting crushed grapes using various types of yeast. It was served often in both the wizarding and Muggle worlds. Sherry is a known type of wine, along with many others. Sixth-years learnt how to turn vinegar to wine in Charms class. There existed a spell that could conjure a fountain of wine from the tip of a wand. White wine was also an ingredient in The Famous French Method for the Bite of a Mad Dog.",
+        "flavour": "Varies",
+        "ingredients": "Fermented grape juice"
+    },
+    {
+        "name": "Wiggenbush",
+        "link": "/wiki/Wiggenbush",
+        "description": "Plant with unknown effects and usage.",
+        "fullDescription": "Wiggenbush was a plant related to the magical rowan Wiggentree. The bark of the wiggenbush appeared to be used in potions, similar to Wiggentree bark.",
+        "related": "Wiggentree",
+        "distinction": "Produced wiggenbush bark",
+        "usage": "Its bark was probably used in potion-making",
+        "status": "Extant"
+    },
+    {
+        "name": "Wiggenbush bark",
+        "link": "/wiki/Wiggenbush_bark",
+        "description": "Bark of plant with unknown effects and usage.",
+        "fullDescription": "Wiggenbush bark was bark stripped from a Wiggenbush plant. It was most likely used in potion-making. Given the name, it was presumably in some manner related to the Wiggentree.",
+        "madefrom": "Wiggenbush"
+    },
+    {
+        "name": "Wiggentree",
+        "link": "/wiki/Wiggentree",
+        "description": "Protective plant, bark used as potion ingredient.",
+        "fullDescription": "The Wiggentree was a magical rowan. Its bark was used in potion-making (namely the Wiggenweld Potion) as well as its twigs, and was guarded by Bowtruckles. Anyone who touched the trunk of one of these trees would be protected from Dark creatures as long as they are doing so.",
+        "related": "Rowan",
+        "sentience": "Non-sentient",
+        "leaves": "Green in colour",
+        "distinction": "Guarded by bowtruckles",
+        "usage": [
+            "Bark used in potion-making",
+            "Protection from Dark creatures",
+            "Herbology"
+        ],
+        "affiliation": "Bowtruckles",
+        "status": "Extant"
+    },
+    {
+        "name": "Wiggentree bark",
+        "link": "/wiki/Wiggentree_bark",
+        "description": "Used in the Wiggenweld Potion.",
+        "fullDescription": "Wiggentree bark was the bark of the Wiggentree. Physical contact with Wiggentree bark provided magical protection from being harmed by Dark creatures. For this reason it was used as a potion ingredient, particularly in the aptly named Wiggenweld Potion. The fresher the bark was when used in potion-making, the more powerful its effects were, and only freshly-stripped bark could be used for the strongest Wiggenweld Potions.",
+        "madefrom": "Wiggentrees",
+        "properties": "Protection from Dark creatures",
+        "characteristics": "Brown in colour",
+        "preparation": "Freshly stripped",
+        "usage": "Wiggenweld Potion"
+    },
+    {
+        "name": "Witch's Ganglion",
+        "link": "/wiki/Witch%27s_Ganglion",
+        "description": "Used in the Potion of All Potential.",
+        "fullDescription": "Witch's Ganglion was a rare plant with magical properties. It had a distinctive blood-red bulb that throbbed. Witch's Ganglion was endemic to the Far East, and grew on ponds. It was of some rarity, since knowledge of it in the Western world was limited to anecdotes of wizards who journeyed East and encountered it; its magical properties were, as a result, vastly unknown, however, it was known that it was a powerfully magical potion ingredient, since it was one of the constituents of the Potion of All Potential.",
+        "native": [
+            "Enchanted garden",
+            "Far East"
+        ],
+        "root": "Throbbing blood-red bulb",
+        "leaves": "Green in colour",
+        "distinction": "Grows on ponds",
+        "usage": "Potion-making",
+        "status": "Extant (though rare)"
+    },
+    {
+        "name": "Witches' Mummy",
+        "link": "/wiki/Witches%27_Mummy",
+        "description": "Substance with unknown effect and usage.",
+        "fullDescription": "Witches' Mummy was a potion ingredient with an unknown effect. It could have referred to a mummy belonging to a witch, a mummy created by a witch, or possibly a mummified witch. The phrase is featured in the song \"Something Wicked This Way Comes.\""
+    },
+    {
+        "name": "Woodlice Extract 63",
+        "link": "/wiki/Woodlice_Extract_63",
+        "description": "Substance with unknown effect and usage.",
+        "fullDescription": "Woodlice Extract 63 could be used as a potion ingredient, and was sold at Slug & Jiggers Apothecary.",
+        "madefrom": "Woodlice",
+        "characteristics": "Yellow/green in colour"
+    },
+    {
+        "name": "Wood louse",
+        "link": "/wiki/Wood_louse",
+        "description": "Small insects with unknown effect and usage.",
+        "fullDescription": "Wood lice are crustaceans that live in trees. In appearance, they somewhat resemble grains of brown rice. They are a favourite food of Bowtruckles, and are offered to them by wizards and witches who wish to obtain wood from the tree they live in to use in making wands. Wood lice can also be used as potion ingredients.",
+        "skin": "Black",
+        "mortality": "Mortal",
+        "distinction": [
+            "Small crustaceans",
+            "Inhabit trees"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Wool of Bat",
+        "link": "/wiki/Wool_of_Bat",
+        "description": "Unknown effect and usage.",
+        "fullDescription": "",
+        "madefrom": "Bat"
+    },
+    {
+        "name": "Wormwood",
+        "link": "/wiki/Wormwood",
+        "description": "Bitter herb, essence and infusion of this plant used as common potion ingredients, plant itself used in Healing Potion.",
+        "fullDescription": "Wormwood (Artemisa absinthium) is a very bitter herb that had been used in potion-making since ancient times.",
+        "sentience": "Non-sentient",
+        "stem": "Green in colour",
+        "leaves": "Green in colour",
+        "flowers": "Yellow in colour",
+        "distinction": "Very bitter taste",
+        "usage": [
+            "Potion-making",
+            "Herbology",
+            "Medicine",
+            "Flea ridding"
+        ],
+        "status": "Extant"
+    },
+    {
+        "name": "Wormwood Essence",
+        "link": "/wiki/Wormwood_Essence",
+        "description": "Unknown effect and usage.",
+        "fullDescription": "",
+        "madefrom": "Wormwood",
+        "characteristics": "Yellow, brown or green in colour"
+    }
+]
