@@ -4,9 +4,24 @@
 
 ## Handige Links
 
-* [Open AI API reference](https://platform.openai.com/docs/api-reference)
-* [OpenAI Cookbook]([https://github.com/openai/openai-cookbook](https://github.com/openai/openai-cookbook "https://github.com/openai/openai-cookbook")
+### Azure Cognitive Search
+* [Retrieval Augmented Generation (RAG) in Azure Cognitive Search](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview) on Microsoft Learn
+* [Vector search in Azure Cognitive Search](https://learn.microsoft.com/en-us/azure/search/vector-search-overview) on Microsoft Learn
+* [Hybrid search using vectors and full text in Azure Cognitive Search](https://learn.microsoft.com/en-us/azure/search/hybrid-search-overview) on Microsoft Learn
+* [Introducing Vector Search in Azure Cognitive Search | Azure Friday](https://www.youtube.com/watch?v=Bd9LWW4cxEU) on YouTube
+  
+* **Demo's**
+  * Vector search (public preview) - Azure Cognitive Search  
+  [Azure/cognitive-search-vector-pr](https://github.com/azure/cognitive-search-vector-pr) on Github
+  * ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search  
+  [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) on Github
+
+
+### Open AI
 * [OpenAI pricing](https://openai.com/pricing)
+* [Open AI API reference](https://platform.openai.com/docs/api-reference)
+* [OpenAI Cookbook](https://github.com/openai/openai-cookbook) on GitHub
+
 
 
 ## Datasets
