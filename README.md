@@ -1,6 +1,21 @@
-# DevDay2023
+# DevDay2023 - OpenAI in practice
 
-4DotNet DevDay 2023
+De 4DotNet DevDay is een dag waarop we ons onderdompelen in nieuwe technologie en op dit moment kunnen we niet om AI heen. Large Language Models (LLMs) zoals GPT zijn een enorme hype, maar wat kun je er nu echt mee?
+
+We gaan aan de slag met OpenAI en Azure Cognitive Search om een Retrieval Augmented Generation (RAG) applicatie te bouwen. Met deze techniek maak je het mogelijk om vragen te stellen over je eigen data in natuurlijke taal en relevante antwoorden te genereren. 
+Dit is een hele practische toepassing van Large Language Models (LLM) en het is een van de eerste toepassingen die beschikbaar is voor het grote publiek. We gaan zien wat er komt kijken bij het voorbereiden van data, hoe AI integreert met search, en we gaan prompts engineeren in Jupyter notebooks.
+
+Om ons goed op weg te helpen komt Henk Boelman (Microsoft) 's morgens de concepten introduceren en daarna gaan we in teams zelf aan de slag. Aan het eind van de dag mag elk team presenteren wat ze geleerd en gemaakt hebben. 
+
+## Voorbereiding
+
+Om vlot van start te gaan is het handig als je wat dingen voorbereidt:
+
+* Zorg dat je laptop up-to-date is 
+* Update Visual Studio
+* Installeer [Visual Studio Code](https://code.visualstudio.com/)
+* Installeer [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
+* Zorg voor een Azure Subscription met tegoed via [My Visual Studio](https://my.visualstudio.com/Benefits)
 
 ## Handige Links
 
