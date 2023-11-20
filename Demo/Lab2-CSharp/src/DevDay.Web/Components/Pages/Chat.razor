@@ -1,0 +1,130 @@
+﻿@page "/chat"
+@using DevDay.Web.Services
+@using DevDay.Web.Models
+@using Markdig
+@attribute [StreamRendering(true)]
+@rendermode InteractiveServer
+
+<PageTitle>Chat</PageTitle>
+
+
+<div class="container py-5">
+
+    <div class="row d-flex justify-content-center">
+        <div class="col-md-12">
+
+            @if (_questionAndAnswerMap is { Count: 0 })
+            {
+
+                <h2>Vraag iets over een hotel vakantie</h2>
+                <div>
+                    <p>Je kan bijvoorbeeld vragen naar een hotel die kind-vriendelijk is, of een hotel met een privézwembad.</p>
+                    <p>Ook kan je vragen stellen over de prijs van een verblijf.</p>
+                </div>
+
+            }
+            else
+            {
+                @foreach (var ((question, askedOn), answer) in _questionAndAnswerMap)
+                {
+                    <div class="d-flex flex-row justify-content-start">
+                        <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-chat/ava3-bg.webp"
+                             alt="avatar 1" style="width: 45px; height: 100%;">
+                        <div>
+                            <p class="small p-2 ms-3 mb-1 rounded-3" style="background-color: #f5f6f7;">@question</p>
+                            <p class="small ms-3 mb-3 rounded-3 text-muted">@($"Asked at {askedOn:h:mm:ss tt} on {askedOn:M/dd/yy}")</p>
+                        </div>
+                    </div>
+
+
+                    <div class="d-flex flex-row justify-content-end">
+
+                        @if (answer is null)
+                        {
+                            <div>
+                                <p class="small p-2 me-3 mb-1 text-white rounded-3 bg-primary">
+                                    <Loading />
+                                </p>
+                            </div>
+                        }
+                        else
+                        {
+                            <div>
+                                <p class="small p-2 me-3 mb-1 text-white rounded-3 bg-primary">
+                                    @((MarkupString)answer)
+                                </p>
+                            </div>
+                            <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-chat/ava4-bg.webp"
+                                 alt="avatar 1" style="width: 45px; height: 100%;">
+                        }
+                    </div>
+                }
+            }
+
+
+            <div class="card-footer text-muted d-flex justify-content-start align-items-center p-3 my-5">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-chat/ava3-bg.webp"
+                     alt="avatar 3" style="width: 40px; height: 100%;">
+                <input type="text" class="form-control form-control-lg" @bind="_question" @onkeyup="OnKeyUp" placeholder="Type de vraag hier..." />
+                <a class="btn send ms-3" @onclick="OnSendPrompt" @onclick:preventDefault>
+                    <svg xmlns="http://www.w3.org/2000/svg" height="24" fill="currentColor" viewBox="0 -960 960 960" width="24"><path d="M120-160v-640l760 320-760 320Zm80-120 474-200-474-200v140l240 60-240 60v140Zm0 0v-400 400Z" /></svg>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    private readonly Dictionary<UserQuestion, string?> _questionAndAnswerMap = [];
+    private readonly MarkdownPipeline _pipeline = new MarkdownPipelineBuilder()
+        .ConfigureNewLine("\n")
+        .UseAdvancedExtensions()
+        .UseEmojiAndSmiley()
+        .UseSoftlineBreakAsHardlineBreak()
+        .Build();
+
+    private string _question = "";
+    private UserQuestion _currentQuestion;
+    private bool _isReceivingResponse = false;
+
+    [Inject] public required ApiPromptQueueClient PromptQueueClient { get; init; }
+
+    private void OnKeyUp(KeyboardEventArgs args)
+    {
+        if (args is { Key: "Enter", ShiftKey: false })
+        {
+            OnSendPrompt();
+        }
+    }
+
+    private void OnSendPrompt()
+    {
+        if (_isReceivingResponse || string.IsNullOrWhiteSpace(_question))
+        {
+            return;
+        }
+
+        _isReceivingResponse = true;
+        _currentQuestion = new(_question, DateTime.Now);
+        _questionAndAnswerMap[_currentQuestion] = null;
+
+        PromptQueueClient.Enqueue(
+            _question, response => InvokeAsync(() =>
+            {
+                var (_, responseText, isComplete) = response;
+                var html = Markdown.ToHtml(responseText, _pipeline);
+
+                _questionAndAnswerMap[_currentQuestion] = html;
+
+                _isReceivingResponse = isComplete is false;
+                if (isComplete)
+                {
+                    _question = "";
+                    _currentQuestion = default;
+                }
+
+                StateHasChanged();
+            }));
+    }
+
+}

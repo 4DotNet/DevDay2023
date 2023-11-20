@@ -1,0 +1,202 @@
+:root {
+    --bs-body-font-family: Neuzeit;
+}
+
+html {
+    height: 100%;
+    font-size: 50% !important;
+    font-family: Neuzeit;
+}
+
+    html body {
+        overflow-x: hidden;
+        overflow-y: scroll;
+        color: #101820;
+        height: 100%;
+        font-size: 1.8rem;
+        line-height: 2.7rem
+    }
+
+@media (min-width: 960px) {
+    html body {
+        font-size: 2rem;
+        line-height: 3rem
+    }
+}
+
+.home h1 {
+    font-weight: 400;
+    color: #1e22aa;
+    font-size: 4.2rem;
+    line-height: 4.6rem;
+    letter-spacing: -.15rem;
+    margin-top: 6rem;
+    margin-bottom: 6rem
+}
+
+.home .text {
+    margin: 0 0 3rem;
+}
+
+@media (min-width: 960px) {
+    .home h1 {
+        font-size: 9rem;
+        line-height: 9.9rem;
+        letter-spacing: -.3rem;
+        margin-top: 26.4rem;
+        margin-bottom: 20.8rem
+    }
+}
+
+h1:focus {
+    outline: none;
+}
+
+.button-group {
+    display: flex;
+    flex-wrap: wrap
+}
+
+    .button-group .btn {
+        margin: 0 0 1.8rem
+    }
+
+@media (min-width: 960px) {
+    .button-group .btn {
+        margin: 0 3rem 0 0
+    }
+}
+
+.button-group .btn:last-of-type {
+    margin: 0
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    padding: 0 3rem;
+    flex: 0 0 100%;
+    height: 6rem;
+    line-height: 5.6rem;
+    font-weight: 700;
+    text-decoration: none;
+    transition: all .2s ease-in-out;
+    font-size: 2rem;
+}
+
+.btn-primary {
+    color: #fff;
+    background-size: 100% 200%;
+    background-image: linear-gradient(180deg,#ce0f69 50%,#1e22aa 0)
+}
+
+    .btn-primary:hover {
+        background-position: 0 100%
+    }
+
+    .btn-primary.ghost {
+        border: 2px solid #ce0f69;
+        color: #ce0f69;
+        background-size: 100% 200%;
+        background-image: linear-gradient(180deg,#fff 50%,#ce0f69 0)
+    }
+
+        .btn-primary.ghost:hover {
+            background-position: 0 100%;
+            color: #fff
+        }
+
+.btn-secondary {
+    color: #fff;
+    background-size: 100% 200%;
+    background-image: linear-gradient(180deg,#ce0f69 50%,#1e22aa 0)
+}
+
+    .btn-secondary:hover {
+        background-position: 0 100%
+    }
+
+    .btn-secondary.ghost {
+        border: 2px solid #ce0f69;
+        color: #ce0f69;
+        background-size: 100% 200%;
+        background-image: linear-gradient(180deg,#fff 50%,#ce0f69 0)
+    }
+
+        .btn-secondary.ghost:hover {
+            background-position: 0 100%;
+            color: #fff
+        }
+
+@media (min-width: 960px) {
+    .btn {
+        align-self: flex-start;
+        flex: 0 0 auto;
+    }
+}
+
+.btn.send {
+    color: #ce0f69;
+}
+
+    .btn.send:hover {
+        color: #1e22aa;
+    }
+
+.form-control-lg {
+    min-height: calc(1.5em + 1rem + 2px);
+    padding: 0.5rem 1rem;
+    font-size: 2rem;
+    border-radius: 0.3rem;
+}
+
+.valid.modified:not([type=checkbox]) {
+    outline: 1px solid #26b050;
+}
+
+.invalid {
+    outline: 1px solid #e51840;
+}
+
+.validation-message {
+    color: #e51840;
+}
+
+.blazor-error-boundary {
+    background: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTYiIGhlaWdodD0iNDkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIG92ZXJmbG93PSJoaWRkZW4iPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDAiPjxyZWN0IHg9IjIzNSIgeT0iNTEiIHdpZHRoPSI1NiIgaGVpZ2h0PSI0OSIvPjwvY2xpcFBhdGg+PC9kZWZzPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMCkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0yMzUgLTUxKSI+PHBhdGggZD0iTTI2My41MDYgNTFDMjY0LjcxNyA1MSAyNjUuODEzIDUxLjQ4MzcgMjY2LjYwNiA1Mi4yNjU4TDI2Ny4wNTIgNTIuNzk4NyAyNjcuNTM5IDUzLjYyODMgMjkwLjE4NSA5Mi4xODMxIDI5MC41NDUgOTIuNzk1IDI5MC42NTYgOTIuOTk2QzI5MC44NzcgOTMuNTEzIDI5MSA5NC4wODE1IDI5MSA5NC42NzgyIDI5MSA5Ny4wNjUxIDI4OS4wMzggOTkgMjg2LjYxNyA5OUwyNDAuMzgzIDk5QzIzNy45NjMgOTkgMjM2IDk3LjA2NTEgMjM2IDk0LjY3ODIgMjM2IDk0LjM3OTkgMjM2LjAzMSA5NC4wODg2IDIzNi4wODkgOTMuODA3MkwyMzYuMzM4IDkzLjAxNjIgMjM2Ljg1OCA5Mi4xMzE0IDI1OS40NzMgNTMuNjI5NCAyNTkuOTYxIDUyLjc5ODUgMjYwLjQwNyA1Mi4yNjU4QzI2MS4yIDUxLjQ4MzcgMjYyLjI5NiA1MSAyNjMuNTA2IDUxWk0yNjMuNTg2IDY2LjAxODNDMjYwLjczNyA2Ni4wMTgzIDI1OS4zMTMgNjcuMTI0NSAyNTkuMzEzIDY5LjMzNyAyNTkuMzEzIDY5LjYxMDIgMjU5LjMzMiA2OS44NjA4IDI1OS4zNzEgNzAuMDg4N0wyNjEuNzk1IDg0LjAxNjEgMjY1LjM4IDg0LjAxNjEgMjY3LjgyMSA2OS43NDc1QzI2Ny44NiA2OS43MzA5IDI2Ny44NzkgNjkuNTg3NyAyNjcuODc5IDY5LjMxNzkgMjY3Ljg3OSA2Ny4xMTgyIDI2Ni40NDggNjYuMDE4MyAyNjMuNTg2IDY2LjAxODNaTTI2My41NzYgODYuMDU0N0MyNjEuMDQ5IDg2LjA1NDcgMjU5Ljc4NiA4Ny4zMDA1IDI1OS43ODYgODkuNzkyMSAyNTkuNzg2IDkyLjI4MzcgMjYxLjA0OSA5My41Mjk1IDI2My41NzYgOTMuNTI5NSAyNjYuMTE2IDkzLjUyOTUgMjY3LjM4NyA5Mi4yODM3IDI2Ny4zODcgODkuNzkyMSAyNjcuMzg3IDg3LjMwMDUgMjY2LjExNiA4Ni4wNTQ3IDI2My41NzYgODYuMDU0N1oiIGZpbGw9IiNGRkU1MDAiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPjwvZz48L3N2Zz4=) no-repeat 1rem/1.8rem, #b32121;
+    padding: 1rem 1rem 1rem 3.7rem;
+    color: white;
+}
+
+    .blazor-error-boundary::after {
+        content: "An error has occurred."
+    }
+
+@font-face {
+    font-family: Neuzeit;
+    src: url(/fonts/NeuzeitSLTStd-Book.eot);
+    src: url(/fonts/NeuzeitSLTStd-Book.eot?#iefix) format("embedded-opentype"),url(/fonts/NeuzeitSLTStd-Book.woff2) format("woff2"),url(/fonts/NeuzeitSLTStd-Book.woff) format("woff"),url(/fonts/euzeitSLTStd-Book.ttf) format("truetype"),url(/fonts/NeuzeitSLTStd-Book.svg#NeuzeitSLTStd-Book) format("svg");
+    font-weight: 400;
+    font-style: normal;
+    font-display: auto
+}
+
+@font-face {
+    font-family: Neuzeit;
+    src: url(/fonts/NeuzeitSLTStd-BookHeavy.eot);
+    src: url(/fonts/NeuzeitSLTStd-BookHeavy.eot?#iefix) format("embedded-opentype"),url(/fonts/NeuzeitSLTStd-BookHeavy.woff2) format("woff2"),url(/fonts/NeuzeitSLTStd-BookHeavy.woff) format("woff"),url(/fonts/NeuzeitSLTStd-BookHeavy.ttf) format("truetype"),url(/fonts/NeuzeitSLTStd-BookHeavy.svg#NeuzeitSLTStd-BookHeavy) format("svg");
+    font-weight: 900;
+    font-style: normal;
+    font-display: auto
+}
+
+@font-face {
+    font-family: "4dotnet";
+    src: url(/fonts/4dotnet.eot);
+    src: url(/fonts/4dotnet.eot?#iefix) format("embedded-opentype"),url(/fonts/4dotnet.woff) format("woff"),url(/fonts/4dotnet.ttf) format("truetype"),url(/fonts/4dotnet.svg#4dotnet) format("svg");
+    font-weight: 400;
+    font-style: normal;
+    font-display: auto
+}

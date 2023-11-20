@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/Azure/azure-dev/main/schemas/v1.0/azure.yaml.json
+
+name: 4dotnet-devday-csharp
+services:
+    api:
+        project: src\DevDay.ApiService
+        host: appservice
+        language: dotnet
+    web:
+        project: src\DevDay.Web
+        host: appservice
+        language: dotnet
+hooks:
+  postprovision:
+    windows:
+      shell: pwsh
+      continueOnError: false
+      interactive: true
+      run: ./scripts/prepenv.ps1
+    posix:
+      shell: sh
+      continueOnError: false
+      interactive: true
+      run: ./scripts/prepenv.sh
