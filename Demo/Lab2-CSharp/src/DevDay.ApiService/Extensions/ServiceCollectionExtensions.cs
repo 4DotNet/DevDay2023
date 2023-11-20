@@ -29,7 +29,7 @@ internal static class ServiceCollectionExtensions
         {
             var config = sp.GetRequiredService<IConfiguration>();
             var (openAiHost, openAiKey, azureOpenAiService) =
-                (config["OPENAI_HOST"], config["OPENAI_KEY"], config["AZURE_OPENAI_SERVICE"]);
+                (config["OPENAI_HOST"], config["OPENAI_API_KEY"], config["AZURE_OPENAI_SERVICE"]);
 
             if (openAiHost == "azure")
             {

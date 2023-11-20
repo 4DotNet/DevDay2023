@@ -46,6 +46,10 @@ internal static class ApplicationExtensions
     private static async Task<string> GenerateSearchTermAsync(OpenAIClient client, IConfiguration config, string prompt, CancellationToken cancellationToken)
     {
         var deploymentId = config["AZURE_OPENAI_CHATGPT_DEPLOYMENT"];
+        if (string.IsNullOrEmpty(deploymentId))
+        {
+            deploymentId = "gpt-3.5-turbo";
+        }
 
         var response = await client.GetChatCompletionsStreamingAsync(new ChatCompletionsOptions(deploymentId, [
             new ChatMessage(ChatRole.System, """
@@ -74,6 +78,10 @@ internal static class ApplicationExtensions
     private static async Task<ReadOnlyMemory<float>> GenerateEmbeddingAsync(OpenAIClient client, IConfiguration config, string searchTerm, CancellationToken cancellationToken)
     {
         var deploymentId = config["AZURE_OPENAI_EMB_DEPLOYMENT"];
+        if (string.IsNullOrEmpty(deploymentId))
+        {
+            deploymentId = "text-embedding-ada-002";
+        }
 
         var response =
             await client.GetEmbeddingsAsync(new EmbeddingsOptions(deploymentId, [searchTerm]), cancellationToken);
@@ -145,6 +153,11 @@ internal static class ApplicationExtensions
                     """);
 
         var deploymentId = config["AZURE_OPENAI_CHATGPT_DEPLOYMENT"];
+         if (string.IsNullOrEmpty(deploymentId))
+        {
+            deploymentId = "gpt-3.5-turbo";
+        }
+
         var response = await client.GetChatCompletionsStreamingAsync(new ChatCompletionsOptions(deploymentId, [
             new ChatMessage(ChatRole.System, builder.ToString()),
             new ChatMessage(ChatRole.User, prompt.Prompt)

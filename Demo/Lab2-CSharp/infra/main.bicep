@@ -11,7 +11,6 @@ param location string
 
 @allowed([ 'azure', 'openai' ])
 param openAiHost string // Set in main.parameters.json
-@secure()
 param openAiApiKey string = ''
 param openAiApiOrganization string = ''
 
@@ -74,16 +73,6 @@ module dashboard './shared/dashboard-web.bicep' = {
   }
   scope: rg
 }
-
-// module registry './shared/registry.bicep' = {
-//   name: 'registry'
-//   params: {
-//     location: location
-//     tags: tags
-//     name: '${abbrs.containerRegistryRegistries}${resourceToken}'
-//   }
-//   scope: rg
-// }
 
 module keyVault './shared/keyvault.bicep' = {
   name: 'keyvault'
@@ -195,8 +184,8 @@ module api './app/appservice.bicep' = {
       AZURE_OPENAI_CHATGPT_MODEL: chatGptModelName
       // Specific to Azure OpenAI
       AZURE_OPENAI_SERVICE: openAiHost == 'azure' ? openAi.outputs.endpoint : ''
-      AZURE_OPENAI_CHATGPT_DEPLOYMENT: chatGptDeploymentName
-      AZURE_OPENAI_EMB_DEPLOYMENT: embeddingDeploymentName
+      AZURE_OPENAI_CHATGPT_DEPLOYMENT: openAiHost == 'azure' ? chatGptDeploymentName : ''
+      AZURE_OPENAI_EMB_DEPLOYMENT: openAiHost == 'azure' ? embeddingDeploymentName : ''
       // Used only with non-Azure OpenAI deployments
       OPENAI_API_KEY: openAiApiKey
       OPENAI_ORGANIZATION: openAiApiOrganization
@@ -224,50 +213,6 @@ module web './app/appservice.bicep' = {
     }
   }
 }
-
-// module appsEnv './shared/apps-env.bicep' = {
-//   name: 'apps-env'
-//   params: {
-//     name: '${abbrs.appManagedEnvironments}${resourceToken}'
-//     location: location
-//     tags: tags
-//     applicationInsightsName: monitoring.outputs.applicationInsightsName
-//     logAnalyticsWorkspaceName: monitoring.outputs.logAnalyticsWorkspaceName
-//   }
-//   scope: rg
-// }
-
-// module api './app/containerapp.bicep' = {
-//   name: 'api'
-//   params: {
-//     name: '${abbrs.appContainerApps}api-${resourceToken}'
-//     location: location
-//     tags: union(tags, {'azd-service-name':  'api' })
-//     identityName: '${abbrs.managedIdentityUserAssignedIdentities}api-${resourceToken}'
-//     applicationInsightsName: monitoring.outputs.applicationInsightsName
-//     containerAppsEnvironmentName: appsEnv.outputs.name
-//     containerRegistryName: registry.outputs.name
-//     exists: apiExists
-//     appDefinition: apiDefinition
-//   }
-//   scope: rg
-// }
-
-// module web './app/containerapp.bicep' = {
-//   name: 'web'
-//   params: {
-//     name: '${abbrs.appContainerApps}web-${resourceToken}'
-//     location: location
-//     tags: union(tags, {'azd-service-name':  'web' })
-//     identityName: '${abbrs.managedIdentityUserAssignedIdentities}web-${resourceToken}'
-//     applicationInsightsName: monitoring.outputs.applicationInsightsName
-//     containerAppsEnvironmentName: appsEnv.outputs.name
-//     containerRegistryName: registry.outputs.name
-//     exists: webExists
-//     appDefinition: webDefinition
-//   }
-//   scope: rg
-// }
 
 // User roles
 
@@ -347,6 +292,10 @@ output AZURE_OPENAI_SERVICE string = (openAiHost == 'azure') ? openAi.outputs.en
 output AZURE_OPENAI_RESOURCE_GROUP string = (openAiHost == 'azure') ? rg.name : ''
 output AZURE_OPENAI_CHATGPT_DEPLOYMENT string = (openAiHost == 'azure') ? chatGptDeploymentName : ''
 output AZURE_OPENAI_EMB_DEPLOYMENT string = (openAiHost == 'azure') ? embeddingDeploymentName : ''
+
+// Used only with non-Azure OpenAI deployments
+output OPENAI_API_KEY string = (openAiHost == 'openai') ? openAiApiKey : ''
+output OPENAI_ORGANIZATION string = (openAiHost == 'openai') ? openAiApiOrganization : ''
 
 // Azure Search
 output AZURE_SEARCH_INDEX string = searchIndexName
