@@ -17,6 +17,10 @@ Om vlot van start te gaan is het handig als je wat dingen voorbereidt:
 * Installeer [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
 * Zorg voor een Azure Subscription met tegoed via [My Visual Studio](https://my.visualstudio.com/Benefits)
 
+## Codespaces
+
+Je kunt je eigen CodeSpace maken in deze repository en snel aan de slag gaan met OpenAI. De CodeSpace is een online omgeving waarin je kunt werken via Visual Studio Code. Je hebt alleen VisualStudio Code en een GitHub account nodig. Je hoeft verder niets te installeren op je eigen laptop. Klik op de groene knop `Code` en kies `Open with Codespaces`.
+
 ## Handige Links
 
 ### Azure Cognitive Search
